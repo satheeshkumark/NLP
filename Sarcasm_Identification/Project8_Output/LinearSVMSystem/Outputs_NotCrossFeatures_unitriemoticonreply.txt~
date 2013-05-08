@@ -1,0 +1,48 @@
+
+PNS------------------------------ not cross --------------------------- uni,tri,emoticon,reply,posneg polarity,total polarity
+Number of classes :  3
+Accuracy classes :  3
+################## Evaluation Results #############
+set([1, 2, 3])
+set([0, 1, 2])
+class name :  1
+Precision : 0.482532177568
+Recall : 0.7348
+class name :  2
+Precision : 0.524621212121
+Recall : 0.6094
+class name :  3
+Precision : 0.666666666667
+Recall : 0.2104
+Accuracy of Classifying Sarcastic Tweets ------------------  0.701733333333
+SVM_PredTrainFilename : data/SVMPred_PNS-tri-t.txt
+SVM Pred Train Class File Name : data/step2_PNSInputCorpus-tri-t-class.txt
+Number of classes : 3
+Number of Train examples : 15000
+Accuracy class : 3
+
+
+Reading model...done.
+Reading test examples... (3000 examples) done.
+Classifying test examples...done
+Runtime (without IO) in cpu-seconds: 0.00
+Average loss on test set: 50.8000
+Zero/one-error on test set: 50.80% (1476 correct, 1524 incorrect, 3000 total)
+
+
+
+Number of classes :  3
+Accuracy classes :  3
+################## Evaluation Results #############
+set([1, 2, 3])
+set([0, 1, 2])
+class name :  1
+Precision : 0.464309539693
+Recall : 0.696
+class name :  2
+Precision : 0.509046052632
+Recall : 0.619
+class name :  3
+Precision : 0.564912280702
+Recall : 0.161
+Accuracy of Classifying Sarcastic Tweets ------------------  0.679

@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+string="this is a story"
+array=($string)
+echo $array

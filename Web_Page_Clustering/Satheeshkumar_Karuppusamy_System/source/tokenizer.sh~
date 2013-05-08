@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+
+SOURCE_PATH='source/'
+PARSER_PATH='source/stanford-parser-2012-11-12/'
+TXT_FILES_PATH='data/webps/txt_web_pages/'
+TOKENIZED_FILES_PATH='data/webps/tokenized_web_pages/'
+
+for filename in $(find $TXT_FILES_PATH -type f -iname "*.out")
+	do
+		IFS='\/'	
+		patharray=($filename)
+		echo 'Processing ' $filename' ......'
+		lenparray=${#patharray[@]}
+		optdirname=${patharray[lenparray-4]}
+		optfilename=${patharray[lenparray-2]}
+		IFS=''
+		outputfilename=$TOKENIZED_FILES_PATH'/'$optdirname'/'$optfilename'.out'
+		java -cp $PARSER_PATH'/stanford-parser.jar' edu.stanford.nlp.process.PTBTokenizer -preserveLines $filename > $outputfilename 
+		echo
+	done

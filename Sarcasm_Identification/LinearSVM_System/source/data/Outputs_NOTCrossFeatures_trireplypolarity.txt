@@ -1,0 +1,224 @@
+Output PNS trigram,replyFeatureValue,polarityFeature values -- not cross
+
+Number of classes :  3
+Accuracy classes :  3
+################## Evaluation Results #############
+set([1, 2, 3])
+set([0, 1, 2])
+class name :  1
+Precision : 0.505203761755
+Recall : 0.8058
+class name :  2
+Precision : 0.560040363269
+Recall : 0.666
+class name :  3
+Precision : 0.965708989805
+Recall : 0.2084
+Accuracy of Classifying Sarcastic Tweets ------------------  0.733666666667
+SVM_PredTrainFilename : data/SVMPred_PNS-tri-t.txt
+SVM Pred Train Class File Name : data/step2_PNSInputCorpus-tri-t-class.txt
+Number of classes : 3
+Number of Train examples : 15000
+Accuracy class : 3
+
+
+Reading model...done.
+Reading test examples... (3000 examples) done.
+Classifying test examples...done
+Runtime (without IO) in cpu-seconds: 0.00
+Average loss on test set: 56.2667
+Zero/one-error on test set: 56.27% (1312 correct, 1688 incorrect, 3000 total)
+
+
+
+Number of classes :  3
+Accuracy classes :  3
+################## Evaluation Results #############
+set([1, 2, 3])
+set([0, 1, 2])
+class name :  1
+Precision : 0.407224958949
+Recall : 0.744
+class name :  2
+Precision : 0.483959670027
+Recall : 0.528
+class name :  3
+Precision : 0.487804878049
+Recall : 0.04
+Accuracy of Classifying Sarcastic Tweets ------------------  0.666
+
+
+
+Output PNS trigram,replyFeatureValue,polarityfeature values -- not cross
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.712734804657
+Recall : 0.9979
+class name :  2
+Precision : 0.978978978979
+Recall : 0.1956
+Accuracy of Classifying Sarcastic Tweets ------------------  0.730466666667
+SVM_PredTrainFilename : data/SVMPred_PNS-bi-t.txt
+SVM Pred Train Class File Name : data/step2_PNSInputCorpus-bi-t-class.txt
+Number of classes : 2
+Number of Train examples : 15000
+Accuracy class : 2
+
+
+Reading model...done.
+Reading test examples... (3000 examples) done.
+Classifying test examples...done
+Runtime (without IO) in cpu-seconds: 0.01
+Average loss on test set: 33.4333
+Zero/one-error on test set: 33.43% (1997 correct, 1003 incorrect, 3000 total)
+
+
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.66950017001
+Recall : 0.9845
+class name :  2
+Precision : 0.474576271186
+Recall : 0.028
+Accuracy of Classifying Sarcastic Tweets ------------------  0.665666666667
+
+Output NS trigram,replyFeatureValue,polarityfeature values -- not cross
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.713064713065
+Recall : 0.584
+class name :  2
+Precision : 0.647756138865
+Recall : 0.765
+Accuracy of Classifying Sarcastic Tweets ------------------  0.6745
+SVM_PredTrainFilename : data/SVMPred_NS-bi-t.txt
+SVM Pred Train Class File Name : data/step2_NSInputCorpus-bi-t-class.txt
+Number of classes : 2
+Number of Train examples : 10000
+Accuracy class : 2
+
+
+Reading model...done.
+Reading test examples... (2000 examples) done.
+Classifying test examples...done
+Runtime (without IO) in cpu-seconds: 0.00
+Average loss on test set: 40.2000
+Zero/one-error on test set: 40.20% (1196 correct, 804 incorrect, 2000 total)
+
+
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.6
+Recall : 0.588
+class name :  2
+Precision : 0.596078431373
+Recall : 0.608
+Accuracy of Classifying Sarcastic Tweets ------------------  0.598
+
+Output PS trigram,replyFeatureValue,polarityfeature values -- not cross
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.713064713065
+Recall : 0.584
+class name :  2
+Precision : 0.647756138865
+Recall : 0.765
+Accuracy of Classifying Sarcastic Tweets ------------------  0.6745
+SVM_PredTrainFilename : data/SVMPred_NS-bi-t.txt
+SVM Pred Train Class File Name : data/step2_NSInputCorpus-bi-t-class.txt
+Number of classes : 2
+Number of Train examples : 10000
+Accuracy class : 2
+
+
+Reading model...done.
+Reading test examples... (2000 examples) done.
+Classifying test examples...done
+Runtime (without IO) in cpu-seconds: 0.00
+Average loss on test set: 40.2000
+Zero/one-error on test set: 40.20% (1196 correct, 804 incorrect, 2000 total)
+
+
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.6
+Recall : 0.588
+class name :  2
+Precision : 0.596078431373
+Recall : 0.608
+Accuracy of Classifying Sarcastic Tweets ------------------  0.598
+
+
+Output PS trigram,replyFeatureValue,polarityfeature values -- not cross
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.624565469293
+Recall : 0.8624
+class name :  2
+Precision : 0.777777777778
+Recall : 0.4816
+Accuracy of Classifying Sarcastic Tweets ------------------  0.672
+SVM_PredTrainFilename : data/SVMPred_PS-bi-t.txt
+SVM Pred Train Class File Name : data/step2_PSInputCorpus-bi-t-class.txt
+Number of classes : 2
+Number of Train examples : 10000
+Accuracy class : 2
+
+
+Reading model...done.
+Reading test examples... (2000 examples) done.
+Classifying test examples...done
+Runtime (without IO) in cpu-seconds: 0.01
+Average loss on test set: 43.0500
+Zero/one-error on test set: 43.05% (1139 correct, 861 incorrect, 2000 total)
+
+
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.545217957059
+Recall : 0.838
+class name :  2
+Precision : 0.650107991361
+Recall : 0.301
+Accuracy of Classifying Sarcastic Tweets ------------------  0.5695
+

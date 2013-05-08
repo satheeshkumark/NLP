@@ -1,0 +1,158 @@
+Cross Unigram,bigram,trigram Feature Resulst - NS BI
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.669987349779
+Recall : 0.8474
+class name :  2
+Precision : 0.792437431991
+Recall : 0.5826
+Accuracy of Classifying Sarcastic Tweets ------------------  0.715
+SVM_PredTrainFilename : data/SVMPred_NS-bi-t.txt
+SVM Pred Train Class File Name : data/step2_NSInputCorpus-bi-t-class.txt
+Number of classes : 2
+Number of Train examples : 10000
+Accuracy class : 2
+
+
+Reading model...done.
+Reading test examples... (2000 examples) done.
+Classifying test examples...done
+Runtime (without IO) in cpu-seconds: 0.00
+Average loss on test set: 31.5500
+Zero/one-error on test set: 31.55% (1369 correct, 631 incorrect, 2000 total)
+
+
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.642471042471
+Recall : 0.832
+class name :  2
+Precision : 0.76170212766
+Recall : 0.537
+Accuracy of Classifying Sarcastic Tweets ------------------  0.6845
+
+
+
+Cross Unigram,bigram,trigram Feature Results - PS BI
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.797002366553
+Recall : 0.6062
+class name :  2
+Precision : 0.682265612393
+Recall : 0.8456
+Accuracy of Classifying Sarcastic Tweets ------------------  0.7259
+SVM_PredTrainFilename : data/SVMPred_PS-bi-t.txt
+SVM Pred Train Class File Name : data/step2_PSInputCorpus-bi-t-class.txt
+Number of classes : 2
+Number of Train examples : 10000
+Accuracy class : 2
+
+
+Reading model...done.
+Reading test examples... (2000 examples) done.
+Classifying test examples...done
+Runtime (without IO) in cpu-seconds: 0.02
+Average loss on test set: 32.8500
+Zero/one-error on test set: 32.85% (1343 correct, 657 incorrect, 2000 total)
+
+
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.728971962617
+Recall : 0.546
+class name :  2
+Precision : 0.637090327738
+Recall : 0.797
+Accuracy of Classifying Sarcastic Tweets ------------------  0.6715
+
+
+Cross Unigram Feature Results - PNS BI
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.689631127536
+Recall : 0.989
+class name :  2
+Precision : 0.833080424886
+Recall : 0.1098
+Accuracy of Classifying Sarcastic Tweets ------------------  0.695933333333
+SVM_PredTrainFilename : data/SVMPred_PNS-bi-t.txt
+SVM Pred Train Class File Name : data/step2_PNSInputCorpus-bi-t-class.txt
+Number of classes : 2
+Number of Train examples : 15000
+Accuracy class : 2
+
+
+Reading model...done.
+Reading test examples... (3000 examples) done.
+Classifying test examples...done
+Runtime (without IO) in cpu-seconds: 0.00
+Average loss on test set: 31.6333
+Zero/one-error on test set: 31.63% (2051 correct, 949 incorrect, 3000 total)
+
+
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.681645350847
+Recall : 0.986
+class name :  2
+Precision : 0.738317757009
+Recall : 0.079
+Accuracy of Classifying Sarcastic Tweets ------------------  0.683666666667
+
+
+Cross Unigram Feature Results - PNS TRI
+
+Train :
+Precision : 0.868708971554
+Recall : 0.0794
+class name :  2
+Precision : 0.778761061947
+Recall : 0.1232
+class name :  3
+Precision : 0.356384525887
+Recall : 0.9802
+Accuracy of Classifying Sarcastic Tweets ------------------  0.403333333333
+
+Test :
+class name :  1
+Precision : 0.736111111111
+Recall : 0.053
+class name :  2
+Precision : 0.71724137931
+Recall : 0.104
+class name :  3
+Precision : 0.352497305066
+Recall : 0.981
+Accuracy of Classifying Sarcastic Tweets ------------------  0.393
+

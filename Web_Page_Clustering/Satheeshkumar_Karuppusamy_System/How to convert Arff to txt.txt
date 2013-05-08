@@ -1,0 +1,1 @@
+java -cp weka.jar weka.core.converters.TextDirectoryLoader -dir '/home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/source/weka/weka-3-6-9/Cathie_Ely' > text_test.arff

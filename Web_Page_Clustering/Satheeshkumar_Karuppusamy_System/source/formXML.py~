@@ -1,0 +1,20 @@
+import codecs
+import codecs
+import string
+import re
+import sys
+
+inputfilename = sys.argv[1]
+outputfilename = inputfilename + '.out'
+
+fin = codecs.open(inputfilename)
+fout = codecs.open(outputfilename,'w')
+
+outputmap = dict()
+flag = 0
+datatag = '@'
+
+for inputline in fin :
+	inputline = inputline.strip('\r\n')
+	inputline = inputline.strip()
+		

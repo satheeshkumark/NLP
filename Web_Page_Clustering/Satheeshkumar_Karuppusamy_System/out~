@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clustering name=
+	<entity id = "0">
+		<doc rank="078" />
+	</entity>
+
+	<entity id = "1">
+		<doc rank="105" />
+	</entity>
+
+	<entity id = "2">
+		<doc rank="011" />
+	</entity>
+
+	<entity id = "3">
+		<doc rank="117" />
+	</entity>
+
+	<entity id = "4">
+		<doc rank="107" />
+	</entity>
+
+	<entity id = "5">
+		<doc rank="081" />
+	</entity>
+
+	<entity id = "6">
+		<doc rank="069" />
+	</entity>
+
+	<entity id = "7">
+		<doc rank="115" />
+		<doc rank="026" />
+		<doc rank="112" />
+		<doc rank="042" />
+		<doc rank="046" />
+		<doc rank="025" />
+	</entity>
+
+	<entity id = "8">
+		<doc rank="045" />
+		<doc rank="087" />
+		<doc rank="118" />
+		<doc rank="062" />
+		<doc rank="109" />
+		<doc rank="055" />
+		<doc rank="120" />
+	</entity>
+
+	<entity id = "9">
+		<doc rank="021" />
+		<doc rank="029" />
+		<doc rank="099" />
+		<doc rank="022" />
+		<doc rank="068" />
+		<doc rank="015" />
+		<doc rank="108" />
+		<doc rank="086" />
+		<doc rank="034" />
+		<doc rank="102" />
+		<doc rank="001" />
+		<doc rank="100" />
+		<doc rank="101" />
+		<doc rank="090" />
+		<doc rank="122" />
+		<doc rank="085" />
+		<doc rank="111" />
+		<doc rank="037" />
+		<doc rank="080" />
+		<doc rank="010" />
+		<doc rank="075" />
+		<doc rank="032" />
+		<doc rank="067" />
+		<doc rank="009" />
+		<doc rank="039" />
+		<doc rank="008" />
+		<doc rank="084" />
+		<doc rank="017" />
+		<doc rank="053" />
+		<doc rank="056" />
+		<doc rank="092" />
+		<doc rank="005" />
+		<doc rank="052" />
+		<doc rank="093" />
+		<doc rank="003" />
+		<doc rank="079" />
+		<doc rank="074" />
+		<doc rank="095" />
+		<doc rank="123" />
+		<doc rank="012" />
+		<doc rank="097" />
+		<doc rank="048" />
+		<doc rank="023" />
+		<doc rank="083" />
+		<doc rank="114" />
+		<doc rank="043" />
+		<doc rank="044" />
+		<doc rank="047" />
+		<doc rank="027" />
+		<doc rank="082" />
+		<doc rank="024" />
+		<doc rank="098" />
+		<doc rank="071" />
+		<doc rank="004" />
+		<doc rank="036" />
+		<doc rank="058" />
+		<doc rank="019" />
+		<doc rank="059" />
+		<doc rank="028" />
+		<doc rank="076" />
+		<doc rank="050" />
+		<doc rank="106" />
+		<doc rank="072" />
+		<doc rank="035" />
+		<doc rank="002" />
+		<doc rank="066" />
+		<doc rank="116" />
+		<doc rank="051" />
+		<doc rank="091" />
+		<doc rank="031" />
+		<doc rank="064" />
+		<doc rank="073" />
+		<doc rank="119" />
+		<doc rank="014" />
+		<doc rank="049" />
+		<doc rank="013" />
+		<doc rank="089" />
+		<doc rank="006" />
+		<doc rank="041" />
+		<doc rank="063" />
+		<doc rank="030" />
+		<doc rank="060" />
+		<doc rank="020" />
+		<doc rank="094" />
+		<doc rank="113" />
+		<doc rank="057" />
+		<doc rank="070" />
+		<doc rank="033" />
+		<doc rank="054" />
+		<doc rank="077" />
+		<doc rank="096" />
+	</entity>
+
+	<entity id = "10">
+		<doc rank="104" />
+		<doc rank="040" />
+	</entity>
+
+	<entity id = "11">
+		<doc rank="007" />
+	</entity>
+
+	<entity id = "12">
+		<doc rank="088" />
+	</entity>
+
+</clustering>

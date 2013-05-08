@@ -1,0 +1,57 @@
+####################### Main Script File which runs every other python files and other tools###################################################
+
+language_option=$1
+data_path='data/'
+script_path='scripts/' 
+tokenizer_path='../ark-tweet-nlp-0.3.2/'
+tagger_path='../ark-tweet-nlp-0.3.2/'
+inputFileStep1=data_path'input_step1.txt'
+inputFileStep2=data_path'input_step2.txt'
+inputFileStep3=data_path'input_step3.txt'
+inputFileStep4=data_path'input_step4.txt'
+inputFileStep5=data_path'input_step5.txt'
+
+filterScript='step1_FilterTweets.py'
+tokenizerScript='twokenize.sh'
+postProcessTokenizerScript='step3_PostProcess_Tokenized_Tweets.py'
+taggerScript='runTagger.sh'
+
+'''
+
+Input : File containing tweets extracted from Db - All the tweets which contain sentiment words
+Output : File with tweets containing sentiment tag at its end
+Description : Takes the input as the file with tweets from the database and outputs the tweets which ends with sentiment hashtags 
+
+'''
+
+python $script_path$filterScript $inputFileStep1 $language_option > $inputFileStep2 &&
+
+'''
+####################################################### CMU Tokenizer Toolkit ###########################################
+Input : Input file containing sentiment tweets
+Output : Tokenized File containing sentiment tweets
+Description : Takes the input as the file with sentiment tweets, gives the input to the CMU Tokenizer and outputs the file with tokenized tweets
+'''
+
+sh $tokenizer_path$tokenizerScript $inputFileStep2 > $inputFileStep3 &&
+
+'''
+
+Input : Tokened Tweets file from CMU Tweet tokenizer
+Output : File containing post processed tokenized output
+Description : Takes the input as the file with tokenized tweets by CMU tokenizer and outputs the post processed output
+
+'''
+
+python $postProcessTokenizerScript $inputFileStep3 > $inputFileStep4 &&
+
+'''
+####################################################### CMU Parser Toolkit ###########################################
+Input : Post Processed Input File containing Tokenized sentiment tweets
+Output : Parsed Un post Processed File containing the best parse for each tweet
+Description : Takes the input as the file with sentiment tweets, gives the input to the CMU Tokenizer and outputs the file with tokenized tweets
+'''
+
+python $tagger_path$taggerScript $inputFileStep4 > $inputFileStep5
+
+

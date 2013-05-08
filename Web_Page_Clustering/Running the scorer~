@@ -1,0 +1,9 @@
+SCORER_PATH='../scorer_1.1/'
+KEYS_DIR_PATH='../Satheeshkumar_Karuppusamy_Score/KeysDir/'
+SYS_DIR_PATH='../Satheeshkumar_Karuppusamy_Score/SystemsDir/'
+OUT_DIR_PATH='../OutputDir/'
+
+java -cp $SCORER_PATH'wepsEvaluation.jar' 'es.nlp.uned.weps.evaluation.SystemScorer' $KEYS_DIR_PATH $SYS_DIR_PATH $OUT_DIR_PATH -ALLMEASURES -AllInOne -OneInOne -Combined -average
+
+
+

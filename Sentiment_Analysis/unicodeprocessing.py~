@@ -1,0 +1,20 @@
+# -*- coding: utf-8 -*-
+from __future__ import unicode_literals
+import unicodedata
+import re
+import regex  # $ pip install regex
+
+word = "किशोरी"
+word1 = "😁"
+
+
+def test(re_):
+    assert re_.search("^\\w+$", word, flags=re_.UNICODE)
+
+print([unicodedata.category(cp) for cp in word])
+print([unicodedata.category(cp) for cp in word1])
+print(" ".join(ch for ch in regex.findall("\\X", word)))
+print(" ".join(ch for ch in regex.findall("\\X", word1)))
+assert all(regex.match("\\w$", c) for c in ["a", "\u093f", "\u0915"])
+test(regex)
+#test(re)  # fails

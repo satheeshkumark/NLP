@@ -1,0 +1,1860 @@
+@relation '_home_sat_Desktop_nlp_Satheeshkumar_Karuppusamy_Satheeshkumar_Karuppusamy_System_data_webps_tokenized_web_pages_Cathie_Ely-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-T-I-N0-L-S-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.NGramTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\" -max 2 -min 1_clustered'
+
+@attribute Instance_number numeric
+@attribute @@class@@ {001,000}
+@attribute + numeric
+@attribute '+ bill' numeric
+@attribute '+ doug' numeric
+@attribute '+ marta' numeric
+@attribute '+ susan' numeric
+@attribute '+ time' numeric
+@attribute '+ william' numeric
+@attribute - numeric
+@attribute '- reome' numeric
+@attribute '- schmidt' numeric
+@attribute '- shirts' numeric
+@attribute 0 numeric
+@attribute '0 cindy' numeric
+@attribute '0 clare' numeric
+@attribute '0 joy' numeric
+@attribute '0 linda' numeric
+@attribute '0 patrick' numeric
+@attribute '0 phillip' numeric
+@attribute '0 tricia' numeric
+@attribute 00 numeric
+@attribute '00 20' numeric
+@attribute '00 21' numeric
+@attribute '00 22' numeric
+@attribute '00 23' numeric
+@attribute '00 24' numeric
+@attribute '00 25' numeric
+@attribute '00 26' numeric
+@attribute '00 27' numeric
+@attribute '00 28' numeric
+@attribute '00 29' numeric
+@attribute '00 3' numeric
+@attribute '00 30' numeric
+@attribute '00 31' numeric
+@attribute '00 32' numeric
+@attribute '00 33' numeric
+@attribute '00 34' numeric
+@attribute '00 35' numeric
+@attribute '00 36' numeric
+@attribute '00 37' numeric
+@attribute '00 38' numeric
+@attribute '00 39' numeric
+@attribute '00 40' numeric
+@attribute '00 41' numeric
+@attribute '00 42' numeric
+@attribute '00 43' numeric
+@attribute '00 44' numeric
+@attribute '00 45' numeric
+@attribute '00 46' numeric
+@attribute '00 47' numeric
+@attribute '00 48' numeric
+@attribute '00 49' numeric
+@attribute '00 50' numeric
+@attribute '00 51' numeric
+@attribute '00 52' numeric
+@attribute '00 53' numeric
+@attribute '00 54' numeric
+@attribute '00 55' numeric
+@attribute '00 57' numeric
+@attribute '00 58' numeric
+@attribute '00 debbie' numeric
+@attribute '00 female' numeric
+@attribute '00 male' numeric
+@attribute 01 numeric
+@attribute '01 01' numeric
+@attribute '01 02' numeric
+@attribute '01 04' numeric
+@attribute '01 05' numeric
+@attribute '01 06' numeric
+@attribute '01 13' numeric
+@attribute '01 14' numeric
+@attribute '01 4' numeric
+@attribute '01 6' numeric
+@attribute '01 60' numeric
+@attribute '01 65' numeric
+@attribute '01 7' numeric
+@attribute '01 8' numeric
+@attribute '01 89' numeric
+@attribute '01 dorine' numeric
+@attribute 02 numeric
+@attribute '02 00' numeric
+@attribute '02 04' numeric
+@attribute '02 12' numeric
+@attribute '02 2' numeric
+@attribute '02 30' numeric
+@attribute '02 31' numeric
+@attribute '02 6' numeric
+@attribute '02 8' numeric
+@attribute '02 dave' numeric
+@attribute '02 debi' numeric
+@attribute '02 kim' numeric
+@attribute '02 male' numeric
+@attribute 03 numeric
+@attribute '03 05' numeric
+@attribute '03 1' numeric
+@attribute '03 bill' numeric
+@attribute '03 gary' numeric
+@attribute '03 leslie' numeric
+@attribute '03 renata' numeric
+@attribute '03 scott' numeric
+@attribute '03 sean' numeric
+@attribute '03 steve' numeric
+@attribute 04 numeric
+@attribute '04 2' numeric
+@attribute '04 4' numeric
+@attribute '04 6' numeric
+@attribute '04 debbie' numeric
+@attribute '04 mary' numeric
+@attribute '04 patti' numeric
+@attribute 05 numeric
+@attribute '05 2' numeric
+@attribute '05 3' numeric
+@attribute '05 37' numeric
+@attribute 06 numeric
+@attribute '06 2' numeric
+@attribute '06 29' numeric
+@attribute '06 orianna' numeric
+@attribute 07 numeric
+@attribute '07 0' numeric
+@attribute '07 2' numeric
+@attribute '07 3' numeric
+@attribute '07 76' numeric
+@attribute '07 andree' numeric
+@attribute '07 bob' numeric
+@attribute '07 garth' numeric
+@attribute '07 gene' numeric
+@attribute '07 mark' numeric
+@attribute 08 numeric
+@attribute '08 86' numeric
+@attribute 09 numeric
+@attribute '09 1' numeric
+@attribute '09 3' numeric
+@attribute '09 6' numeric
+@attribute '09 62' numeric
+@attribute '09 89' numeric
+@attribute '09 barbara' numeric
+@attribute '09 cheri' numeric
+@attribute 1 numeric
+@attribute '1 02' numeric
+@attribute '1 03' numeric
+@attribute '1 40' numeric
+@attribute '1 angie' numeric
+@attribute '1 bill' numeric
+@attribute '1 donna' numeric
+@attribute '1 female' numeric
+@attribute '1 james' numeric
+@attribute '1 jamie' numeric
+@attribute '1 katie' numeric
+@attribute '1 keith' numeric
+@attribute '1 laura' numeric
+@attribute '1 male' numeric
+@attribute '1 sarah' numeric
+@attribute '1 tammy' numeric
+@attribute 10 numeric
+@attribute '10 and' numeric
+@attribute '10 joseph' numeric
+@attribute '10 k' numeric
+@attribute '10 nancy' numeric
+@attribute 10k numeric
+@attribute '10k and' numeric
+@attribute '10k result' numeric
+@attribute 11 numeric
+@attribute '11 4' numeric
+@attribute '11 7' numeric
+@attribute '11 carrie' numeric
+@attribute '11 glenn' numeric
+@attribute '11 to' numeric
+@attribute 12 numeric
+@attribute '12 3' numeric
+@attribute '12 4' numeric
+@attribute '12 7' numeric
+@attribute 13 numeric
+@attribute '13 14' numeric
+@attribute '13 7' numeric
+@attribute '13 david' numeric
+@attribute '13 tracey' numeric
+@attribute 14 numeric
+@attribute '14 22' numeric
+@attribute '14 5' numeric
+@attribute '14 7' numeric
+@attribute '14 8' numeric
+@attribute '14 elaine' numeric
+@attribute '14 kay' numeric
+@attribute '14 kirk' numeric
+@attribute '14 tim' numeric
+@attribute 15 numeric
+@attribute '15 2' numeric
+@attribute '15 4' numeric
+@attribute '15 elizabeth' numeric
+@attribute '15 rick' numeric
+@attribute 16 numeric
+@attribute '16 81' numeric
+@attribute '16 bob' numeric
+@attribute '16 deborah' numeric
+@attribute 17 numeric
+@attribute '17 11' numeric
+@attribute '17 34' numeric
+@attribute '17 73' numeric
+@attribute '17 8' numeric
+@attribute '17 86' numeric
+@attribute 18 numeric
+@attribute '18 01' numeric
+@attribute '18 11' numeric
+@attribute '18 33' numeric
+@attribute '18 68' numeric
+@attribute '18 7' numeric
+@attribute 19 numeric
+@attribute '19 4' numeric
+@attribute '19 48' numeric
+@attribute '19 6' numeric
+@attribute '19 7' numeric
+@attribute '19 dj' numeric
+@attribute '19 eddie' numeric
+@attribute '19 hailey' numeric
+@attribute '19 jesse' numeric
+@attribute '19 shannon' numeric
+@attribute '19 time' numeric
+@attribute 2 numeric
+@attribute '2 10' numeric
+@attribute '2 10k' numeric
+@attribute '2 amanda' numeric
+@attribute '2 bernard' numeric
+@attribute '2 brian' numeric
+@attribute '2 eddie' numeric
+@attribute '2 female' numeric
+@attribute '2 harvey' numeric
+@attribute '2 james' numeric
+@attribute '2 jenn' numeric
+@attribute '2 kris' numeric
+@attribute '2 male' numeric
+@attribute '2 mary' numeric
+@attribute '2 noryce' numeric
+@attribute '2 patti' numeric
+@attribute '2 scott' numeric
+@attribute '2 susan' numeric
+@attribute '2 wendy' numeric
+@attribute 2-minute-website numeric
+@attribute '2-minute-website com' numeric
+@attribute 20 numeric
+@attribute '20 02' numeric
+@attribute '20 09' numeric
+@attribute '20 30' numeric
+@attribute '20 42' numeric
+@attribute '20 43' numeric
+@attribute '20 49' numeric
+@attribute '20 5' numeric
+@attribute '20 50' numeric
+@attribute '20 59' numeric
+@attribute '20 83' numeric
+@attribute '20 klaus' numeric
+@attribute '20 randy' numeric
+@attribute '20 russell' numeric
+@attribute '20 stephen' numeric
+@attribute '20 to' numeric
+@attribute 2002 numeric
+@attribute '2002 overall' numeric
+@attribute 2003 numeric
+@attribute '2003 10' numeric
+@attribute 21 numeric
+@attribute '21 08' numeric
+@attribute '21 1' numeric
+@attribute '21 33' numeric
+@attribute '21 34' numeric
+@attribute '21 47' numeric
+@attribute '21 49' numeric
+@attribute '21 52' numeric
+@attribute '21 54' numeric
+@attribute '21 97' numeric
+@attribute '21 99' numeric
+@attribute '21 john' numeric
+@attribute '21 katherine' numeric
+@attribute 22 numeric
+@attribute '22 03' numeric
+@attribute '22 04' numeric
+@attribute '22 13' numeric
+@attribute '22 19' numeric
+@attribute '22 50' numeric
+@attribute '22 54' numeric
+@attribute '22 9' numeric
+@attribute '22 jamie' numeric
+@attribute '22 jenny' numeric
+@attribute 228 numeric
+@attribute '228 donna' numeric
+@attribute 23 numeric
+@attribute '23 0' numeric
+@attribute '23 03' numeric
+@attribute '23 14' numeric
+@attribute '23 20' numeric
+@attribute '23 37' numeric
+@attribute '23 53' numeric
+@attribute '23 54' numeric
+@attribute '23 doug' numeric
+@attribute '23 julie' numeric
+@attribute 24 numeric
+@attribute '24 07' numeric
+@attribute '24 14' numeric
+@attribute '24 17' numeric
+@attribute '24 31' numeric
+@attribute '24 49' numeric
+@attribute '24 51' numeric
+@attribute '24 55' numeric
+@attribute '24 debi' numeric
+@attribute 25 numeric
+@attribute '25 02' numeric
+@attribute '25 1' numeric
+@attribute '25 16' numeric
+@attribute '25 56' numeric
+@attribute '25 57' numeric
+@attribute '25 greg' numeric
+@attribute 26 numeric
+@attribute '26 01' numeric
+@attribute '26 12' numeric
+@attribute '26 28' numeric
+@attribute '26 33' numeric
+@attribute '26 40' numeric
+@attribute '26 42' numeric
+@attribute '26 john' numeric
+@attribute 27 numeric
+@attribute '27 04' numeric
+@attribute '27 14' numeric
+@attribute '27 17' numeric
+@attribute '27 18' numeric
+@attribute '27 20' numeric
+@attribute '27 36' numeric
+@attribute '27 38' numeric
+@attribute '27 40' numeric
+@attribute '27 48' numeric
+@attribute '27 5' numeric
+@attribute '27 52' numeric
+@attribute '27 53' numeric
+@attribute '27 57' numeric
+@attribute '27 david' numeric
+@attribute '27 lisa' numeric
+@attribute 28 numeric
+@attribute '28 2' numeric
+@attribute '28 33' numeric
+@attribute '28 35' numeric
+@attribute '28 54' numeric
+@attribute '28 56' numeric
+@attribute '28 59' numeric
+@attribute '28 6' numeric
+@attribute '28 male' numeric
+@attribute '28 stuart' numeric
+@attribute 29 numeric
+@attribute '29 07' numeric
+@attribute '29 1' numeric
+@attribute '29 20' numeric
+@attribute '29 23' numeric
+@attribute '29 31' numeric
+@attribute '29 36' numeric
+@attribute '29 41' numeric
+@attribute '29 52' numeric
+@attribute '29 58' numeric
+@attribute '29 59' numeric
+@attribute '29 chaya' numeric
+@attribute '29 david' numeric
+@attribute '29 ian' numeric
+@attribute '29 jason' numeric
+@attribute '29 jill' numeric
+@attribute '29 kirsten' numeric
+@attribute '29 laura' numeric
+@attribute '29 rob' numeric
+@attribute 3 numeric
+@attribute '3 5k' numeric
+@attribute '3 caryl' numeric
+@attribute '3 ed' numeric
+@attribute '3 emily' numeric
+@attribute '3 john' numeric
+@attribute '3 male' numeric
+@attribute '3 michaela' numeric
+@attribute '3 rick' numeric
+@attribute '3 zachary' numeric
+@attribute 30 numeric
+@attribute '30 01' numeric
+@attribute '30 19' numeric
+@attribute '30 20' numeric
+@attribute '30 4' numeric
+@attribute '30 53' numeric
+@attribute '30 54' numeric
+@attribute '30 58' numeric
+@attribute '30 6' numeric
+@attribute '30 97' numeric
+@attribute '30 female' numeric
+@attribute '30 janice' numeric
+@attribute '30 to' numeric
+@attribute '30 victonia' numeric
+@attribute 31 numeric
+@attribute '31 0' numeric
+@attribute '31 01' numeric
+@attribute '31 02' numeric
+@attribute '31 1' numeric
+@attribute '31 21' numeric
+@attribute '31 23' numeric
+@attribute '31 3' numeric
+@attribute '31 32' numeric
+@attribute '31 33' numeric
+@attribute '31 4' numeric
+@attribute '31 45' numeric
+@attribute '31 47' numeric
+@attribute '31 96' numeric
+@attribute '31 mike' numeric
+@attribute '31 polly' numeric
+@attribute 32 numeric
+@attribute '32 20' numeric
+@attribute '32 34' numeric
+@attribute '32 5' numeric
+@attribute '32 68' numeric
+@attribute '32 karen' numeric
+@attribute 33 numeric
+@attribute '33 0' numeric
+@attribute '33 2' numeric
+@attribute '33 21' numeric
+@attribute '33 35' numeric
+@attribute '33 38' numeric
+@attribute '33 4' numeric
+@attribute '33 47' numeric
+@attribute '33 51' numeric
+@attribute '33 52' numeric
+@attribute '33 6' numeric
+@attribute '33 62' numeric
+@attribute '33 7' numeric
+@attribute '33 9' numeric
+@attribute '33 brittany' numeric
+@attribute '33 colleen' numeric
+@attribute '33 ken' numeric
+@attribute '33 male' numeric
+@attribute '33 virgina' numeric
+@attribute 34 numeric
+@attribute '34 01' numeric
+@attribute '34 28' numeric
+@attribute '34 3' numeric
+@attribute '34 40' numeric
+@attribute '34 72' numeric
+@attribute '34 9' numeric
+@attribute 35 numeric
+@attribute '35 07' numeric
+@attribute '35 17' numeric
+@attribute '35 20' numeric
+@attribute '35 31' numeric
+@attribute '35 33' numeric
+@attribute '35 7' numeric
+@attribute '35 92' numeric
+@attribute '35 bill' numeric
+@attribute '35 jillian' numeric
+@attribute '35 maggie' numeric
+@attribute '35 nancy' numeric
+@attribute 36 numeric
+@attribute '36 02' numeric
+@attribute '36 18' numeric
+@attribute '36 35' numeric
+@attribute '36 4' numeric
+@attribute '36 62' numeric
+@attribute '36 7' numeric
+@attribute '36 99' numeric
+@attribute 37 numeric
+@attribute '37 01' numeric
+@attribute '37 05' numeric
+@attribute '37 31' numeric
+@attribute '37 51' numeric
+@attribute '37 57' numeric
+@attribute '37 58' numeric
+@attribute '37 88' numeric
+@attribute 38 numeric
+@attribute '38 03' numeric
+@attribute '38 43' numeric
+@attribute '38 46' numeric
+@attribute '38 54' numeric
+@attribute '38 66' numeric
+@attribute '38 linda' numeric
+@attribute '38 susan' numeric
+@attribute 39 numeric
+@attribute '39 01' numeric
+@attribute '39 10' numeric
+@attribute '39 13' numeric
+@attribute '39 14' numeric
+@attribute '39 15' numeric
+@attribute '39 26' numeric
+@attribute '39 33' numeric
+@attribute '39 46' numeric
+@attribute '39 5' numeric
+@attribute '39 9' numeric
+@attribute '39 colleen' numeric
+@attribute '39 dan' numeric
+@attribute '39 joanne' numeric
+@attribute '39 lynn' numeric
+@attribute '39 patrick' numeric
+@attribute '39 stephen' numeric
+@attribute '39 time' numeric
+@attribute 4 numeric
+@attribute '4 curran' numeric
+@attribute '4 female' numeric
+@attribute '4 frank' numeric
+@attribute '4 jonny' numeric
+@attribute '4 kelly' numeric
+@attribute '4 male' numeric
+@attribute '4 mike' numeric
+@attribute '4 overall' numeric
+@attribute '4 roy' numeric
+@attribute '4 ryan' numeric
+@attribute '4 sam' numeric
+@attribute '4 sandy' numeric
+@attribute '4 stephen' numeric
+@attribute '4 susan' numeric
+@attribute '4 tim' numeric
+@attribute '4 william' numeric
+@attribute 40 numeric
+@attribute '40 00' numeric
+@attribute '40 02' numeric
+@attribute '40 03' numeric
+@attribute '40 09' numeric
+@attribute '40 1' numeric
+@attribute '40 2' numeric
+@attribute '40 29' numeric
+@attribute '40 39' numeric
+@attribute '40 47' numeric
+@attribute '40 55' numeric
+@attribute '40 7' numeric
+@attribute '40 to' numeric
+@attribute 41 numeric
+@attribute '41 07' numeric
+@attribute '41 13' numeric
+@attribute '41 20' numeric
+@attribute '41 25' numeric
+@attribute '41 4' numeric
+@attribute '41 6' numeric
+@attribute 42 numeric
+@attribute '42 06' numeric
+@attribute '42 18' numeric
+@attribute '42 20' numeric
+@attribute '42 22' numeric
+@attribute '42 4' numeric
+@attribute '42 48' numeric
+@attribute '42 50' numeric
+@attribute '42 54' numeric
+@attribute '42 9' numeric
+@attribute '42 ed' numeric
+@attribute '42 kevin' numeric
+@attribute '42 mary' numeric
+@attribute 43 numeric
+@attribute '43 09' numeric
+@attribute '43 31' numeric
+@attribute '43 42' numeric
+@attribute '43 5' numeric
+@attribute '43 52' numeric
+@attribute '43 6' numeric
+@attribute '43 kate' numeric
+@attribute '43 michaela' numeric
+@attribute 44 numeric
+@attribute '44 07' numeric
+@attribute '44 28' numeric
+@attribute 45 numeric
+@attribute '45 0' numeric
+@attribute '45 19' numeric
+@attribute '45 3' numeric
+@attribute '45 32' numeric
+@attribute '45 35' numeric
+@attribute '45 7' numeric
+@attribute 46 numeric
+@attribute '46 03' numeric
+@attribute '46 04' numeric
+@attribute '46 23' numeric
+@attribute '46 73' numeric
+@attribute '46 mark' numeric
+@attribute '46 sue' numeric
+@attribute 47 numeric
+@attribute '47 01' numeric
+@attribute '47 03' numeric
+@attribute '47 2' numeric
+@attribute '47 21' numeric
+@attribute '47 29' numeric
+@attribute '47 30' numeric
+@attribute '47 33' numeric
+@attribute '47 36' numeric
+@attribute '47 4' numeric
+@attribute '47 46' numeric
+@attribute '47 47' numeric
+@attribute '47 5' numeric
+@attribute '47 50' numeric
+@attribute '47 51' numeric
+@attribute '47 52' numeric
+@attribute '47 55' numeric
+@attribute '47 57' numeric
+@attribute '47 88' numeric
+@attribute '47 93' numeric
+@attribute 48 numeric
+@attribute '48 01' numeric
+@attribute '48 02' numeric
+@attribute '48 07' numeric
+@attribute '48 16' numeric
+@attribute '48 21' numeric
+@attribute '48 22' numeric
+@attribute '48 26' numeric
+@attribute '48 35' numeric
+@attribute '48 36' numeric
+@attribute '48 50' numeric
+@attribute '48 51' numeric
+@attribute '48 55' numeric
+@attribute '48 77' numeric
+@attribute '48 scott' numeric
+@attribute '48 stephanie' numeric
+@attribute '48 william' numeric
+@attribute 49 numeric
+@attribute '49 1' numeric
+@attribute '49 21' numeric
+@attribute '49 3' numeric
+@attribute '49 30' numeric
+@attribute '49 33' numeric
+@attribute '49 38' numeric
+@attribute '49 41' numeric
+@attribute '49 45' numeric
+@attribute '49 50' numeric
+@attribute '49 53' numeric
+@attribute '49 54' numeric
+@attribute '49 77' numeric
+@attribute '49 98' numeric
+@attribute '49 brian' numeric
+@attribute '49 david' numeric
+@attribute '49 donna' numeric
+@attribute '49 freeman' numeric
+@attribute '49 lisa' numeric
+@attribute '49 randy' numeric
+@attribute '49 sandra' numeric
+@attribute '49 sandy' numeric
+@attribute 5 numeric
+@attribute '5 bill' numeric
+@attribute '5 cindie' numeric
+@attribute '5 dave' numeric
+@attribute '5 gene' numeric
+@attribute '5 holli' numeric
+@attribute '5 k' numeric
+@attribute '5 lidia' numeric
+@attribute '5 male' numeric
+@attribute '5 mary' numeric
+@attribute '5 pat' numeric
+@attribute 50 numeric
+@attribute '50 +' numeric
+@attribute '50 03' numeric
+@attribute '50 15' numeric
+@attribute '50 2' numeric
+@attribute '50 28' numeric
+@attribute '50 33' numeric
+@attribute '50 39' numeric
+@attribute '50 43' numeric
+@attribute '50 8' numeric
+@attribute '50 patty' numeric
+@attribute 51 numeric
+@attribute '51 06' numeric
+@attribute '51 07' numeric
+@attribute '51 11' numeric
+@attribute '51 16' numeric
+@attribute '51 22' numeric
+@attribute '51 32' numeric
+@attribute '51 40' numeric
+@attribute '51 42' numeric
+@attribute '51 49' numeric
+@attribute '51 51' numeric
+@attribute '51 7' numeric
+@attribute '51 9' numeric
+@attribute '51 barbara' numeric
+@attribute '51 korinna' numeric
+@attribute 52 numeric
+@attribute '52 09' numeric
+@attribute '52 1' numeric
+@attribute '52 10' numeric
+@attribute '52 2' numeric
+@attribute '52 25' numeric
+@attribute '52 35' numeric
+@attribute '52 4' numeric
+@attribute '52 65' numeric
+@attribute 53 numeric
+@attribute '53 1' numeric
+@attribute '53 15' numeric
+@attribute '53 2' numeric
+@attribute '53 30' numeric
+@attribute '53 33' numeric
+@attribute '53 42' numeric
+@attribute '53 43' numeric
+@attribute '53 69' numeric
+@attribute '53 72' numeric
+@attribute '53 bob' numeric
+@attribute 54 numeric
+@attribute '54 02' numeric
+@attribute '54 14' numeric
+@attribute '54 2' numeric
+@attribute '54 20' numeric
+@attribute '54 21' numeric
+@attribute '54 23' numeric
+@attribute '54 27' numeric
+@attribute '54 35' numeric
+@attribute '54 42' numeric
+@attribute '54 48' numeric
+@attribute '54 5' numeric
+@attribute '54 53' numeric
+@attribute '54 56' numeric
+@attribute '54 85' numeric
+@attribute '54 88' numeric
+@attribute '54 9' numeric
+@attribute 55 numeric
+@attribute '55 09' numeric
+@attribute '55 1' numeric
+@attribute '55 31' numeric
+@attribute '55 56' numeric
+@attribute '55 58' numeric
+@attribute '55 65' numeric
+@attribute '55 69' numeric
+@attribute '55 8' numeric
+@attribute '55 82' numeric
+@attribute '55 roy' numeric
+@attribute 56 numeric
+@attribute '56 60' numeric
+@attribute '56 8' numeric
+@attribute '56 90' numeric
+@attribute '56 margaret' numeric
+@attribute 57 numeric
+@attribute '57 03' numeric
+@attribute '57 07' numeric
+@attribute '57 09' numeric
+@attribute '57 228' numeric
+@attribute '57 23' numeric
+@attribute '57 27' numeric
+@attribute '57 7' numeric
+@attribute '57 8' numeric
+@attribute '57 stride' numeric
+@attribute 58 numeric
+@attribute '58 07' numeric
+@attribute '58 11' numeric
+@attribute '58 12' numeric
+@attribute '58 24' numeric
+@attribute '58 38' numeric
+@attribute '58 67' numeric
+@attribute '58 8' numeric
+@attribute '58 80' numeric
+@attribute '58 barbara' numeric
+@attribute 59 numeric
+@attribute '59 00' numeric
+@attribute '59 12' numeric
+@attribute '59 46' numeric
+@attribute '59 72' numeric
+@attribute '59 magan' numeric
+@attribute 5k numeric
+@attribute '5k female' numeric
+@attribute '5k result' numeric
+@attribute 6 numeric
+@attribute '6 bob' numeric
+@attribute '6 cilffy' numeric
+@attribute '6 david' numeric
+@attribute '6 donald' numeric
+@attribute '6 female' numeric
+@attribute '6 james' numeric
+@attribute '6 jim' numeric
+@attribute '6 josh' numeric
+@attribute '6 lori' numeric
+@attribute '6 michelle' numeric
+@attribute '6 mike' numeric
+@attribute 60 numeric
+@attribute '60 kimberly' numeric
+@attribute '60 peggy' numeric
+@attribute 62 numeric
+@attribute '62 laura' numeric
+@attribute '62 male' numeric
+@attribute '62 stephanie' numeric
+@attribute 65 numeric
+@attribute '65 cathie' numeric
+@attribute '65 donna' numeric
+@attribute '65 female' numeric
+@attribute 66 numeric
+@attribute '66 angie' numeric
+@attribute 67 numeric
+@attribute '67 depo' numeric
+@attribute 68 numeric
+@attribute '68 bud' numeric
+@attribute '68 sandy' numeric
+@attribute 69 numeric
+@attribute '69 asron' numeric
+@attribute '69 irene' numeric
+@attribute 7 numeric
+@attribute '7 5' numeric
+@attribute '7 arianna' numeric
+@attribute '7 bill' numeric
+@attribute '7 cathleen' numeric
+@attribute '7 eric' numeric
+@attribute '7 female' numeric
+@attribute '7 gary' numeric
+@attribute '7 katherine' numeric
+@attribute '7 korinna' numeric
+@attribute '7 kristi' numeric
+@attribute '7 lynn' numeric
+@attribute '7 male' numeric
+@attribute '7 megan' numeric
+@attribute '7 nancy' numeric
+@attribute '7 other' numeric
+@attribute '7 scott' numeric
+@attribute '7 stephen' numeric
+@attribute 72 numeric
+@attribute '72 jillian' numeric
+@attribute '72 kate' numeric
+@attribute '72 lori' numeric
+@attribute 73 numeric
+@attribute '73 male' numeric
+@attribute '73 stephen' numeric
+@attribute 76 numeric
+@attribute '76 lynda' numeric
+@attribute 77 numeric
+@attribute '77 linda' numeric
+@attribute '77 sam' numeric
+@attribute 8 numeric
+@attribute '8 alex' numeric
+@attribute '8 blanch' numeric
+@attribute '8 claire' numeric
+@attribute '8 despo' numeric
+@attribute '8 ellen' numeric
+@attribute '8 glen' numeric
+@attribute '8 joanne' numeric
+@attribute '8 kelsey' numeric
+@attribute '8 linda' numeric
+@attribute '8 mackenzie' numeric
+@attribute '8 sandy' numeric
+@attribute '8 susan' numeric
+@attribute 80 numeric
+@attribute '80 harvey' numeric
+@attribute 81 numeric
+@attribute '81 erik' numeric
+@attribute 82 numeric
+@attribute '82 kim' numeric
+@attribute 83 numeric
+@attribute '83 kathleen' numeric
+@attribute '83 kristie' numeric
+@attribute 85 numeric
+@attribute '85 ellen' numeric
+@attribute 86 numeric
+@attribute '86 ruedigew' numeric
+@attribute '86 william' numeric
+@attribute 88 numeric
+@attribute '88 elizabeth' numeric
+@attribute '88 kelly' numeric
+@attribute '88 male' numeric
+@attribute 89 numeric
+@attribute '89 female' numeric
+@attribute '89 male' numeric
+@attribute 8th numeric
+@attribute '8th annual' numeric
+@attribute 9 numeric
+@attribute '9 bill' numeric
+@attribute '9 jessie' numeric
+@attribute '9 john' numeric
+@attribute '9 male' numeric
+@attribute '9 mike' numeric
+@attribute '9 nancy' numeric
+@attribute '9 neil' numeric
+@attribute '9 overall' numeric
+@attribute '9 stephen' numeric
+@attribute '9 tim' numeric
+@attribute 90 numeric
+@attribute '90 susan' numeric
+@attribute 92 numeric
+@attribute '92 laurie' numeric
+@attribute 93 numeric
+@attribute '93 caitlin' numeric
+@attribute 96 numeric
+@attribute '96 female' numeric
+@attribute 97 numeric
+@attribute '97 bill' numeric
+@attribute '97 traci' numeric
+@attribute 98 numeric
+@attribute '98 jon' numeric
+@attribute 99 numeric
+@attribute '99 colin' numeric
+@attribute '99 jim' numeric
+@attribute '\\/' numeric
+@attribute '\\/ contact' numeric
+@attribute '\\/ divsions' numeric
+@attribute '\\/ post' numeric
+@attribute adk numeric
+@attribute 'adk stride' numeric
+@attribute adkstrideforpride numeric
+@attribute 'adkstrideforpride sponsors' numeric
+@attribute alex numeric
+@attribute 'alex hanpeter' numeric
+@attribute amanda numeric
+@attribute 'amanda connelly' numeric
+@attribute amberman numeric
+@attribute 'amberman 00' numeric
+@attribute 'amberman 38' numeric
+@attribute 'amberman dnf' numeric
+@attribute 'and 10' numeric
+@attribute 'and kids' numeric
+@attribute 'and under' numeric
+@attribute andree numeric
+@attribute 'andree sapp' numeric
+@attribute angie numeric
+@attribute 'angie merrow' numeric
+@attribute annual numeric
+@attribute 'annual 5' numeric
+@attribute arianna numeric
+@attribute 'arianna mac' numeric
+@attribute asron numeric
+@attribute 'asron burdeau' numeric
+@attribute awards numeric
+@attribute 'awards \\/' numeric
+@attribute baird numeric
+@attribute 'baird 00' numeric
+@attribute 'baird 50' numeric
+@attribute baldwin numeric
+@attribute 'baldwin 48' numeric
+@attribute 'baldwin dnf' numeric
+@attribute barbara numeric
+@attribute 'barbara donaldson' numeric
+@attribute 'barbara hunt' numeric
+@attribute 'barbara mullen' numeric
+@attribute barker numeric
+@attribute 'barker 59' numeric
+@attribute barrett numeric
+@attribute 'barrett 42' numeric
+@attribute battaglia numeric
+@attribute 'battaglia 00' numeric
+@attribute 'battaglia 49' numeric
+@attribute bearce numeric
+@attribute 'bearce 00' numeric
+@attribute bencze numeric
+@attribute 'bencze 57' numeric
+@attribute bernard numeric
+@attribute 'bernard siskavich' numeric
+@attribute betrue numeric
+@attribute 'betrue 00' numeric
+@attribute 'betrue dnf' numeric
+@attribute bill numeric
+@attribute 'bill amberman' numeric
+@attribute 'bill izzo' numeric
+@attribute 'bill peer' numeric
+@attribute 'bill rich' numeric
+@attribute 'bill skufca' numeric
+@attribute 'bill ulinski' numeric
+@attribute blanch numeric
+@attribute 'blanch siskavich' numeric
+@attribute bloom numeric
+@attribute 'bloom 22' numeric
+@attribute 'bloom dnf' numeric
+@attribute bob numeric
+@attribute 'bob ketchell' numeric
+@attribute 'bob lepak' numeric
+@attribute 'bob morganson' numeric
+@attribute brandes numeric
+@attribute 'brandes 29' numeric
+@attribute brewster numeric
+@attribute 'brewster 00' numeric
+@attribute brian numeric
+@attribute 'brian brandes' numeric
+@attribute 'brian delaney' numeric
+@attribute brittany numeric
+@attribute 'brittany mac' numeric
+@attribute brunch numeric
+@attribute 'brunch directions' numeric
+@attribute bud numeric
+@attribute 'bud ziolkowski' numeric
+@attribute burdeau numeric
+@attribute 'burdeau 00' numeric
+@attribute burgey numeric
+@attribute 'burgey 27' numeric
+@attribute byno numeric
+@attribute 'byno 47' numeric
+@attribute caitlin numeric
+@attribute 'caitlin skufka' numeric
+@attribute carrie numeric
+@attribute 'carrie gelsey' numeric
+@attribute caryl numeric
+@attribute 'caryl van' numeric
+@attribute cathie numeric
+@attribute 'cathie ely' numeric
+@attribute cathleen numeric
+@attribute 'cathleen byno' numeric
+@attribute caton numeric
+@attribute 'caton 51' numeric
+@attribute challenge numeric
+@attribute 'challenge 5k' numeric
+@attribute challenged numeric
+@attribute 'challenged ricky' numeric
+@attribute chaya numeric
+@attribute 'chaya herman' numeric
+@attribute cheri numeric
+@attribute 'cheri racette' numeric
+@attribute cherny numeric
+@attribute 'cherny 00' numeric
+@attribute chupurdia numeric
+@attribute 'chupurdia 00' numeric
+@attribute 'chupurdia 31' numeric
+@attribute cilffy numeric
+@attribute 'cilffy wagner' numeric
+@attribute cindie numeric
+@attribute 'cindie maynard' numeric
+@attribute cindy numeric
+@attribute 'cindy baird' numeric
+@attribute claire numeric
+@attribute 'claire savage' numeric
+@attribute clare numeric
+@attribute 'clare paul' numeric
+@attribute clark numeric
+@attribute 'clark 48' numeric
+@attribute click numeric
+@attribute 'click here' numeric
+@attribute colin numeric
+@attribute 'colin delaney' numeric
+@attribute colland numeric
+@attribute 'colland 00' numeric
+@attribute colleen numeric
+@attribute 'colleen parker' numeric
+@attribute 'colleen skufea' numeric
+@attribute 'com text-only' numeric
+@attribute comfort numeric
+@attribute 'comfort 47' numeric
+@attribute 'comfort dnf' numeric
+@attribute connelly numeric
+@attribute 'connelly 27' numeric
+@attribute cont numeric
+@attribute 'cont male' numeric
+@attribute 'cont sarah' numeric
+@attribute contact numeric
+@attribute 'contact information' numeric
+@attribute coombe numeric
+@attribute 'coombe 00' numeric
+@attribute corse numeric
+@attribute 'corse 22' numeric
+@attribute 'course awards' numeric
+@attribute croft numeric
+@attribute 'croft 00' numeric
+@attribute curran numeric
+@attribute 'curran niederbuhl' numeric
+@attribute dan numeric
+@attribute 'dan dominie' numeric
+@attribute dave numeric
+@attribute 'dave siegrist' numeric
+@attribute david numeric
+@attribute 'david betrue' numeric
+@attribute 'david fenton' numeric
+@attribute 'david ziemba' numeric
+@attribute debbie numeric
+@attribute 'debbie mc' numeric
+@attribute debi numeric
+@attribute 'debi dowie' numeric
+@attribute 'debi yando' numeric
+@attribute deborah numeric
+@attribute 'deborah ketchell' numeric
+@attribute delaney numeric
+@attribute 'delaney 00' numeric
+@attribute dell numeric
+@attribute 'dell 00' numeric
+@attribute 'dell 22' numeric
+@attribute dempsey numeric
+@attribute 'dempsey 54' numeric
+@attribute dennin numeric
+@attribute 'dennin 00' numeric
+@attribute depo numeric
+@attribute 'depo mac' numeric
+@attribute design numeric
+@attribute 'design 2-minute-website' numeric
+@attribute despo numeric
+@attribute 'despo mac' numeric
+@attribute directions numeric
+@attribute 'directions \\/' numeric
+@attribute divsions numeric
+@attribute 'divsions \\/' numeric
+@attribute dj numeric
+@attribute 'dj racette' numeric
+@attribute dnf numeric
+@attribute 'dnf 5' numeric
+@attribute 'dnf female' numeric
+@attribute 'dnf male' numeric
+@attribute dominie numeric
+@attribute 'dominie 00' numeric
+@attribute donald numeric
+@attribute 'donald -' numeric
+@attribute 'donald sabin' numeric
+@attribute donaldson numeric
+@attribute 'donaldson 00' numeric
+@attribute donna numeric
+@attribute 'donna jacobs' numeric
+@attribute 'donna jocobs' numeric
+@attribute 'donna moody' numeric
+@attribute donnel numeric
+@attribute 'donnel 1' numeric
+@attribute donnell numeric
+@attribute 'donnell 01' numeric
+@attribute dorine numeric
+@attribute 'dorine peregrim' numeric
+@attribute dorn numeric
+@attribute 'dorn 1' numeric
+@attribute doug numeric
+@attribute 'doug bloom' numeric
+@attribute dowie numeric
+@attribute 'dowie 00' numeric
+@attribute dubay numeric
+@attribute 'dubay 00' numeric
+@attribute dukett numeric
+@attribute 'dukett 39' numeric
+@attribute duso numeric
+@attribute 'duso 40' numeric
+@attribute ed numeric
+@attribute 'ed finnerty' numeric
+@attribute eddie numeric
+@attribute 'eddie west' numeric
+@attribute edit numeric
+@attribute 'edit this' numeric
+@attribute elaine numeric
+@attribute 'elaine amberman' numeric
+@attribute eldred numeric
+@attribute 'eldred 00' numeric
+@attribute elizabeth numeric
+@attribute 'elizabeth izzo' numeric
+@attribute 'elizabeth weissman' numeric
+@attribute ellen numeric
+@attribute 'ellen yousey' numeric
+@attribute ely numeric
+@attribute 'ely 00' numeric
+@attribute emily numeric
+@attribute 'emily kriwox' numeric
+@attribute eric numeric
+@attribute 'eric dukett' numeric
+@attribute erik numeric
+@attribute 'erik young' numeric
+@attribute events numeric
+@attribute 'events regional' numeric
+@attribute farrell numeric
+@attribute 'farrell 57' numeric
+@attribute female numeric
+@attribute 'female 10' numeric
+@attribute 'female 11' numeric
+@attribute 'female 20' numeric
+@attribute 'female 30' numeric
+@attribute 'female 40' numeric
+@attribute 'female 50' numeric
+@attribute 'female michaela' numeric
+@attribute 'female time' numeric
+@attribute fenton numeric
+@attribute 'fenton 40' numeric
+@attribute 'fenton dnf' numeric
+@attribute finish numeric
+@attribute 'finish time' numeric
+@attribute finnerty numeric
+@attribute 'finnerty 00' numeric
+@attribute 'finnerty 59' numeric
+@attribute 'for pride' numeric
+@attribute form numeric
+@attribute 'form kids' numeric
+@attribute fortier numeric
+@attribute 'fortier 00' numeric
+@attribute 'fortier 26' numeric
+@attribute frank numeric
+@attribute 'frank woodward' numeric
+@attribute free numeric
+@attribute 'free t' numeric
+@attribute freeman numeric
+@attribute 'freeman supley' numeric
+@attribute fun numeric
+@attribute 'fun run' numeric
+@attribute gallo numeric
+@attribute 'gallo 50' numeric
+@attribute garth numeric
+@attribute 'garth brewster' numeric
+@attribute gary numeric
+@attribute 'gary baldwin' numeric
+@attribute gelsey numeric
+@attribute 'gelsey 00' numeric
+@attribute gene numeric
+@attribute 'gene hicks' numeric
+@attribute glen numeric
+@attribute 'glen mac' numeric
+@attribute glenn numeric
+@attribute 'glenn mac' numeric
+@attribute gouwens numeric
+@attribute 'gouwens 00' numeric
+@attribute graphics numeric
+@attribute 'graphics edit' numeric
+@attribute greg numeric
+@attribute 'greg dennin' numeric
+@attribute grisi numeric
+@attribute 'grisi 50' numeric
+@attribute guynup numeric
+@attribute 'guynup 47' numeric
+@attribute haag numeric
+@attribute 'haag 00' numeric
+@attribute hailey numeric
+@attribute 'hailey dell' numeric
+@attribute hamilton numeric
+@attribute 'hamilton 00' numeric
+@attribute hannon numeric
+@attribute 'hannon 00' numeric
+@attribute 'hannon 51' numeric
+@attribute hanpeter numeric
+@attribute 'hanpeter 27' numeric
+@attribute hanvan numeric
+@attribute 'hanvan 21' numeric
+@attribute harrigan numeric
+@attribute 'harrigan 18' numeric
+@attribute harvey numeric
+@attribute 'harvey tebo' numeric
+@attribute helm numeric
+@attribute 'helm 00' numeric
+@attribute 'helm 36' numeric
+@attribute 'here to' numeric
+@attribute herman numeric
+@attribute 'herman 30' numeric
+@attribute hicks numeric
+@attribute 'hicks 00' numeric
+@attribute 'hicks 1' numeric
+@attribute holli numeric
+@attribute 'holli lynch' numeric
+@attribute holmes numeric
+@attribute 'holmes 00' numeric
+@attribute holzer numeric
+@attribute 'holzer 00' numeric
+@attribute 'holzer 29' numeric
+@attribute 'holzer 52' numeric
+@attribute hudson numeric
+@attribute 'hudson 00' numeric
+@attribute 'hudson 01' numeric
+@attribute hughes numeric
+@attribute 'hughes 31' numeric
+@attribute hunt numeric
+@attribute 'hunt 00' numeric
+@attribute 'hunt 26' numeric
+@attribute ian numeric
+@attribute 'ian keer' numeric
+@attribute 'ian kerr' numeric
+@attribute information numeric
+@attribute 'information stride' numeric
+@attribute irene numeric
+@attribute 'irene mazzocchi' numeric
+@attribute 'is the' numeric
+@attribute izzo numeric
+@attribute 'izzo 00' numeric
+@attribute 'izzo 24' numeric
+@attribute 'izzo 47' numeric
+@attribute jacobs numeric
+@attribute 'jacobs 00' numeric
+@attribute james numeric
+@attribute 'james roger' numeric
+@attribute 'james sweet' numeric
+@attribute 'james tebo' numeric
+@attribute jamie numeric
+@attribute 'jamie savage' numeric
+@attribute janice numeric
+@attribute 'janice williamson' numeric
+@attribute jason numeric
+@attribute 'jason duso' numeric
+@attribute jenn numeric
+@attribute 'jenn grisi' numeric
+@attribute jenny numeric
+@attribute 'jenny croft' numeric
+@attribute jesse numeric
+@attribute 'jesse kriwox' numeric
+@attribute jessie numeric
+@attribute 'jessie kriwox' numeric
+@attribute jill numeric
+@attribute 'jill comfort' numeric
+@attribute jillian numeric
+@attribute 'jillian comfort' numeric
+@attribute 'jillian peirins' numeric
+@attribute jim numeric
+@attribute 'jim morganson' numeric
+@attribute 'jim ohlsten' numeric
+@attribute joanne numeric
+@attribute 'joanne johnson' numeric
+@attribute jocobs numeric
+@attribute 'jocobs 58' numeric
+@attribute john numeric
+@attribute 'john farrell' numeric
+@attribute 'john guynup' numeric
+@attribute 'john ohlsten' numeric
+@attribute 'john stack' numeric
+@attribute johnson numeric
+@attribute 'johnson 00' numeric
+@attribute 'johnson 27' numeric
+@attribute jon numeric
+@attribute 'jon regetz' numeric
+@attribute jonny numeric
+@attribute 'jonny west' numeric
+@attribute joseph numeric
+@attribute 'joseph lynch' numeric
+@attribute josh numeric
+@attribute 'josh preston' numeric
+@attribute joy numeric
+@attribute 'joy caton' numeric
+@attribute juckett numeric
+@attribute 'juckett 00' numeric
+@attribute 'juckett 26' numeric
+@attribute judice numeric
+@attribute 'judice 00' numeric
+@attribute 'judice 17' numeric
+@attribute julie numeric
+@attribute 'julie miner' numeric
+@attribute 'k 10k' numeric
+@attribute 'k adkstrideforpride' numeric
+@attribute 'k and' numeric
+@attribute 'k female' numeric
+@attribute 'k race' numeric
+@attribute 'k results' numeric
+@attribute 'k time' numeric
+@attribute kamperschroer numeric
+@attribute 'kamperschroer 00' numeric
+@attribute karen numeric
+@attribute 'karen delaney' numeric
+@attribute kate numeric
+@attribute 'kate delaney' numeric
+@attribute 'kate labbate' numeric
+@attribute katherine numeric
+@attribute 'katherine fortier' numeric
+@attribute kathleen numeric
+@attribute 'kathleen judice' numeric
+@attribute katie numeric
+@attribute 'katie woods' numeric
+@attribute kay numeric
+@attribute 'kay pauquette' numeric
+@attribute keer numeric
+@attribute 'keer 17' numeric
+@attribute keith numeric
+@attribute 'keith clark' numeric
+@attribute kelly numeric
+@attribute 'kelly 01' numeric
+@attribute 'kelly dempsey' numeric
+@attribute 'kelly linehan' numeric
+@attribute kelsey numeric
+@attribute 'kelsey tebo' numeric
+@attribute ken numeric
+@attribute 'ken uecker' numeric
+@attribute kerr numeric
+@attribute 'kerr 17' numeric
+@attribute ketchell numeric
+@attribute 'ketchell 00' numeric
+@attribute kevin numeric
+@attribute 'kevin smith' numeric
+@attribute kids numeric
+@attribute 'kids fun' numeric
+@attribute kim numeric
+@attribute 'kim brewster' numeric
+@attribute 'kim hamilton' numeric
+@attribute kimberly numeric
+@attribute 'kimberly bearce' numeric
+@attribute kirk numeric
+@attribute 'kirk peterson' numeric
+@attribute kirsten numeric
+@attribute 'kirsten pope' numeric
+@attribute klaus numeric
+@attribute 'klaus meissner' numeric
+@attribute korinna numeric
+@attribute 'korinna mac' numeric
+@attribute kris numeric
+@attribute 'kris moody' numeric
+@attribute kristi numeric
+@attribute 'kristi chupurdia' numeric
+@attribute kristie numeric
+@attribute 'kristie chupurdia' numeric
+@attribute kriwox numeric
+@attribute 'kriwox 25' numeric
+@attribute 'kriwox 39' numeric
+@attribute 'kriwox 42' numeric
+@attribute 'kriwox 57' numeric
+@attribute labbate numeric
+@attribute 'labbate 00' numeric
+@attribute 'labbate 36' numeric
+@attribute lak numeric
+@attribute 'lak placid' numeric
+@attribute lake numeric
+@attribute 'lake free' numeric
+@attribute 'lake tupper' numeric
+@attribute laura numeric
+@attribute 'laura holmes' numeric
+@attribute 'laura holzer' numeric
+@attribute 'laura peterson' numeric
+@attribute laurie numeric
+@attribute 'laurie dubay' numeric
+@attribute leary numeric
+@attribute 'leary 00' numeric
+@attribute lepak numeric
+@attribute 'lepak 00' numeric
+@attribute 'lepak 50' numeric
+@attribute leslie numeric
+@attribute 'leslie whitney' numeric
+@attribute lidia numeric
+@attribute 'lidia kriwox' numeric
+@attribute linda numeric
+@attribute 'linda hudson' numeric
+@attribute 'linda peer' numeric
+@attribute 'linda perrigo' numeric
+@attribute linehan numeric
+@attribute 'linehan 00' numeric
+@attribute links numeric
+@attribute 'links lak' numeric
+@attribute lipe numeric
+@attribute 'lipe 00' numeric
+@attribute liporace numeric
+@attribute 'liporace 35' numeric
+@attribute lisa numeric
+@attribute 'lisa gouwens' numeric
+@attribute 'lisa meissner' numeric
+@attribute lori numeric
+@attribute 'lori helm' numeric
+@attribute lynch numeric
+@attribute 'lynch 00' numeric
+@attribute 'lynch 50' numeric
+@attribute 'lynch dnf' numeric
+@attribute lynda numeric
+@attribute 'lynda peer' numeric
+@attribute lynn numeric
+@attribute 'lynn ohlsten' numeric
+@attribute mac numeric
+@attribute 'mac donald' numeric
+@attribute 'mac neill' numeric
+@attribute mackenzie numeric
+@attribute 'mackenzie simkins' numeric
+@attribute magan numeric
+@attribute 'magan labbate' numeric
+@attribute maggie numeric
+@attribute 'maggie dennin' numeric
+@attribute male numeric
+@attribute 'male 10' numeric
+@attribute 'male 11' numeric
+@attribute 'male 20' numeric
+@attribute 'male 30' numeric
+@attribute 'male 40' numeric
+@attribute 'male 50' numeric
+@attribute 'male ian' numeric
+@attribute 'male phys' numeric
+@attribute 'male rick' numeric
+@attribute manage numeric
+@attribute 'manage website' numeric
+@attribute map numeric
+@attribute 'map stride' numeric
+@attribute margaret numeric
+@attribute 'margaret o' numeric
+@attribute mark numeric
+@attribute 'mark miner' numeric
+@attribute 'mark yamrick' numeric
+@attribute marta numeric
+@attribute 'marta tebbutt' numeric
+@attribute mary numeric
+@attribute 'mary kelly' numeric
+@attribute 'mary liporace' numeric
+@attribute 'mary morganson' numeric
+@attribute 'mary peabody' numeric
+@attribute maynard numeric
+@attribute 'maynard 27' numeric
+@attribute mazzocchi numeric
+@attribute 'mazzocchi 00' numeric
+@attribute mc numeric
+@attribute 'mc colland' numeric
+@attribute 'mc donnel' numeric
+@attribute 'mc donnell' numeric
+@attribute megan numeric
+@attribute 'megan labbate' numeric
+@attribute meissner numeric
+@attribute 'meissner 00' numeric
+@attribute merrow numeric
+@attribute 'merrow 00' numeric
+@attribute 'merrow 35' numeric
+@attribute michaela numeric
+@attribute 'michaela hannon' numeric
+@attribute michelle numeric
+@attribute 'michelle hughes' numeric
+@attribute mike numeric
+@attribute 'mike corse' numeric
+@attribute 'mike peabody' numeric
+@attribute 'mike prenoveau' numeric
+@attribute miner numeric
+@attribute 'miner 00' numeric
+@attribute moles numeric
+@attribute 'moles 00' numeric
+@attribute moody numeric
+@attribute 'moody 22' numeric
+@attribute 'moody 46' numeric
+@attribute morgan numeric
+@attribute 'morgan 00' numeric
+@attribute morganson numeric
+@attribute 'morganson 00' numeric
+@attribute mullen numeric
+@attribute 'mullen 01' numeric
+@attribute muller numeric
+@attribute 'muller 00' numeric
+@attribute 'muller 31' numeric
+@attribute 'name finish' numeric
+@attribute nancy numeric
+@attribute 'nancy battaglia' numeric
+@attribute 'nancy remo' numeric
+@attribute 'nancy reome' numeric
+@attribute neil numeric
+@attribute 'neil kriwox' numeric
+@attribute neill numeric
+@attribute 'neill 00' numeric
+@attribute 'neill 26' numeric
+@attribute 'neill 37' numeric
+@attribute 'neill 39' numeric
+@attribute niederbuhl numeric
+@attribute 'niederbuhl 49' numeric
+@attribute noryce numeric
+@attribute 'noryce burgey' numeric
+@attribute 'o leary' numeric
+@attribute 'of past' numeric
+@attribute 'of this' numeric
+@attribute ohlsten numeric
+@attribute 'ohlsten 00' numeric
+@attribute 'ohlsten 23' numeric
+@attribute 'ohlsten 43' numeric
+@attribute orianna numeric
+@attribute 'orianna mac' numeric
+@attribute 'other pages' numeric
+@attribute 'overall winners' numeric
+@attribute page numeric
+@attribute 'page click' numeric
+@attribute 'page with' numeric
+@attribute 'page |' numeric
+@attribute pages numeric
+@attribute 'pages 8th' numeric
+@attribute parker numeric
+@attribute 'parker 00' numeric
+@attribute past numeric
+@attribute 'past events' numeric
+@attribute pat numeric
+@attribute 'pat barrett' numeric
+@attribute patnode numeric
+@attribute 'patnode 55' numeric
+@attribute patrick numeric
+@attribute 'patrick barrett' numeric
+@attribute 'patrick ryan' numeric
+@attribute patti numeric
+@attribute 'patti stark' numeric
+@attribute patty numeric
+@attribute 'patty moles' numeric
+@attribute paul numeric
+@attribute 'paul 33' numeric
+@attribute pauquette numeric
+@attribute 'pauquette dnf' numeric
+@attribute peabody numeric
+@attribute 'peabody 24' numeric
+@attribute 'peabody 51' numeric
+@attribute peer numeric
+@attribute 'peer 00' numeric
+@attribute 'peer 24' numeric
+@attribute 'peer 40' numeric
+@attribute peggy numeric
+@attribute 'peggy dennin' numeric
+@attribute peirins numeric
+@attribute 'peirins 00' numeric
+@attribute peregrim numeric
+@attribute 'peregrim 00' numeric
+@attribute perrigo numeric
+@attribute 'perrigo 00' numeric
+@attribute 'perrigo 58' numeric
+@attribute peterson numeric
+@attribute 'peterson 00' numeric
+@attribute phillip numeric
+@attribute 'phillip gallo' numeric
+@attribute phys numeric
+@attribute 'phys challenged' numeric
+@attribute physically numeric
+@attribute 'physically challenge' numeric
+@attribute pictures numeric
+@attribute 'pictures of' numeric
+@attribute placid numeric
+@attribute 'placid saranac' numeric
+@attribute polly numeric
+@attribute 'polly sullivan' numeric
+@attribute pope numeric
+@attribute 'pope 00' numeric
+@attribute post numeric
+@attribute 'post race' numeric
+@attribute prenoveau numeric
+@attribute 'prenoveau 00' numeric
+@attribute 'prenoveau 38' numeric
+@attribute preston numeric
+@attribute 'preston 1' numeric
+@attribute 'preston 21' numeric
+@attribute pride numeric
+@attribute 'pride race' numeric
+@attribute 'pride registration' numeric
+@attribute 'pride sponsors' numeric
+@attribute prue numeric
+@attribute 'prue 00' numeric
+@attribute 'prue 47' numeric
+@attribute quinn numeric
+@attribute 'quinn 29' numeric
+@attribute race numeric
+@attribute 'race 5' numeric
+@attribute 'race brunch' numeric
+@attribute 'race course' numeric
+@attribute 'race map' numeric
+@attribute 'race results' numeric
+@attribute racette numeric
+@attribute 'racette 00' numeric
+@attribute 'racette 20' numeric
+@attribute 'racette 23' numeric
+@attribute randy numeric
+@attribute 'randy young' numeric
+@attribute rasco numeric
+@attribute 'rasco 47' numeric
+@attribute ravkin numeric
+@attribute 'ravkin 00' numeric
+@attribute regetz numeric
+@attribute 'regetz 00' numeric
+@attribute regional numeric
+@attribute 'regional links' numeric
+@attribute registration numeric
+@attribute 'registration form' numeric
+@attribute remo numeric
+@attribute 'remo 42' numeric
+@attribute renata numeric
+@attribute 'renata ravkin' numeric
+@attribute reome numeric
+@attribute 'reome 00' numeric
+@attribute result numeric
+@attribute 'result cont' numeric
+@attribute results numeric
+@attribute 'results 2002' numeric
+@attribute 'results 2003' numeric
+@attribute 'results female' numeric
+@attribute 'results name' numeric
+@attribute 'results pictures' numeric
+@attribute rich numeric
+@attribute 'rich 00' numeric
+@attribute 'rich 57' numeric
+@attribute rick numeric
+@attribute 'rick morgan' numeric
+@attribute 'rick sullivan' numeric
+@attribute ricky numeric
+@attribute 'ricky sullivan' numeric
+@attribute rob numeric
+@attribute 'rob hudson' numeric
+@attribute roger numeric
+@attribute 'roger 49' numeric
+@attribute roy numeric
+@attribute 'roy holzer' numeric
+@attribute ruedigew numeric
+@attribute 'ruedigew haag' numeric
+@attribute run numeric
+@attribute 'run 5' numeric
+@attribute 'run race' numeric
+@attribute russell numeric
+@attribute 'russell coombe' numeric
+@attribute ryan numeric
+@attribute 'ryan 00' numeric
+@attribute 'ryan hanvan' numeric
+@attribute sabin numeric
+@attribute 'sabin 51' numeric
+@attribute sam numeric
+@attribute 'sam racette' numeric
+@attribute sandra numeric
+@attribute 'sandra izzo' numeric
+@attribute sandy numeric
+@attribute 'sandy muller' numeric
+@attribute 'sandy rasco' numeric
+@attribute sapp numeric
+@attribute 'sapp 00' numeric
+@attribute sarah numeric
+@attribute 'sarah barker' numeric
+@attribute 'sarah bencze' numeric
+@attribute saranac numeric
+@attribute 'saranac lake' numeric
+@attribute sargent numeric
+@attribute 'sargent 00' numeric
+@attribute savage numeric
+@attribute 'savage 00' numeric
+@attribute 'savage 45' numeric
+@attribute schmidt numeric
+@attribute 'schmidt 00' numeric
+@attribute scott numeric
+@attribute 'scott prue' numeric
+@attribute 'scott woodward' numeric
+@attribute sean numeric
+@attribute 'sean dennin' numeric
+@attribute 'see this' numeric
+@attribute shannon numeric
+@attribute 'shannon delaney' numeric
+@attribute shirts numeric
+@attribute 'shirts this' numeric
+@attribute siegrist numeric
+@attribute 'siegrist 00' numeric
+@attribute 'siegrist 51' numeric
+@attribute simkins numeric
+@attribute 'simkins 51' numeric
+@attribute siskavich numeric
+@attribute 'siskavich 49' numeric
+@attribute skufca numeric
+@attribute 'skufca 00' numeric
+@attribute 'skufca 42' numeric
+@attribute skufea numeric
+@attribute 'skufea 53' numeric
+@attribute skufka numeric
+@attribute 'skufka 00' numeric
+@attribute smith numeric
+@attribute 'smith 00' numeric
+@attribute southwick numeric
+@attribute 'southwick 00' numeric
+@attribute sponsors numeric
+@attribute 'sponsors adk' numeric
+@attribute stack numeric
+@attribute 'stack 00' numeric
+@attribute stark numeric
+@attribute 'stark 01' numeric
+@attribute 'stark 1' numeric
+@attribute stephanie numeric
+@attribute 'stephanie kamperschroer' numeric
+@attribute 'stephanie sargent' numeric
+@attribute stephen numeric
+@attribute 'stephen judice' numeric
+@attribute 'stephen tice' numeric
+@attribute steve numeric
+@attribute 'steve eldred' numeric
+@attribute stride numeric
+@attribute 'stride for' numeric
+@attribute stuart numeric
+@attribute 'stuart baird' numeric
+@attribute sue numeric
+@attribute 'sue cherny' numeric
+@attribute sullivan numeric
+@attribute 'sullivan 00' numeric
+@attribute 'sullivan 41' numeric
+@attribute supley numeric
+@attribute 'supley 00' numeric
+@attribute susan numeric
+@attribute 'susan juckett' numeric
+@attribute 'susan lipe' numeric
+@attribute 'susan werner' numeric
+@attribute 'susan westbrook' numeric
+@attribute 'susan ziemba' numeric
+@attribute sweet numeric
+@attribute 'sweet 43' numeric
+@attribute 't -' numeric
+@attribute tammy numeric
+@attribute 'tammy patnode' numeric
+@attribute tebbutt numeric
+@attribute 'tebbutt 00' numeric
+@attribute tebo numeric
+@attribute 'tebo 01' numeric
+@attribute 'tebo 37' numeric
+@attribute 'tebo 54' numeric
+@attribute text-only numeric
+@attribute 'text-only stride' numeric
+@attribute 'text-only version' numeric
+@attribute 'the text-only' numeric
+@attribute thell numeric
+@attribute 'thell 00' numeric
+@attribute 'this is' numeric
+@attribute 'this page' numeric
+@attribute tice numeric
+@attribute 'tice 01' numeric
+@attribute 'tice 53' numeric
+@attribute tim numeric
+@attribute 'tim harrigan' numeric
+@attribute 'tim lynch' numeric
+@attribute time numeric
+@attribute 'time barbara' numeric
+@attribute 'time bill' numeric
+@attribute 'time cathleen' numeric
+@attribute 'time elizabeth' numeric
+@attribute 'time female' numeric
+@attribute 'time hailey' numeric
+@attribute 'time jill' numeric
+@attribute 'time mike' numeric
+@attribute 'to 19' numeric
+@attribute 'to 29' numeric
+@attribute 'to 39' numeric
+@attribute 'to 49' numeric
+@attribute 'to see' numeric
+@attribute tracey numeric
+@attribute 'tracey lynch' numeric
+@attribute traci numeric
+@attribute 'traci southwick' numeric
+@attribute tricia numeric
+@attribute 'tricia preston' numeric
+@attribute tupper numeric
+@attribute 'tupper lake' numeric
+@attribute uecker numeric
+@attribute 'uecker 00' numeric
+@attribute ulinski numeric
+@attribute 'ulinski 00' numeric
+@attribute 'ulinski 47' numeric
+@attribute 'under erik' numeric
+@attribute 'under time' numeric
+@attribute 'under zander' numeric
+@attribute van numeric
+@attribute 'van dorn' numeric
+@attribute version numeric
+@attribute 'version of' numeric
+@attribute victonia numeric
+@attribute 'victonia johnson' numeric
+@attribute virgina numeric
+@attribute 'virgina yamrick' numeric
+@attribute wagner numeric
+@attribute 'wagner 47' numeric
+@attribute wais numeric
+@attribute 'wais 34' numeric
+@attribute web numeric
+@attribute 'web design' numeric
+@attribute website numeric
+@attribute 'website web' numeric
+@attribute weissman numeric
+@attribute 'weissman 01' numeric
+@attribute wendy numeric
+@attribute 'wendy wais' numeric
+@attribute werner numeric
+@attribute 'werner 00' numeric
+@attribute west numeric
+@attribute 'west 00' numeric
+@attribute 'west 24' numeric
+@attribute 'west 30' numeric
+@attribute westbrook numeric
+@attribute 'westbrook 30' numeric
+@attribute whitney numeric
+@attribute 'whitney -' numeric
+@attribute william numeric
+@attribute 'william rich' numeric
+@attribute 'william skufca' numeric
+@attribute 'william thell' numeric
+@attribute 'william ulinski' numeric
+@attribute williamson numeric
+@attribute 'williamson 00' numeric
+@attribute winners numeric
+@attribute 'winners 10' numeric
+@attribute 'winners 5' numeric
+@attribute 'winners physically' numeric
+@attribute 'with graphics' numeric
+@attribute woods numeric
+@attribute 'woods 25' numeric
+@attribute woodward numeric
+@attribute 'woodward 00' numeric
+@attribute 'woodward 43' numeric
+@attribute 'woodward 48' numeric
+@attribute yamrick numeric
+@attribute 'yamrick 00' numeric
+@attribute yando numeric
+@attribute 'yando 00' numeric
+@attribute young numeric
+@attribute 'young 00' numeric
+@attribute 'young 22' numeric
+@attribute 'young 23' numeric
+@attribute yousey numeric
+@attribute 'yousey 00' numeric
+@attribute 'yousey 31' numeric
+@attribute zachary numeric
+@attribute 'zachary quinn' numeric
+@attribute zander numeric
+@attribute 'zander mc' numeric
+@attribute ziemba numeric
+@attribute 'ziemba 49' numeric
+@attribute ziolkowski numeric
+@attribute 'ziolkowski 00' numeric
+@attribute | numeric
+@attribute '| manage' numeric
+@attribute '7 text-only' numeric
+@attribute 'com stride' numeric
+@attribute 'shirts stride' numeric
+@attribute 'website design' numeric
+@attribute 'website |' numeric
+@attribute '| edit' numeric
+@attribute '| website' numeric
+@attribute Cluster {cluster0}
+
+@data
+0,001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0.480453,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0.480453,0.480453,0,0.480453,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0.480453,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0.480453,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cluster0
+1,000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0.480453,0.480453,0.480453,0.480453,0.480453,0.480453,cluster0

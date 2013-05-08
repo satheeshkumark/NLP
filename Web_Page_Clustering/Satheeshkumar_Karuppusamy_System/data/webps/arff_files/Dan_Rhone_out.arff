@@ -1,0 +1,3161 @@
+@relation '_home_sat_Desktop_nlp_Satheeshkumar_Karuppusamy_Satheeshkumar_Karuppusamy_System_data_webps_tokenized_web_pages_Dan_Rhone-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-T-I-N0-L-S-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.NGramTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\" -max 2 -min 1_clustered'
+
+@attribute Instance_number numeric
+@attribute @@class@@ {001,003,002,000}
+@attribute $ numeric
+@attribute '$ 10' numeric
+@attribute - numeric
+@attribute '- 11' numeric
+@attribute '- 1963' numeric
+@attribute '- 1993' numeric
+@attribute '- 25' numeric
+@attribute '- 61' numeric
+@attribute '- 9' numeric
+@attribute '- aided' numeric
+@attribute '- cities' numeric
+@attribute '- guided' numeric
+@attribute '- mohawk' numeric
+@attribute '- poulenc' numeric
+@attribute '- speed' numeric
+@attribute 000 numeric
+@attribute '000 inc' numeric
+@attribute 1 numeric
+@attribute '1 1996' numeric
+@attribute '1 1997' numeric
+@attribute '1 current' numeric
+@attribute '1 january' numeric
+@attribute '1 september' numeric
+@attribute 10 numeric
+@attribute '10 000' numeric
+@attribute '10 1' numeric
+@attribute '10 6' numeric
+@attribute '10 describes' numeric
+@attribute '10 march' numeric
+@attribute 105 numeric
+@attribute '105 september' numeric
+@attribute 109114 numeric
+@attribute '109114 describes' numeric
+@attribute 11 numeric
+@attribute '11 december' numeric
+@attribute '11 describes' numeric
+@attribute '11 the' numeric
+@attribute 111 numeric
+@attribute '111 january' numeric
+@attribute 116 numeric
+@attribute '116 10' numeric
+@attribute 1166 numeric
+@attribute '1166 activities' numeric
+@attribute 12 numeric
+@attribute '12 describes' numeric
+@attribute 132 numeric
+@attribute '132 8' numeric
+@attribute '132 may' numeric
+@attribute 14 numeric
+@attribute '14 november' numeric
+@attribute 141 numeric
+@attribute '141 november' numeric
+@attribute 142 numeric
+@attribute '142 november' numeric
+@attribute 148 numeric
+@attribute '148 february' numeric
+@attribute 15 numeric
+@attribute '15 new' numeric
+@attribute 159 numeric
+@attribute '159 26' numeric
+@attribute 17 numeric
+@attribute '17 5' numeric
+@attribute '17 november' numeric
+@attribute 172 numeric
+@attribute '172 september' numeric
+@attribute 1812 numeric
+@attribute '1812 and' numeric
+@attribute 1813 numeric
+@attribute '1813 -' numeric
+@attribute 1869-1882 numeric
+@attribute '1869-1882 the' numeric
+@attribute 19 numeric
+@attribute '19 4' numeric
+@attribute '19 august' numeric
+@attribute 1945 numeric
+@attribute '1945 to' numeric
+@attribute 196 numeric
+@attribute '196 march' numeric
+@attribute 1960 numeric
+@attribute '1960 1969' numeric
+@attribute 1960s numeric
+@attribute '1960s henderson' numeric
+@attribute '1960s nollet' numeric
+@attribute 1961 numeric
+@attribute '1961 summarizes' numeric
+@attribute 1963 numeric
+@attribute '1963 arms' numeric
+@attribute '1963 describes' numeric
+@attribute 1969 numeric
+@attribute '1969 summarizes' numeric
+@attribute 1983та401-406 numeric
+@attribute '1983та401-406 efforts' numeric
+@attribute 1984 numeric
+@attribute '1984 56' numeric
+@attribute '1984 60' numeric
+@attribute 1988 numeric
+@attribute '1988 24-25' numeric
+@attribute '1988 91' numeric
+@attribute 1989 numeric
+@attribute '1989 309' numeric
+@attribute '1989 63' numeric
+@attribute '1989 provides' numeric
+@attribute 1990 numeric
+@attribute '1990 1869-1882' numeric
+@attribute '1990 55' numeric
+@attribute 1991 numeric
+@attribute '1991 60-61' numeric
+@attribute 1992 numeric
+@attribute '1992 1166' numeric
+@attribute '1992 48' numeric
+@attribute 1993 numeric
+@attribute '1993 215-26' numeric
+@attribute '1993 a' numeric
+@attribute '1993 washington' numeric
+@attribute 1994 numeric
+@attribute '1994 11' numeric
+@attribute '1994 24' numeric
+@attribute '1994 34' numeric
+@attribute '1994 describes' numeric
+@attribute 1995 numeric
+@attribute '1995 12' numeric
+@attribute '1995 15' numeric
+@attribute '1995 44-45' numeric
+@attribute '1995 66-67' numeric
+@attribute '1995 8' numeric
+@attribute '1995 a' numeric
+@attribute '1995 pope' numeric
+@attribute 1996 numeric
+@attribute '1996 10' numeric
+@attribute '1996 24' numeric
+@attribute '1996 28' numeric
+@attribute '1996 56' numeric
+@attribute '1996 69-71' numeric
+@attribute '1996 a' numeric
+@attribute '1996 describes' numeric
+@attribute 1997 numeric
+@attribute '1997 109114' numeric
+@attribute '1997 3' numeric
+@attribute '1997 35-45' numeric
+@attribute '1997 47-48' numeric
+@attribute '1997 56' numeric
+@attribute '1997 94' numeric
+@attribute 1998 numeric
+@attribute '1998 32' numeric
+@attribute '1998 8' numeric
+@attribute '1998 9' numeric
+@attribute 1999 numeric
+@attribute '1999 \\*' numeric
+@attribute '1999 hudson' numeric
+@attribute '1999 return' numeric
+@attribute 2 numeric
+@attribute '2 july' numeric
+@attribute '2 june' numeric
+@attribute 20 numeric
+@attribute '20 14' numeric
+@attribute 20th numeric
+@attribute '20th century' numeric
+@attribute 215-26 numeric
+@attribute '215-26 recent' numeric
+@attribute 22 numeric
+@attribute '22 28' numeric
+@attribute 235 numeric
+@attribute '235 11' numeric
+@attribute 24 numeric
+@attribute '24 -' numeric
+@attribute '24 a' numeric
+@attribute '24 details' numeric
+@attribute 24-25 numeric
+@attribute '24-25 describes' numeric
+@attribute 246 numeric
+@attribute '246 20' numeric
+@attribute '246 22' numeric
+@attribute 25 numeric
+@attribute '25 research' numeric
+@attribute 252 numeric
+@attribute '252 1' numeric
+@attribute 253 numeric
+@attribute '253 9' numeric
+@attribute 26 numeric
+@attribute '26 2' numeric
+@attribute 28 numeric
+@attribute '28 -' numeric
+@attribute '28 november' numeric
+@attribute 3 numeric
+@attribute '3 chlorine' numeric
+@attribute '3 describes' numeric
+@attribute 30 numeric
+@attribute '30 1999' numeric
+@attribute '30 may' numeric
+@attribute 309 numeric
+@attribute '309 describes' numeric
+@attribute 32 numeric
+@attribute '32 describes' numeric
+@attribute 33 numeric
+@attribute '33 1' numeric
+@attribute 34 numeric
+@attribute '34 the' numeric
+@attribute 35 numeric
+@attribute '35 1' numeric
+@attribute 35-45 numeric
+@attribute '35-45 describes' numeric
+@attribute 39 numeric
+@attribute '39 march' numeric
+@attribute 4 numeric
+@attribute '4 april' numeric
+@attribute 44-45 numeric
+@attribute '44-45 microwave-powered' numeric
+@attribute 47-48 numeric
+@attribute '47-48 companies' numeric
+@attribute 48 numeric
+@attribute '48 the' numeric
+@attribute 5 numeric
+@attribute '5 10' numeric
+@attribute 54 numeric
+@attribute '54 july' numeric
+@attribute 55 numeric
+@attribute '55 describes' numeric
+@attribute 56 numeric
+@attribute '56 a' numeric
+@attribute '56 describes' numeric
+@attribute '56 the' numeric
+@attribute 58 numeric
+@attribute '58 august' numeric
+@attribute 6 numeric
+@attribute '6 march' numeric
+@attribute 60 numeric
+@attribute '60 -' numeric
+@attribute 60-61 numeric
+@attribute '60-61 products' numeric
+@attribute 61 numeric
+@attribute '61 7' numeric
+@attribute '61 describes' numeric
+@attribute 63 numeric
+@attribute '63 describes' numeric
+@attribute 66-67 numeric
+@attribute '66-67 describes' numeric
+@attribute 69 numeric
+@attribute '69 may' numeric
+@attribute 69-71 numeric
+@attribute '69-71 describes' numeric
+@attribute 7 numeric
+@attribute '7 1990' numeric
+@attribute '7 1995' numeric
+@attribute 70 numeric
+@attribute '70 march' numeric
+@attribute 74 numeric
+@attribute '74 december' numeric
+@attribute '74 february' numeric
+@attribute 75 numeric
+@attribute '75 8' numeric
+@attribute 8 numeric
+@attribute '8 -' numeric
+@attribute '8 a' numeric
+@attribute '8 april' numeric
+@attribute '8 january' numeric
+@attribute 80 numeric
+@attribute '80 july' numeric
+@attribute 9 numeric
+@attribute '9 computer' numeric
+@attribute '9 describes' numeric
+@attribute '9 march' numeric
+@attribute 91 numeric
+@attribute '91 92' numeric
+@attribute 92 numeric
+@attribute '92 the' numeric
+@attribute 94 numeric
+@attribute '94 wooden-boat' numeric
+@attribute '\\*' numeric
+@attribute '\\* hudson' numeric
+@attribute '\\* troy' numeric
+@attribute '\\/' numeric
+@attribute '\\/ engineering' numeric
+@attribute 'a 7' numeric
+@attribute 'a and' numeric
+@attribute 'a century' numeric
+@attribute 'a chronology' numeric
+@attribute 'a community' numeric
+@attribute 'a comprehensive' numeric
+@attribute 'a device' numeric
+@attribute 'a general' numeric
+@attribute 'a history' numeric
+@attribute 'a industry' numeric
+@attribute 'a j' numeric
+@attribute 'a new' numeric
+@attribute 'a primary' numeric
+@attribute 'a r' numeric
+@attribute 'a resource' numeric
+@attribute 'a review' numeric
+@attribute 'a rural' numeric
+@attribute 'a ten' numeric
+@attribute 'a turbo' numeric
+@attribute abiotic numeric
+@attribute 'abiotic gradients' numeric
+@attribute acid numeric
+@attribute 'acid precipitation' numeric
+@attribute 'acid rain' numeric
+@attribute activities numeric
+@attribute 'activities at' numeric
+@attribute 'activities of' numeric
+@attribute admission numeric
+@attribute 'admission and' numeric
+@attribute advanced numeric
+@attribute 'advanced thin' numeric
+@attribute advisory numeric
+@attribute 'advisory panel' numeric
+@attribute aerogel numeric
+@attribute 'aerogel and' numeric
+@attribute affecting numeric
+@attribute 'affecting scientific' numeric
+@attribute age numeric
+@attribute 'age 196' numeric
+@attribute agriculture numeric
+@attribute 'agriculture and' numeric
+@attribute aided numeric
+@attribute 'aided design' numeric
+@attribute air numeric
+@attribute 'air conditioning' numeric
+@attribute airconditioning numeric
+@attribute 'airconditioning hvac' numeric
+@attribute aircraft numeric
+@attribute 'aircraft and' numeric
+@attribute 'aircraft developed' numeric
+@attribute airport numeric
+@attribute 'airport anonymous' numeric
+@attribute 'airport operations' numeric
+@attribute albany numeric
+@attribute 'albany albany' numeric
+@attribute 'albany and' numeric
+@attribute 'albany anonymous' numeric
+@attribute 'albany are' numeric
+@attribute 'albany college' numeric
+@attribute 'albany county' numeric
+@attribute 'albany international' numeric
+@attribute 'albany is' numeric
+@attribute 'albany johnson' numeric
+@attribute 'albany new' numeric
+@attribute 'albany photogrammetric' numeric
+@attribute 'albany region' numeric
+@attribute 'albany related' numeric
+@attribute 'albany s' numeric
+@attribute 'albany scientist' numeric
+@attribute 'albany to' numeric
+@attribute 'albany troy' numeric
+@attribute 'albany university' numeric
+@attribute 'albany w' numeric
+@attribute albanybased numeric
+@attribute 'albanybased paper' numeric
+@attribute 'along the' numeric
+@attribute america numeric
+@attribute 'america s' numeric
+@attribute american numeric
+@attribute 'american city' numeric
+@attribute 'american meteorological' numeric
+@attribute 'american society' numeric
+@attribute 'american water' numeric
+@attribute 'an effort' numeric
+@attribute 'and abiotic' numeric
+@attribute 'and airconditioning' numeric
+@attribute 'and b' numeric
+@attribute 'and burn' numeric
+@attribute 'and business' numeric
+@attribute 'and c' numeric
+@attribute 'and data' numeric
+@attribute 'and economic' numeric
+@attribute 'and felt' numeric
+@attribute 'and geographic' numeric
+@attribute 'and governmental' numeric
+@attribute 'and hudson' numeric
+@attribute 'and industrial' numeric
+@attribute 'and industry' numeric
+@attribute 'and insulating' numeric
+@attribute 'and its' numeric
+@attribute 'and james' numeric
+@attribute 'and john' numeric
+@attribute 'and liaquat' numeric
+@attribute 'and michael' numeric
+@attribute 'and nutrient' numeric
+@attribute 'and paperdrying' numeric
+@attribute 'and parking' numeric
+@attribute 'and planning' numeric
+@attribute 'and preparation' numeric
+@attribute 'and r' numeric
+@attribute 'and regional' numeric
+@attribute 'and rensselaer' numeric
+@attribute 'and robert' numeric
+@attribute 'and shakedown' numeric
+@attribute 'and state' numeric
+@attribute 'and technology' numeric
+@attribute 'and textile' numeric
+@attribute 'and the' numeric
+@attribute 'and their' numeric
+@attribute 'and virtual' numeric
+@attribute 'and xerogel' numeric
+@attribute anemometer numeric
+@attribute 'anemometer bulletin' numeric
+@attribute anomalies numeric
+@attribute 'anomalies at' numeric
+@attribute anonymous numeric
+@attribute 'anonymous aerogel' numeric
+@attribute 'anonymous albany' numeric
+@attribute 'anonymous basf' numeric
+@attribute 'anonymous energy' numeric
+@attribute 'anonymous faa' numeric
+@attribute 'anonymous life' numeric
+@attribute 'anonymous monitoring' numeric
+@attribute 'anonymous source' numeric
+@attribute 'anonymous tap' numeric
+@attribute 'anonymous videographic' numeric
+@attribute 'anonymous watervliet' numeric
+@attribute 'anonymous wireless' numeric
+@attribute 'anonymous your' numeric
+@attribute april numeric
+@attribute 'april 1988' numeric
+@attribute 'april 1998' numeric
+@attribute aqua numeric
+@attribute 'aqua clear' numeric
+@attribute archival numeric
+@attribute 'archival sources' numeric
+@attribute 'are described' numeric
+@attribute 'are discussed' numeric
+@attribute 'are featured' numeric
+@attribute area numeric
+@attribute 'area system' numeric
+@attribute arms numeric
+@attribute 'arms for' numeric
+@attribute army numeric
+@attribute 'army 1963' numeric
+@attribute 'army 1993' numeric
+@attribute 'army s' numeric
+@attribute arsenal numeric
+@attribute 'arsenal 1813' numeric
+@attribute 'arsenal a' numeric
+@attribute 'arsenal anonymous' numeric
+@attribute 'arsenal from' numeric
+@attribute 'arsenal has' numeric
+@attribute 'arsenal new' numeric
+@attribute 'arsenal sesquicentennial' numeric
+@attribute 'as fuel' numeric
+@attribute 'as their' numeric
+@attribute 'as well' numeric
+@attribute association numeric
+@attribute 'association 33' numeric
+@attribute 'at albany' numeric
+@attribute 'at basf' numeric
+@attribute 'at manufacturing' numeric
+@attribute 'at rensselaer' numeric
+@attribute 'at the' numeric
+@attribute 'at troy' numeric
+@attribute atmospheric numeric
+@attribute 'atmospheric environment' numeric
+@attribute august numeric
+@attribute 'august 1992' numeric
+@attribute 'august 1997' numeric
+@attribute authority numeric
+@attribute 'authority is' numeric
+@attribute 'available from' numeric
+@attribute aviation numeric
+@attribute 'aviation week' numeric
+@attribute 'b warren' numeric
+@attribute barlow numeric
+@attribute 'barlow sandra' numeric
+@attribute basf numeric
+@attribute 'basf expands' numeric
+@attribute 'basf plant' numeric
+@attribute 'basf s' numeric
+@attribute begain numeric
+@attribute 'begain with' numeric
+@attribute 'between rensselaer' numeric
+@attribute bibliography numeric
+@attribute 'bibliography current' numeric
+@attribute 'bibliography page' numeric
+@attribute 'bibliography sign' numeric
+@attribute biocycle numeric
+@attribute 'biocycle journal' numeric
+@attribute biotic numeric
+@attribute 'biotic and' numeric
+@attribute blood numeric
+@attribute 'blood new' numeric
+@attribute boats numeric
+@attribute 'boats are' numeric
+@attribute 'boats hudson' numeric
+@attribute book numeric
+@attribute 'book links' numeric
+@attribute 'book view' numeric
+@attribute bosart numeric
+@attribute 'bosart and' numeric
+@attribute boyce numeric
+@attribute 'boyce nell' numeric
+@attribute boylen numeric
+@attribute 'boylen spatial' numeric
+@attribute brail numeric
+@attribute 'brail r' numeric
+@attribute broadcasting numeric
+@attribute 'broadcasting 116' numeric
+@attribute builders numeric
+@attribute 'builders in' numeric
+@attribute bulletin numeric
+@attribute 'bulletin of' numeric
+@attribute bullough numeric
+@attribute 'bullough and' numeric
+@attribute 'bullough last' numeric
+@attribute bureau numeric
+@attribute 'bureau of' numeric
+@attribute burn numeric
+@attribute 'burn refuse' numeric
+@attribute business numeric
+@attribute 'business and' numeric
+@attribute 'business in' numeric
+@attribute butler numeric
+@attribute 'butler douglas' numeric
+@attribute 'by albany' numeric
+@attribute 'by capital' numeric
+@attribute 'by microwaves' numeric
+@attribute 'by sloane' numeric
+@attribute 'by videographic' numeric
+@attribute 'c a' numeric
+@attribute 'c albany' numeric
+@attribute 'c america' numeric
+@attribute 'c w' numeric
+@attribute cad numeric
+@attribute 'cad was' numeric
+@attribute calendar numeric
+@attribute 'calendar self' numeric
+@attribute capacity numeric
+@attribute 'capacity at' numeric
+@attribute 'capacity of' numeric
+@attribute capital numeric
+@attribute 'capital investments' numeric
+@attribute 'capital wireless' numeric
+@attribute carter numeric
+@attribute 'carter robert' numeric
+@attribute center numeric
+@attribute 'center 1' numeric
+@attribute 'center for' numeric
+@attribute 'center history' numeric
+@attribute 'center provides' numeric
+@attribute century numeric
+@attribute 'century business' numeric
+@attribute 'century of' numeric
+@attribute change numeric
+@attribute 'change industry' numeric
+@attribute characterization numeric
+@attribute 'characterization of' numeric
+@attribute chem numeric
+@attribute 'chem aqua' numeric
+@attribute chemical numeric
+@attribute 'chemical characterization' numeric
+@attribute 'chemical makeup' numeric
+@attribute 'chemical market' numeric
+@attribute 'chemical marketing' numeric
+@attribute 'chemical week' numeric
+@attribute chemicals numeric
+@attribute 'chemicals at' numeric
+@attribute 'chemicals joint' numeric
+@attribute chlorine numeric
+@attribute 'chlorine manufacturing' numeric
+@attribute chronology numeric
+@attribute 'chronology of' numeric
+@attribute circulation numeric
+@attribute 'circulation system' numeric
+@attribute cities numeric
+@attribute 'cities broadcasting' numeric
+@attribute city numeric
+@attribute 'city county' numeric
+@attribute 'city of' numeric
+@attribute civil numeric
+@attribute 'civil engineering' numeric
+@attribute 'civil engineers' numeric
+@attribute clear numeric
+@attribute 'clear combine' numeric
+@attribute cohoes numeric
+@attribute 'cohoes cohoes' numeric
+@attribute 'cohoes in' numeric
+@attribute 'cohoes industrial' numeric
+@attribute 'cohoes new' numeric
+@attribute collection numeric
+@attribute 'collection at' numeric
+@attribute 'collection improved' numeric
+@attribute college numeric
+@attribute 'college of' numeric
+@attribute combine numeric
+@attribute 'combine strengths' numeric
+@attribute commerce numeric
+@attribute 'commerce 1960' numeric
+@attribute commercial numeric
+@attribute 'commercial air' numeric
+@attribute commission numeric
+@attribute 'commission 1961' numeric
+@attribute 'commission industrial' numeric
+@attribute community numeric
+@attribute 'community advisory' numeric
+@attribute 'community biocycle' numeric
+@attribute companies numeric
+@attribute 'companies that' numeric
+@attribute company numeric
+@attribute 'company albany' numeric
+@attribute 'company and' numeric
+@attribute 'company smith' numeric
+@attribute compiled numeric
+@attribute 'compiled by' numeric
+@attribute components numeric
+@attribute 'components made' numeric
+@attribute comprehensive numeric
+@attribute 'comprehensive list' numeric
+@attribute computer numeric
+@attribute 'computer -' numeric
+@attribute 'computer components' numeric
+@attribute computeraided numeric
+@attribute 'computeraided design' numeric
+@attribute conard numeric
+@attribute 'conard center' numeric
+@attribute conditioning numeric
+@attribute 'conditioning power' numeric
+@attribute conditions numeric
+@attribute 'conditions of' numeric
+@attribute control numeric
+@attribute 'control commercial' numeric
+@attribute copyright numeric
+@attribute 'copyright 1999' numeric
+@attribute corporation numeric
+@attribute 'corporation 1995' numeric
+@attribute 'corporation boyce' numeric
+@attribute 'corporation in' numeric
+@attribute 'corporation to' numeric
+@attribute county numeric
+@attribute 'county 111' numeric
+@attribute 'county airport' numeric
+@attribute 'county albany' numeric
+@attribute 'county historical' numeric
+@attribute 'county in' numeric
+@attribute 'county melcher' numeric
+@attribute 'county meredith' numeric
+@attribute 'county saunders' numeric
+@attribute 'county solid' numeric
+@attribute crouse numeric
+@attribute 'crouse and' numeric
+@attribute cs numeric
+@attribute 'cs 69' numeric
+@attribute current numeric
+@attribute 'current industry' numeric
+@attribute 'd bullough' numeric
+@attribute 'd dissertation' numeric
+@attribute dan numeric
+@attribute 'dan rhone' numeric
+@attribute data numeric
+@attribute 'data collection' numeric
+@attribute december numeric
+@attribute 'december 1992' numeric
+@attribute 'december 1995' numeric
+@attribute defense numeric
+@attribute 'defense today' numeric
+@attribute delineation numeric
+@attribute 'delineation of' numeric
+@attribute demise numeric
+@attribute 'demise greatly' numeric
+@attribute department numeric
+@attribute 'department legislative' numeric
+@attribute 'department of' numeric
+@attribute 'described anonymous' numeric
+@attribute 'described barlow' numeric
+@attribute 'described brail' numeric
+@attribute 'described hood' numeric
+@attribute 'described kacharian' numeric
+@attribute 'described khwaja' numeric
+@attribute 'described mamis' numeric
+@attribute 'described melcher' numeric
+@attribute 'described phair' numeric
+@attribute 'described rensselaer' numeric
+@attribute describes numeric
+@attribute 'describes a' numeric
+@attribute 'describes an' numeric
+@attribute 'describes efforts' numeric
+@attribute 'describes forces' numeric
+@attribute 'describes laser-powered' numeric
+@attribute 'describes privatization' numeric
+@attribute 'describes research' numeric
+@attribute 'describes technology' numeric
+@attribute 'describes the' numeric
+@attribute design numeric
+@attribute 'design cad' numeric
+@attribute 'design simulation' numeric
+@attribute details numeric
+@attribute 'details the' numeric
+@attribute developed numeric
+@attribute 'developed at' numeric
+@attribute 'developed in' numeric
+@attribute developer numeric
+@attribute 'developer seidel' numeric
+@attribute development numeric
+@attribute 'development for' numeric
+@attribute 'development industrial' numeric
+@attribute 'development on' numeric
+@attribute device numeric
+@attribute 'device developed' numeric
+@attribute dexter numeric
+@attribute 'dexter oxy' numeric
+@attribute directions numeric
+@attribute 'directions nys' numeric
+@attribute discover numeric
+@attribute 'discover 17' numeric
+@attribute 'discover 19' numeric
+@attribute discussed numeric
+@attribute 'discussed anonymous' numeric
+@attribute 'discussed as' numeric
+@attribute 'discussed at' numeric
+@attribute 'discussed holton' numeric
+@attribute dissertation numeric
+@attribute 'dissertation troy' numeric
+@attribute documenting numeric
+@attribute 'documenting change' numeric
+@attribute douglas numeric
+@attribute 'douglas r' numeric
+@attribute dream numeric
+@attribute 'dream boats' numeric
+@attribute drummond numeric
+@attribute 'drummond j' numeric
+@attribute drying numeric
+@attribute 'drying tappi' numeric
+@attribute dudley numeric
+@attribute 'dudley g' numeric
+@attribute dynamics numeric
+@attribute 'dynamics of' numeric
+@attribute 'e mower' numeric
+@attribute eastern numeric
+@attribute 'eastern rensselaer' numeric
+@attribute economic numeric
+@attribute 'economic conditions' numeric
+@attribute education numeric
+@attribute 'education department' numeric
+@attribute educational numeric
+@attribute 'educational toy' numeric
+@attribute efficiency numeric
+@attribute 'efficiency american' numeric
+@attribute effort numeric
+@attribute 'effort by' numeric
+@attribute efforts numeric
+@attribute 'efforts for' numeric
+@attribute 'efforts of' numeric
+@attribute 'efforts to' numeric
+@attribute embossing numeric
+@attribute 'embossing company' numeric
+@attribute empire numeric
+@attribute 'empire state' numeric
+@attribute energy numeric
+@attribute 'energy recovery' numeric
+@attribute 'energy resources' numeric
+@attribute 'energy use' numeric
+@attribute engineering numeric
+@attribute 'engineering american' numeric
+@attribute 'engineering management' numeric
+@attribute 'engineering remote' numeric
+@attribute engineers numeric
+@attribute 'engineers 54' numeric
+@attribute enr numeric
+@attribute 'enr 235' numeric
+@attribute environment numeric
+@attribute 'environment part' numeric
+@attribute events numeric
+@attribute 'events calendar' numeric
+@attribute exaggerated numeric
+@attribute 'exaggerated textile' numeric
+@attribute expands numeric
+@attribute 'expands its' numeric
+@attribute 'expands uv' numeric
+@attribute 'expands uvinul' numeric
+@attribute 'f bosart' numeric
+@attribute faa numeric
+@attribute 'faa reviews' numeric
+@attribute fabric numeric
+@attribute 'fabric development' numeric
+@attribute facilities numeric
+@attribute 'facilities admission' numeric
+@attribute facility numeric
+@attribute 'facility of' numeric
+@attribute fact numeric
+@attribute 'fact or' numeric
+@attribute falling numeric
+@attribute 'falling in' numeric
+@attribute featured numeric
+@attribute 'featured carter' numeric
+@attribute february numeric
+@attribute 'february 1984' numeric
+@attribute 'february 1993' numeric
+@attribute felt numeric
+@attribute 'felt at' numeric
+@attribute fenella numeric
+@attribute 'fenella rocket' numeric
+@attribute fenton numeric
+@attribute 'fenton partners' numeric
+@attribute fiction numeric
+@attribute 'fiction bulletin' numeric
+@attribute fighting numeric
+@attribute 'fighting men' numeric
+@attribute film numeric
+@attribute 'film knowledge' numeric
+@attribute 'film technology' numeric
+@attribute 'first one' numeric
+@attribute floyd numeric
+@attribute 'floyd m' numeric
+@attribute fly numeric
+@attribute 'fly by' numeric
+@attribute 'for advanced' numeric
+@attribute 'for computeraided' numeric
+@attribute 'for energy' numeric
+@attribute 'for impulse' numeric
+@attribute 'for industry' numeric
+@attribute 'for rural' numeric
+@attribute 'for the' numeric
+@attribute forces numeric
+@attribute 'forces affecting' numeric
+@attribute foreign numeric
+@attribute 'foreign wars' numeric
+@attribute 'from 1812' numeric
+@attribute 'from map' numeric
+@attribute 'from the' numeric
+@attribute fuel numeric
+@attribute 'fuel in' numeric
+@attribute future numeric
+@attribute 'future railway' numeric
+@attribute 'g and' numeric
+@attribute 'g moriarty' numeric
+@attribute gateway numeric
+@attribute 'gateway \\*' numeric
+@attribute gaza numeric
+@attribute 'gaza recent' numeric
+@attribute general numeric
+@attribute 'general topics' numeric
+@attribute geographic numeric
+@attribute 'geographic information' numeric
+@attribute geography numeric
+@attribute 'geography and' numeric
+@attribute governmental numeric
+@attribute 'governmental services' numeric
+@attribute gradients numeric
+@attribute 'gradients in' numeric
+@attribute greatly numeric
+@attribute 'greatly exaggerated' numeric
+@attribute greeley numeric
+@attribute 'greeley startup' numeric
+@attribute gregory numeric
+@attribute 'gregory t' numeric
+@attribute group numeric
+@attribute 'group services' numeric
+@attribute guest numeric
+@attribute 'guest book' numeric
+@attribute guide numeric
+@attribute 'guide troy' numeric
+@attribute guided numeric
+@attribute 'guided tours' numeric
+@attribute 'h greeley' numeric
+@attribute 'h meredith' numeric
+@attribute 'h the' numeric
+@attribute haider numeric
+@attribute 'haider a' numeric
+@attribute 'has long' numeric
+@attribute health numeric
+@attribute 'health murray' numeric
+@attribute 'health of' numeric
+@attribute heating numeric
+@attribute 'heating ventilation' numeric
+@attribute held numeric
+@attribute 'held in' numeric
+@attribute henderson numeric
+@attribute 'henderson floyd' numeric
+@attribute heritage numeric
+@attribute 'heritage area' numeric
+@attribute high numeric
+@attribute 'high -' numeric
+@attribute historical numeric
+@attribute 'historical society' numeric
+@attribute history numeric
+@attribute 'history and' numeric
+@attribute 'history of' numeric
+@attribute 'history vfw' numeric
+@attribute hits numeric
+@attribute 'hits scheduling' numeric
+@attribute holton numeric
+@attribute 'holton w' numeric
+@attribute home numeric
+@attribute 'home troy' numeric
+@attribute hood numeric
+@attribute 'hood mark' numeric
+@attribute hours numeric
+@attribute 'hours directions' numeric
+@attribute hudson numeric
+@attribute 'hudson -' numeric
+@attribute 'hudson copyright' numeric
+@attribute 'hudson mohawk' numeric
+@attribute 'hudson valley' numeric
+@attribute human numeric
+@attribute 'human circulation' numeric
+@attribute hundred numeric
+@attribute 'hundred years' numeric
+@attribute husain numeric
+@attribute 'husain chemical' numeric
+@attribute hvac numeric
+@attribute 'hvac system' numeric
+@attribute 'i cs' numeric
+@attribute impact numeric
+@attribute 'impact of' numeric
+@attribute improved numeric
+@attribute 'improved by' numeric
+@attribute improvements numeric
+@attribute 'improvements along' numeric
+@attribute improves numeric
+@attribute 'improves monitoring' numeric
+@attribute impulse numeric
+@attribute 'impulse drying' numeric
+@attribute 'in a' numeric
+@attribute 'in aircraft' numeric
+@attribute 'in albany' numeric
+@attribute 'in december' numeric
+@attribute 'in new' numeric
+@attribute 'in pool' numeric
+@attribute 'in rensselaer' numeric
+@attribute 'in science' numeric
+@attribute 'in sunscreen' numeric
+@attribute 'in the' numeric
+@attribute 'in troy' numeric
+@attribute 'in u' numeric
+@attribute 'in watervliet' numeric
+@attribute 'in your' numeric
+@attribute 'inc 19' numeric
+@attribute including numeric
+@attribute 'including troy' numeric
+@attribute increases numeric
+@attribute 'increases efficiency' numeric
+@attribute industrial numeric
+@attribute 'industrial commission' numeric
+@attribute 'industrial development' numeric
+@attribute 'industrial gateway' numeric
+@attribute 'industrial productivity' numeric
+@attribute 'industrial promotion' numeric
+@attribute 'industrial resources' numeric
+@attribute 'industrial technology' numeric
+@attribute industries numeric
+@attribute 'industries 148' numeric
+@attribute industry numeric
+@attribute 'industry and' numeric
+@attribute 'industry in' numeric
+@attribute 'industry moon' numeric
+@attribute 'industry of' numeric
+@attribute 'industry solid' numeric
+@attribute info numeric
+@attribute 'info are' numeric
+@attribute 'info corporation' numeric
+@attribute information numeric
+@attribute 'information group' numeric
+@attribute 'information on' numeric
+@attribute 'information software' numeric
+@attribute 'information systems' numeric
+@attribute initial numeric
+@attribute 'initial capital' numeric
+@attribute innovative numeric
+@attribute 'innovative solutions' numeric
+@attribute institute numeric
+@attribute 'institute 1994' numeric
+@attribute 'institute in' numeric
+@attribute 'institute scheraga' numeric
+@attribute 'institute that' numeric
+@attribute insulating numeric
+@attribute 'insulating systems' numeric
+@attribute international numeric
+@attribute 'international a' numeric
+@attribute 'international are' numeric
+@attribute 'international corporation' numeric
+@attribute 'international innovative' numeric
+@attribute 'international is' numeric
+@attribute 'international s' numeric
+@attribute 'international skaaren' numeric
+@attribute 'international the' numeric
+@attribute investments numeric
+@attribute 'investments including' numeric
+@attribute 'is described' numeric
+@attribute 'is discussed' numeric
+@attribute 'is ready' numeric
+@attribute 'its niche' numeric
+@attribute 'its role' numeric
+@attribute 'j a' numeric
+@attribute 'j drummond' numeric
+@attribute 'j levine' numeric
+@attribute 'j soracco' numeric
+@attribute james numeric
+@attribute 'james e' numeric
+@attribute 'james v' numeric
+@attribute january numeric
+@attribute 'january 1990' numeric
+@attribute 'january 1994' numeric
+@attribute 'january 1996' numeric
+@attribute jere numeric
+@attribute 'jere w' numeric
+@attribute john numeric
+@attribute 'john c' numeric
+@attribute 'john d' numeric
+@attribute 'john swantek' numeric
+@attribute 'john w' numeric
+@attribute johnson numeric
+@attribute 'johnson dexter' numeric
+@attribute joint numeric
+@attribute 'joint venture' numeric
+@attribute journal numeric
+@attribute 'journal 80' numeric
+@attribute 'journal of' numeric
+@attribute july numeric
+@attribute 'july 1984' numeric
+@attribute 'july 1997' numeric
+@attribute june numeric
+@attribute 'june 1997' numeric
+@attribute 'k jere' numeric
+@attribute 'k w' numeric
+@attribute kacharian numeric
+@attribute 'kacharian john' numeric
+@attribute kessler numeric
+@attribute 'kessler ronald' numeric
+@attribute khwaja numeric
+@attribute 'khwaja haider' numeric
+@attribute kills numeric
+@attribute 'kills discover' numeric
+@attribute knowledge numeric
+@attribute 'knowledge for' numeric
+@attribute labor numeric
+@attribute 'labor and' numeric
+@attribute lance numeric
+@attribute 'lance f' numeric
+@attribute laser-powered numeric
+@attribute 'laser-powered aircraft' numeric
+@attribute 'last updated' numeric
+@attribute launches numeric
+@attribute 'launches in' numeric
+@attribute legislative numeric
+@attribute 'legislative and' numeric
+@attribute leon numeric
+@attribute 'leon m' numeric
+@attribute levine numeric
+@attribute 'levine and' numeric
+@attribute liaquat numeric
+@attribute 'liaquat husain' numeric
+@attribute library numeric
+@attribute 'library 1989' numeric
+@attribute life numeric
+@attribute 'life kills' numeric
+@attribute light numeric
+@attribute 'light capacity' numeric
+@attribute links numeric
+@attribute 'links troy' numeric
+@attribute list numeric
+@attribute 'list of' numeric
+@attribute long numeric
+@attribute 'long history' numeric
+@attribute lorna numeric
+@attribute 'lorna albany' numeric
+@attribute loudonville numeric
+@attribute 'loudonville reservoir' numeric
+@attribute 'm albany' numeric
+@attribute 'm and' numeric
+@attribute made numeric
+@attribute 'made in' numeric
+@attribute magazine numeric
+@attribute 'magazine 17' numeric
+@attribute 'magazine 74' numeric
+@attribute 'magazine 75' numeric
+@attribute main numeric
+@attribute 'main bibliography' numeric
+@attribute makeup numeric
+@attribute 'makeup of' numeric
+@attribute mamis numeric
+@attribute 'mamis robert' numeric
+@attribute management numeric
+@attribute 'management 142' numeric
+@attribute 'management authority' numeric
+@attribute manufacture numeric
+@attribute 'manufacture and' numeric
+@attribute 'manufacture of' numeric
+@attribute manufactured numeric
+@attribute 'manufactured by' numeric
+@attribute manufacturing numeric
+@attribute 'manufacturing activities' numeric
+@attribute 'manufacturing capacity' numeric
+@attribute 'manufacturing company' numeric
+@attribute 'manufacturing in' numeric
+@attribute 'manufacturing site' numeric
+@attribute map numeric
+@attribute 'map info' numeric
+@attribute mapping numeric
+@attribute 'mapping and' numeric
+@attribute march numeric
+@attribute 'march 1989' numeric
+@attribute 'march 1995' numeric
+@attribute 'march 1996' numeric
+@attribute 'march 1998' numeric
+@attribute 'march 3' numeric
+@attribute mark numeric
+@attribute 'mark t' numeric
+@attribute market numeric
+@attribute 'market chemical' numeric
+@attribute 'market reporter' numeric
+@attribute marketing numeric
+@attribute 'marketing reporter' numeric
+@attribute matthew numeric
+@attribute 'matthew virtual' numeric
+@attribute maximum numeric
+@attribute 'maximum temperature' numeric
+@attribute 'may 1988' numeric
+@attribute 'may 1996' numeric
+@attribute 'may 1998' numeric
+@attribute measure numeric
+@attribute 'measure wind' numeric
+@attribute measurements numeric
+@attribute 'measurements of' numeric
+@attribute measures numeric
+@attribute 'measures the' numeric
+@attribute mechanics numeric
+@attribute 'mechanics 172' numeric
+@attribute meeting numeric
+@attribute 'meeting facilities' numeric
+@attribute melcher numeric
+@attribute 'melcher j' numeric
+@attribute men numeric
+@attribute 'men watervliet' numeric
+@attribute meredith numeric
+@attribute 'meredith 1996' numeric
+@attribute 'meredith william' numeric
+@attribute meteorological numeric
+@attribute 'meteorological society' numeric
+@attribute mice numeric
+@attribute 'mice planning' numeric
+@attribute michael numeric
+@attribute 'michael g' numeric
+@attribute microwave-powered numeric
+@attribute 'microwave-powered aircraft' numeric
+@attribute microwaves numeric
+@attribute 'microwaves popular' numeric
+@attribute mighty numeric
+@attribute 'mighty mice' numeric
+@attribute mohawk numeric
+@attribute 'mohawk industrial' numeric
+@attribute 'mohawk region' numeric
+@attribute monitor numeric
+@attribute 'monitor water' numeric
+@attribute monitoring numeric
+@attribute 'monitoring and' numeric
+@attribute moon numeric
+@attribute 'moon dudley' numeric
+@attribute moriarty numeric
+@attribute 'moriarty fabric' numeric
+@attribute mower numeric
+@attribute 'mower department' numeric
+@attribute murray numeric
+@attribute 'murray james' numeric
+@attribute nation numeric
+@attribute 'nation s' numeric
+@attribute nell numeric
+@attribute 'nell the' numeric
+@attribute 'new plan' numeric
+@attribute 'new scientist' numeric
+@attribute 'new software' numeric
+@attribute 'new york' numeric
+@attribute niche numeric
+@attribute 'niche player' numeric
+@attribute nollet numeric
+@attribute 'nollet a' numeric
+@attribute november numeric
+@attribute 'november 1991' numeric
+@attribute 'november 1994' numeric
+@attribute 'november 1995' numeric
+@attribute 'november 1996' numeric
+@attribute nutrient numeric
+@attribute 'nutrient dynamics' numeric
+@attribute ny numeric
+@attribute 'ny 1945' numeric
+@attribute nys numeric
+@attribute 'nys heritage' numeric
+@attribute 'of a' numeric
+@attribute 'of acid' numeric
+@attribute 'of agriculture' numeric
+@attribute 'of albany' numeric
+@attribute 'of archival' numeric
+@attribute 'of biotic' numeric
+@attribute 'of blood' numeric
+@attribute 'of chemicals' numeric
+@attribute 'of civil' numeric
+@attribute 'of cohoes' numeric
+@attribute 'of commerce' numeric
+@attribute 'of energy' numeric
+@attribute 'of foreign' numeric
+@attribute 'of geography' numeric
+@attribute 'of health' numeric
+@attribute 'of industrial' numeric
+@attribute 'of labor' numeric
+@attribute 'of new' numeric
+@attribute 'of paper' numeric
+@attribute 'of pharmacy' numeric
+@attribute 'of rensselaer' numeric
+@attribute 'of service' numeric
+@attribute 'of temperature' numeric
+@attribute 'of the' numeric
+@attribute 'of this' numeric
+@attribute 'of ultraviolet-absorbing' numeric
+@attribute 'of waste' numeric
+@attribute oldest numeric
+@attribute 'oldest arsenal' numeric
+@attribute 'on industry' numeric
+@attribute 'on oscillatory' numeric
+@attribute 'on the' numeric
+@attribute 'one hundred' numeric
+@attribute operation numeric
+@attribute 'operation launches' numeric
+@attribute operations numeric
+@attribute 'operations aviation' numeric
+@attribute 'operations of' numeric
+@attribute 'or fiction' numeric
+@attribute oscillatory numeric
+@attribute 'oscillatory anemometer' numeric
+@attribute 'our guest' numeric
+@attribute oxy numeric
+@attribute 'oxy chem' numeric
+@attribute page numeric
+@attribute 'page return' numeric
+@attribute panel numeric
+@attribute 'panel at' numeric
+@attribute paper numeric
+@attribute 'paper and' numeric
+@attribute paperdrying numeric
+@attribute 'paperdrying techniques' numeric
+@attribute parking numeric
+@attribute 'parking hours' numeric
+@attribute part numeric
+@attribute 'part a' numeric
+@attribute partners numeric
+@attribute 'partners in' numeric
+@attribute patent numeric
+@attribute 'patent on' numeric
+@attribute pc numeric
+@attribute 'pc magazine' numeric
+@attribute pertaining numeric
+@attribute 'pertaining to' numeric
+@attribute ph numeric
+@attribute 'ph d' numeric
+@attribute phair numeric
+@attribute 'phair matthew' numeric
+@attribute pharmacy numeric
+@attribute 'pharmacy and' numeric
+@attribute photogrammetric numeric
+@attribute 'photogrammetric engineering' numeric
+@attribute pilot numeric
+@attribute 'pilot set' numeric
+@attribute pima numeric
+@attribute 'pima magazine' numeric
+@attribute plan numeric
+@attribute 'plan to' numeric
+@attribute planning numeric
+@attribute 'planning 61' numeric
+@attribute 'planning state' numeric
+@attribute plant numeric
+@attribute 'plant in' numeric
+@attribute 'plant used' numeric
+@attribute player numeric
+@attribute 'player role' numeric
+@attribute plaza numeric
+@attribute 'plaza in' numeric
+@attribute polytechnic numeric
+@attribute 'polytechnic institute' numeric
+@attribute pool numeric
+@attribute 'pool chemicals' numeric
+@attribute pope numeric
+@attribute 'pope gregory' numeric
+@attribute popular numeric
+@attribute 'popular mechanics' numeric
+@attribute poulenc numeric
+@attribute 'poulenc expands' numeric
+@attribute power numeric
+@attribute 'power 132' numeric
+@attribute precipitation numeric
+@attribute 'precipitation in' numeric
+@attribute premium numeric
+@attribute 'premium television' numeric
+@attribute preparation numeric
+@attribute 'preparation of' numeric
+@attribute present numeric
+@attribute 'present a' numeric
+@attribute primary numeric
+@attribute 'primary productivity' numeric
+@attribute privatization numeric
+@attribute 'privatization efforts' numeric
+@attribute privatize numeric
+@attribute 'privatize albany' numeric
+@attribute processing numeric
+@attribute 'processing facility' numeric
+@attribute production numeric
+@attribute 'production of' numeric
+@attribute productivity numeric
+@attribute 'productivity and' numeric
+@attribute 'productivity from' numeric
+@attribute products numeric
+@attribute 'products anonymous' numeric
+@attribute 'products manufactured' numeric
+@attribute promotion numeric
+@attribute 'promotion within' numeric
+@attribute provide numeric
+@attribute 'provide wireless' numeric
+@attribute 'provides information' numeric
+@attribute 'provides thin' numeric
+@attribute quality numeric
+@attribute 'quality for' numeric
+@attribute 'r and' numeric
+@attribute 'r dream' numeric
+@attribute 'r h' numeric
+@attribute 'r k' numeric
+@attribute railroad numeric
+@attribute 'railroad improvements' numeric
+@attribute railway numeric
+@attribute 'railway age' numeric
+@attribute rain numeric
+@attribute 'rain falling' numeric
+@attribute ready numeric
+@attribute 'ready chemical' numeric
+@attribute reality numeric
+@attribute 'reality hits' numeric
+@attribute 'reality symposium' numeric
+@attribute receives numeric
+@attribute 'receives patent' numeric
+@attribute recent numeric
+@attribute 'recent maximum' numeric
+@attribute 'recent measurements' numeric
+@attribute recorder numeric
+@attribute 'recorder improves' numeric
+@attribute 'recorder increases' numeric
+@attribute 'recorder water' numeric
+@attribute recovery numeric
+@attribute 'recovery civil' numeric
+@attribute 'recovery system' numeric
+@attribute recycle numeric
+@attribute 'recycle and' numeric
+@attribute recycling numeric
+@attribute 'recycling 35' numeric
+@attribute refuse numeric
+@attribute 'refuse as' numeric
+@attribute 'refuse for' numeric
+@attribute region numeric
+@attribute 'region anonymous' numeric
+@attribute 'region are' numeric
+@attribute 'region home' numeric
+@attribute 'region is' numeric
+@attribute 'region research' numeric
+@attribute regional numeric
+@attribute 'regional development' numeric
+@attribute related numeric
+@attribute 'related to' numeric
+@attribute remote numeric
+@attribute 'remote sensing' numeric
+@attribute rensselaer numeric
+@attribute 'rensselaer and' numeric
+@attribute 'rensselaer county' numeric
+@attribute 'rensselaer is' numeric
+@attribute 'rensselaer ny' numeric
+@attribute 'rensselaer polytechnic' numeric
+@attribute 'rensselaer s' numeric
+@attribute 'rensselaer site' numeric
+@attribute reporter numeric
+@attribute 'reporter 246' numeric
+@attribute 'reporter 252' numeric
+@attribute 'reporter 253' numeric
+@attribute research numeric
+@attribute 'research activities' numeric
+@attribute 'research and' numeric
+@attribute 'research at' numeric
+@attribute 'research bibliography' numeric
+@attribute 'research textile' numeric
+@attribute reservoir numeric
+@attribute 'reservoir i' numeric
+@attribute 'reservoir in' numeric
+@attribute 'reservoir journal' numeric
+@attribute 'reservoir ph' numeric
+@attribute resource numeric
+@attribute 'resource association' numeric
+@attribute 'resource guide' numeric
+@attribute resources numeric
+@attribute 'resources survey' numeric
+@attribute 'resources technology' numeric
+@attribute return numeric
+@attribute 'return to' numeric
+@attribute review numeric
+@attribute 'review of' numeric
+@attribute reviews numeric
+@attribute 'reviews new' numeric
+@attribute rhone numeric
+@attribute 'rhone -' numeric
+@attribute river numeric
+@attribute 'river spark' numeric
+@attribute robert numeric
+@attribute 'robert a' numeric
+@attribute 'robert s' numeric
+@attribute rocket numeric
+@attribute 'rocket science' numeric
+@attribute role numeric
+@attribute 'role in' numeric
+@attribute ronald numeric
+@attribute 'ronald w' numeric
+@attribute route numeric
+@attribute 'route between' numeric
+@attribute rural numeric
+@attribute 'rural community' numeric
+@attribute 'rural new' numeric
+@attribute 'rural water' numeric
+@attribute rush numeric
+@attribute 'rush of' numeric
+@attribute 's airport' numeric
+@attribute 's army' numeric
+@attribute 's arsenal' numeric
+@attribute 's basf' numeric
+@attribute 's defense' numeric
+@attribute 's demise' numeric
+@attribute 's fighting' numeric
+@attribute 's gaza' numeric
+@attribute 's hudson' numeric
+@attribute 's loudonville' numeric
+@attribute 's map' numeric
+@attribute 's oldest' numeric
+@attribute 's rensselaer' numeric
+@attribute 's river' numeric
+@attribute 's silicone' numeric
+@attribute 's watervliet' numeric
+@attribute sandra numeric
+@attribute 'sandra k' numeric
+@attribute saunders numeric
+@attribute 'saunders fenella' numeric
+@attribute scheduling numeric
+@attribute 'scheduling enr' numeric
+@attribute scheraga numeric
+@attribute 'scheraga dan' numeric
+@attribute science numeric
+@attribute 'science discover' numeric
+@attribute 'science the' numeric
+@attribute scientific numeric
+@attribute 'scientific research' numeric
+@attribute scientist numeric
+@attribute 'scientist 10' numeric
+@attribute 'scientist 30' numeric
+@attribute 'scientist receives' numeric
+@attribute seidel numeric
+@attribute 'seidel leon' numeric
+@attribute 'self -' numeric
+@attribute sensing numeric
+@attribute 'sensing 58' numeric
+@attribute separation numeric
+@attribute 'separation pilot' numeric
+@attribute september numeric
+@attribute 'september 1983та401-406' numeric
+@attribute 'september 1995' numeric
+@attribute 'september 1997' numeric
+@attribute 'september 30' numeric
+@attribute service numeric
+@attribute 'service in' numeric
+@attribute 'service pima' numeric
+@attribute services numeric
+@attribute 'services and' numeric
+@attribute 'services meeting' numeric
+@attribute sesquicentennial numeric
+@attribute 'sesquicentennial 1813' numeric
+@attribute set numeric
+@attribute 'set for' numeric
+@attribute shakedown numeric
+@attribute 'shakedown of' numeric
+@attribute sign numeric
+@attribute 'sign our' numeric
+@attribute silicone numeric
+@attribute 'silicone market' numeric
+@attribute silicones numeric
+@attribute 'silicones developer' numeric
+@attribute simulation numeric
+@attribute 'simulation and' numeric
+@attribute site numeric
+@attribute 'site chemical' numeric
+@attribute 'site is' numeric
+@attribute skaaren numeric
+@attribute 'skaaren lorna' numeric
+@attribute sloane numeric
+@attribute 'sloane d' numeric
+@attribute small numeric
+@attribute 'small initial' numeric
+@attribute smith numeric
+@attribute 'smith william' numeric
+@attribute society numeric
+@attribute 'society 1996' numeric
+@attribute 'society 70' numeric
+@attribute 'society 74' numeric
+@attribute 'society documenting' numeric
+@attribute 'society of' numeric
+@attribute software numeric
+@attribute 'software available' numeric
+@attribute 'software for' numeric
+@attribute solid numeric
+@attribute 'solid state' numeric
+@attribute 'solid waste' numeric
+@attribute solutions numeric
+@attribute 'solutions through' numeric
+@attribute soracco numeric
+@attribute 'soracco and' numeric
+@attribute source numeric
+@attribute 'source separation' numeric
+@attribute sources numeric
+@attribute 'sources pertaining' numeric
+@attribute space numeric
+@attribute 'space technology' numeric
+@attribute spark numeric
+@attribute 'spark visitor' numeric
+@attribute spatial numeric
+@attribute 'spatial delineation' numeric
+@attribute speed numeric
+@attribute 'speed anonymous' numeric
+@attribute 'speed railroad' numeric
+@attribute standpoint numeric
+@attribute 'standpoint of' numeric
+@attribute startup numeric
+@attribute 'startup and' numeric
+@attribute state numeric
+@attribute 'state albany' numeric
+@attribute 'state bureau' numeric
+@attribute 'state cohoes' numeric
+@attribute 'state department' numeric
+@attribute 'state education' numeric
+@attribute 'state library' numeric
+@attribute 'state new' numeric
+@attribute 'state of' numeric
+@attribute 'state plaza' numeric
+@attribute 'state s' numeric
+@attribute 'state technology' numeric
+@attribute 'state university' numeric
+@attribute strengths numeric
+@attribute 'strengths in' numeric
+@attribute summarizes numeric
+@attribute 'summarizes the' numeric
+@attribute sunscreen numeric
+@attribute 'sunscreen products' numeric
+@attribute supply numeric
+@attribute 'supply reservoir' numeric
+@attribute survey numeric
+@attribute 'survey city' numeric
+@attribute 'survey of' numeric
+@attribute swantek numeric
+@attribute 'swantek the' numeric
+@attribute symposium numeric
+@attribute 'symposium held' numeric
+@attribute system numeric
+@attribute 'system at' numeric
+@attribute 'system is' numeric
+@attribute 'system journal' numeric
+@attribute 'system research' numeric
+@attribute systems numeric
+@attribute 'systems are' numeric
+@attribute 'systems vantuono' numeric
+@attribute 't fly' numeric
+@attribute 't videographic' numeric
+@attribute table numeric
+@attribute 'table is' numeric
+@attribute tap numeric
+@attribute 'tap industrial' numeric
+@attribute tappi numeric
+@attribute 'tappi journal' numeric
+@attribute teach numeric
+@attribute 'teach albany' numeric
+@attribute techniques numeric
+@attribute 'techniques used' numeric
+@attribute technology numeric
+@attribute 'technology 105' numeric
+@attribute 'technology 132' numeric
+@attribute 'technology 39' numeric
+@attribute 'technology anonymous' numeric
+@attribute 'technology at' numeric
+@attribute 'technology copyright' numeric
+@attribute 'technology to' numeric
+@attribute 'technology used' numeric
+@attribute television numeric
+@attribute 'television service' numeric
+@attribute telltale numeric
+@attribute 'telltale rush' numeric
+@attribute temperature numeric
+@attribute 'temperature anomalies' numeric
+@attribute 'temperature in' numeric
+@attribute ten numeric
+@attribute 'ten under' numeric
+@attribute textile numeric
+@attribute 'textile industries' numeric
+@attribute 'textile manufacturing' numeric
+@attribute 'textile world' numeric
+@attribute 'that begain' numeric
+@attribute 'that measures' numeric
+@attribute 'that teach' numeric
+@attribute 'the 1960s' numeric
+@attribute 'the albany' numeric
+@attribute 'the albanybased' numeric
+@attribute 'the american' numeric
+@attribute 'the army' numeric
+@attribute 'the basf' numeric
+@attribute 'the center' numeric
+@attribute 'the chemical' numeric
+@attribute 'the city' numeric
+@attribute 'the computer' numeric
+@attribute 'the eastern' numeric
+@attribute 'the educational' numeric
+@attribute 'the embossing' numeric
+@attribute 'the empire' numeric
+@attribute 'the first' numeric
+@attribute 'the health' numeric
+@attribute 'the heating' numeric
+@attribute 'the high' numeric
+@attribute 'the history' numeric
+@attribute 'the human' numeric
+@attribute 'the impact' numeric
+@attribute 'the industry' numeric
+@attribute 'the manufacture' numeric
+@attribute 'the manufacturing' numeric
+@attribute 'the mapping' numeric
+@attribute 'the nation' numeric
+@attribute 'the new' numeric
+@attribute 'the operations' numeric
+@attribute 'the present' numeric
+@attribute 'the production' numeric
+@attribute 'the region' numeric
+@attribute 'the research' numeric
+@attribute 'the route' numeric
+@attribute 'the scientist' numeric
+@attribute 'the solid' numeric
+@attribute 'the standpoint' numeric
+@attribute 'the state' numeric
+@attribute 'the telltale' numeric
+@attribute 'the tomhannock' numeric
+@attribute 'the u' numeric
+@attribute 'the watervliet' numeric
+@attribute 'their boats' numeric
+@attribute 'their use' numeric
+@attribute thin numeric
+@attribute 'thin film' numeric
+@attribute 'this troy-based' numeric
+@attribute 'through research' numeric
+@attribute 'to 20th' numeric
+@attribute 'to control' numeric
+@attribute 'to main' numeric
+@attribute 'to mapping' numeric
+@attribute 'to measure' numeric
+@attribute 'to monitor' numeric
+@attribute 'to privatize' numeric
+@attribute 'to provide' numeric
+@attribute 'to recycle' numeric
+@attribute 'to the' numeric
+@attribute 'to troy' numeric
+@attribute 'to use' numeric
+@attribute today numeric
+@attribute 'today kessler' numeric
+@attribute tomhannock numeric
+@attribute 'tomhannock reservoir' numeric
+@attribute topics numeric
+@attribute 'topics 24' numeric
+@attribute tours numeric
+@attribute 'tours visitor' numeric
+@attribute toy numeric
+@attribute 'toy industry' numeric
+@attribute toys numeric
+@attribute 'toys that' numeric
+@attribute tri numeric
+@attribute 'tri -' numeric
+@attribute troy numeric
+@attribute 'troy and' numeric
+@attribute 'troy are' numeric
+@attribute 'troy at' numeric
+@attribute 'troy events' numeric
+@attribute 'troy is' numeric
+@attribute 'troy new' numeric
+@attribute 'troy on' numeric
+@attribute 'troy region' numeric
+@attribute 'troy rensselaer' numeric
+@attribute 'troy s' numeric
+@attribute troy-based numeric
+@attribute 'troy-based silicones' numeric
+@attribute turbo numeric
+@attribute 'turbo in' numeric
+@attribute 'u s' numeric
+@attribute ultraviolet-absorbing numeric
+@attribute 'ultraviolet-absorbing chemicals' numeric
+@attribute 'under $' numeric
+@attribute university numeric
+@attribute 'university at' numeric
+@attribute 'university of' numeric
+@attribute updated numeric
+@attribute 'updated september' numeric
+@attribute usa numeric
+@attribute 'usa compiled' numeric
+@attribute 'use anonymous' numeric
+@attribute 'use in' numeric
+@attribute 'use refuse' numeric
+@attribute 'used by' numeric
+@attribute 'used in' numeric
+@attribute 'used to' numeric
+@attribute uv numeric
+@attribute 'uv light' numeric
+@attribute uvinul numeric
+@attribute 'uvinul capacity' numeric
+@attribute 'v and' numeric
+@attribute valley numeric
+@attribute 'valley 26' numeric
+@attribute vantuono numeric
+@attribute 'vantuono william' numeric
+@attribute ventilation numeric
+@attribute 'ventilation and' numeric
+@attribute venture numeric
+@attribute 'venture chemical' numeric
+@attribute veterans numeric
+@attribute 'veterans of' numeric
+@attribute vfw numeric
+@attribute 'vfw veterans' numeric
+@attribute videographic numeric
+@attribute 'videographic recorder' numeric
+@attribute view numeric
+@attribute 'view our' numeric
+@attribute virtual numeric
+@attribute 'virtual reality' numeric
+@attribute visitor numeric
+@attribute 'visitor center' numeric
+@attribute 'visitor information' numeric
+@attribute 'w boylen' numeric
+@attribute 'w conard' numeric
+@attribute 'w crouse' numeric
+@attribute 'w fenton' numeric
+@attribute 'w h' numeric
+@attribute 'w j' numeric
+@attribute 'w lance' numeric
+@attribute warren numeric
+@attribute 'warren mighty' numeric
+@attribute wars numeric
+@attribute 'wars magazine' numeric
+@attribute 'was discussed' numeric
+@attribute washington numeric
+@attribute 'washington department' numeric
+@attribute waste numeric
+@attribute 'waste energy' numeric
+@attribute 'waste management' numeric
+@attribute 'waste processing' numeric
+@attribute 'waste recycling' numeric
+@attribute water numeric
+@attribute 'water \\/' numeric
+@attribute 'water quality' numeric
+@attribute 'water resource' numeric
+@attribute 'water supply' numeric
+@attribute watervliet numeric
+@attribute 'watervliet arsenal' numeric
+@attribute 'watervliet new' numeric
+@attribute 'watervliet u' numeric
+@attribute week numeric
+@attribute 'week 159' numeric
+@attribute 'week space' numeric
+@attribute 'well as' numeric
+@attribute william numeric
+@attribute 'william c' numeric
+@attribute 'william h' numeric
+@attribute wind numeric
+@attribute 'wind speed' numeric
+@attribute wireless numeric
+@attribute 'wireless corporation' numeric
+@attribute 'wireless operation' numeric
+@attribute 'wireless premium' numeric
+@attribute 'with small' numeric
+@attribute 'within new' numeric
+@attribute wooden-boat numeric
+@attribute 'wooden-boat builders' numeric
+@attribute world numeric
+@attribute 'world 141' numeric
+@attribute xerogel numeric
+@attribute 'xerogel pc' numeric
+@attribute years numeric
+@attribute 'years albany' numeric
+@attribute york numeric
+@attribute 'york at' numeric
+@attribute 'york atmospheric' numeric
+@attribute 'york butler' numeric
+@attribute 'york cohoes' numeric
+@attribute 'york fact' numeric
+@attribute 'york in' numeric
+@attribute 'york is' numeric
+@attribute 'york reservoir' numeric
+@attribute 'york rural' numeric
+@attribute 'york s' numeric
+@attribute 'york solid' numeric
+@attribute 'york state' numeric
+@attribute 'york toys' numeric
+@attribute 'york tri' numeric
+@attribute 'york usa' numeric
+@attribute 'your future' numeric
+@attribute 'your table' numeric
+@attribute # numeric
+@attribute '# 0' numeric
+@attribute '# 000000' numeric
+@attribute '# 000066' numeric
+@attribute '# 003399' numeric
+@attribute '# 006666' numeric
+@attribute '# 0c448f' numeric
+@attribute '# 1262' numeric
+@attribute '# 458' numeric
+@attribute '# 666666' numeric
+@attribute '# 8' numeric
+@attribute '# 999999' numeric
+@attribute '# cc1033' numeric
+@attribute '# cccccc' numeric
+@attribute '# ffb400' numeric
+@attribute '# ffc73' numeric
+@attribute '# ffde8' numeric
+@attribute '# ffffff' numeric
+@attribute #a numeric
+@attribute '#a 3a3a3' numeric
+@attribute #aaaaaa numeric
+@attribute '#aaaaaa width' numeric
+@attribute #bbbbbb numeric
+@attribute '#bbbbbb table' numeric
+@attribute #cc numeric
+@attribute '#cc 3333' numeric
+@attribute #cccccc numeric
+@attribute '#cccccc a' numeric
+@attribute '#cccccc div' numeric
+@attribute '#cccccc level1_selected' numeric
+@attribute #dddddd numeric
+@attribute '#dddddd text-align' numeric
+@attribute #eeeeee numeric
+@attribute '#eeeeee border-right' numeric
+@attribute '#eeeeee padding' numeric
+@attribute #efefef numeric
+@attribute '#efefef #efefef' numeric
+@attribute '#efefef div' numeric
+@attribute '#efefef function' numeric
+@attribute #ffb numeric
+@attribute '#ffb 400' numeric
+@attribute #ffc numeric
+@attribute '#ffc 73e' numeric
+@attribute #ffd numeric
+@attribute '#ffd 38b' numeric
+@attribute #ffffff numeric
+@attribute '#ffffff cursor' numeric
+@attribute '#ffffff nav_menu' numeric
+@attribute '\%' numeric
+@attribute '\% div' numeric
+@attribute '\% height' numeric
+@attribute '\% margin-top' numeric
+@attribute '\% padding' numeric
+@attribute '\% padding-bottom' numeric
+@attribute '\% width' numeric
+@attribute + numeric
+@attribute '+ chid' numeric
+@attribute '+ id' numeric
+@attribute '+ pid' numeric
+@attribute '+ |' numeric
+@attribute -- numeric
+@attribute '-- -rrb-' numeric
+@attribute '-- \\/' numeric
+@attribute '-- a' numeric
+@attribute -1 numeric
+@attribute '-1 chid' numeric
+@attribute -lrb- numeric
+@attribute '-lrb- --' numeric
+@attribute '-lrb- img' numeric
+@attribute -rrb- numeric
+@attribute '-rrb- -lrb-' numeric
+@attribute '-rrb- \\/' numeric
+@attribute '-rrb- learn' numeric
+@attribute 0 numeric
+@attribute '0 b82' numeric
+@attribute '0 c448' numeric
+@attribute '0 chid' numeric
+@attribute '0 children' numeric
+@attribute '0 click' numeric
+@attribute '0 else' numeric
+@attribute '0 pid' numeric
+@attribute 00 numeric
+@attribute '00 html' numeric
+@attribute 000000 numeric
+@attribute '000000 ccombody' numeric
+@attribute '000000 font-family' numeric
+@attribute '000000 nav_vert_bar' numeric
+@attribute 000066 numeric
+@attribute '000066 div' numeric
+@attribute '000066 level0_selected' numeric
+@attribute '000066 nav_path' numeric
+@attribute 003399 numeric
+@attribute '003399 a' numeric
+@attribute '003399 font-family' numeric
+@attribute '003399 level0' numeric
+@attribute '003399 text-decoration' numeric
+@attribute 006666 numeric
+@attribute '006666 font-family' numeric
+@attribute 0c448f numeric
+@attribute '0c448f a' numeric
+@attribute '0c448f border-right' numeric
+@attribute 0px numeric
+@attribute '0px div' numeric
+@attribute '0px font-family' numeric
+@attribute '0px font-size' numeric
+@attribute '0px left' numeric
+@attribute '0px solid' numeric
+@attribute '1 -rrb-' numeric
+@attribute '1 width' numeric
+@attribute 100 numeric
+@attribute '100 \%' numeric
+@attribute 1000 numeric
+@attribute '1000 if' numeric
+@attribute '1000 var' numeric
+@attribute 10px numeric
+@attribute '10px background-color' numeric
+@attribute '10px border' numeric
+@attribute '10px color' numeric
+@attribute '10px div' numeric
+@attribute '10px font-family' numeric
+@attribute '10px level4' numeric
+@attribute '10px padding' numeric
+@attribute '10px padding-right' numeric
+@attribute '10px position' numeric
+@attribute '10px width' numeric
+@attribute 1262 numeric
+@attribute '1262 cd' numeric
+@attribute 12px numeric
+@attribute '12px color' numeric
+@attribute '12px div' numeric
+@attribute '12px text-align' numeric
+@attribute 14px numeric
+@attribute '14px color' numeric
+@attribute '15 \%' numeric
+@attribute 15px numeric
+@attribute '15px div' numeric
+@attribute '15px font-size' numeric
+@attribute '15px margin-bottom' numeric
+@attribute '15px top' numeric
+@attribute '15px vertical-align' numeric
+@attribute 18px numeric
+@attribute '18px cursor' numeric
+@attribute '18px font-weight' numeric
+@attribute '18px level5' numeric
+@attribute 1px numeric
+@attribute '1px background-color' numeric
+@attribute '1px solid' numeric
+@attribute 20px numeric
+@attribute '20px div' numeric
+@attribute '20px padding' numeric
+@attribute 25px numeric
+@attribute '25px font-size' numeric
+@attribute '25px margin-top' numeric
+@attribute '25px padding-right' numeric
+@attribute 26px numeric
+@attribute '26px heading' numeric
+@attribute 27px numeric
+@attribute '27px div' numeric
+@attribute 2px numeric
+@attribute '2px div' numeric
+@attribute '2px padding-left' numeric
+@attribute '2px solid' numeric
+@attribute 300000 numeric
+@attribute '300000 -lrb-' numeric
+@attribute 3333 numeric
+@attribute '3333 \\/' numeric
+@attribute 38b numeric
+@attribute '38b #ffc' numeric
+@attribute 3a3a3 numeric
+@attribute '3a3a3 cursor' numeric
+@attribute '3a3a3 level2' numeric
+@attribute 3px numeric
+@attribute '3px div' numeric
+@attribute '3px padding' numeric
+@attribute '3px padding-left' numeric
+@attribute 400 numeric
+@attribute '400 a' numeric
+@attribute 458 numeric
+@attribute '458 def' numeric
+@attribute 4px numeric
+@attribute '4px border' numeric
+@attribute '4px solid' numeric
+@attribute '4px sponsor_rnav' numeric
+@attribute 5px numeric
+@attribute '5px solid' numeric
+@attribute 666666 numeric
+@attribute '666666 bl' numeric
+@attribute '666666 font-family' numeric
+@attribute '666666 font-size' numeric
+@attribute '666666 text-decoration' numeric
+@attribute '70 \%' numeric
+@attribute 73e numeric
+@attribute '73e #efefef' numeric
+@attribute '73e border-top' numeric
+@attribute '73e color' numeric
+@attribute '73e div' numeric
+@attribute '73e padding' numeric
+@attribute '74 else' numeric
+@attribute '8 c0977' numeric
+@attribute '80 \%' numeric
+@attribute 8px numeric
+@attribute '8px font-family' numeric
+@attribute '8px text-align' numeric
+@attribute 90 numeric
+@attribute '90 \%' numeric
+@attribute 98 numeric
+@attribute '98 \%' numeric
+@attribute 999999 numeric
+@attribute '999999 font-size' numeric
+@attribute 9px numeric
+@attribute '9px color' numeric
+@attribute '9px font-family' numeric
+@attribute '9px nav_cell' numeric
+@attribute = numeric
+@attribute '= -1' numeric
+@attribute '= 0' numeric
+@attribute '= 1' numeric
+@attribute '= 1000' numeric
+@attribute '= 74' numeric
+@attribute '= =' numeric
+@attribute '= \\/' numeric
+@attribute '= array' numeric
+@attribute '= e' numeric
+@attribute '= false' numeric
+@attribute '= get' numeric
+@attribute '= highlight' numeric
+@attribute '= http' numeric
+@attribute '= ptid' numeric
+@attribute '= td' numeric
+@attribute '= tmp' numeric
+@attribute '= url' numeric
+@attribute '= var' numeric
+@attribute '\\* #' numeric
+@attribute '\\* \\/' numeric
+@attribute '\\/ --' numeric
+@attribute '\\/ \\*' numeric
+@attribute '\\/ \\/' numeric
+@attribute '\\/ _' numeric
+@attribute '\\/ about' numeric
+@attribute '\\/ alert' numeric
+@attribute '\\/ article' numeric
+@attribute '\\/ border' numeric
+@attribute '\\/ cc' numeric
+@attribute '\\/ eval' numeric
+@attribute '\\/ function' numeric
+@attribute '\\/ g' numeric
+@attribute '\\/ if' numeric
+@attribute '\\/ join' numeric
+@attribute '\\/ logserver' numeric
+@attribute '\\/ null' numeric
+@attribute '\\/ partner' numeric
+@attribute '\\/ these' numeric
+@attribute _ numeric
+@attribute '_ 00' numeric
+@attribute '_ \\/' numeric
+@attribute '_ content' numeric
+@attribute '_ display' numeric
+@attribute '_ oid' numeric
+@attribute '_ page\\/0' numeric
+@attribute 'a 0' numeric
+@attribute 'a active' numeric
+@attribute 'a color' numeric
+@attribute 'a font-size' numeric
+@attribute 'a gr3' numeric
+@attribute 'a gr4' numeric
+@attribute 'a hover' numeric
+@attribute 'a k' numeric
+@attribute 'a link' numeric
+@attribute 'a nav_link' numeric
+@attribute 'a or' numeric
+@attribute 'a pg' numeric
+@attribute 'a text-decoration' numeric
+@attribute 'a title' numeric
+@attribute 'a top' numeric
+@attribute 'a url' numeric
+@attribute 'a visited' numeric
+@attribute 'about christianity' numeric
+@attribute 'about jesus' numeric
+@attribute 'about us' numeric
+@attribute active numeric
+@attribute 'active color' numeric
+@attribute ad numeric
+@attribute 'ad 300000' numeric
+@attribute advbox numeric
+@attribute 'advbox advtab' numeric
+@attribute 'advbox padding' numeric
+@attribute advtab numeric
+@attribute 'advtab font-family' numeric
+@attribute 'again at' numeric
+@attribute alert numeric
+@attribute 'alert to_do' numeric
+@attribute 'also try' numeric
+@attribute 'an article' numeric
+@attribute 'and punctuation' numeric
+@attribute 'are correct' numeric
+@attribute 'are used' numeric
+@attribute arial numeric
+@attribute 'arial div' numeric
+@attribute 'arial font-size' numeric
+@attribute 'arial font-weight' numeric
+@attribute 'arial helvetica' numeric
+@attribute 'arial margin-bottom' numeric
+@attribute array numeric
+@attribute 'array #ffd' numeric
+@attribute article numeric
+@attribute 'article _' numeric
+@attribute 'article id' numeric
+@attribute 'article or' numeric
+@attribute 'at christianity' numeric
+@attribute 'b nav_menu' numeric
+@attribute 'b padding' numeric
+@attribute b82 numeric
+@attribute 'b82 dc' numeric
+@attribute background numeric
+@attribute 'background color' numeric
+@attribute background-color numeric
+@attribute 'background-color #' numeric
+@attribute 'background-color #cc' numeric
+@attribute 'background-color #cccccc' numeric
+@attribute 'background-color #dddddd' numeric
+@attribute 'background-color #eeeeee' numeric
+@attribute 'background-color #ffc' numeric
+@attribute 'background-color #ffffff' numeric
+@attribute 'be found' numeric
+@attribute bk numeric
+@attribute 'bk font-size' numeric
+@attribute bl numeric
+@attribute 'bl font-size' numeric
+@attribute bl2 numeric
+@attribute 'bl2 font-size' numeric
+@attribute bl3 numeric
+@attribute 'bl3 font-size' numeric
+@attribute bl4 numeric
+@attribute 'bl4 font-size' numeric
+@attribute bl5 numeric
+@attribute 'bl5 font-size' numeric
+@attribute bl6 numeric
+@attribute 'bl6 font-size' numeric
+@attribute black numeric
+@attribute 'black a' numeric
+@attribute 'black background-color' numeric
+@attribute 'black div' numeric
+@attribute 'black font-family' numeric
+@attribute 'black padding' numeric
+@attribute 'black padding-top' numeric
+@attribute 'black text-decoration' numeric
+@attribute blhdr numeric
+@attribute 'blhdr font-size' numeric
+@attribute bold numeric
+@attribute 'bold --' numeric
+@attribute 'bold a' numeric
+@attribute 'bold background-color' numeric
+@attribute 'bold bl3' numeric
+@attribute 'bold bl4' numeric
+@attribute 'bold bl6' numeric
+@attribute 'bold border' numeric
+@attribute 'bold div' numeric
+@attribute 'bold font-size' numeric
+@attribute 'bold gr2' numeric
+@attribute 'bold gr3' numeric
+@attribute 'bold pu' numeric
+@attribute 'bold width' numeric
+@attribute border numeric
+@attribute 'border 0px' numeric
+@attribute 'border 1px' numeric
+@attribute 'border 2px' numeric
+@attribute 'border 4px' numeric
+@attribute 'border 5px' numeric
+@attribute border-bottom numeric
+@attribute 'border-bottom 1px' numeric
+@attribute 'border-bottom 2px' numeric
+@attribute border-right numeric
+@attribute 'border-right 1px' numeric
+@attribute 'border-right 2px' numeric
+@attribute border-top numeric
+@attribute 'border-top 1px' numeric
+@attribute br numeric
+@attribute 'br position' numeric
+@attribute btn numeric
+@attribute 'btn border' numeric
+@attribute 'btn input' numeric
+@attribute 'but the' numeric
+@attribute 'by typing' numeric
+@attribute c0977 numeric
+@attribute 'c0977 font-family' numeric
+@attribute c448 numeric
+@attribute 'c448 f' numeric
+@attribute c_sponsors numeric
+@attribute 'c_sponsors border' numeric
+@attribute 'c_sponsors title' numeric
+@attribute capitalization numeric
+@attribute 'capitalization and' numeric
+@attribute cc numeric
+@attribute 'cc _' numeric
+@attribute cc1033 numeric
+@attribute 'cc1033 ccombody' numeric
+@attribute cccccc numeric
+@attribute 'cccccc font-family' numeric
+@attribute ccombody numeric
+@attribute 'ccombody font-size' numeric
+@attribute 'ccombody p' numeric
+@attribute cd numeric
+@attribute 'cd \\*' numeric
+@attribute 'center div' numeric
+@attribute channel numeric
+@attribute 'channel \\/' numeric
+@attribute 'channel pid' numeric
+@attribute chid numeric
+@attribute 'chid +' numeric
+@attribute 'chid =' numeric
+@attribute 'chid if' numeric
+@attribute children numeric
+@attribute 'children e' numeric
+@attribute 'children tags' numeric
+@attribute 'children window' numeric
+@attribute christianity numeric
+@attribute 'christianity com' numeric
+@attribute 'christianity com\\/weblog\\/v3\\/signin\\/1000\\/74\\/0\\/anonymous\\/0' numeric
+@attribute ciid numeric
+@attribute 'ciid +' numeric
+@attribute 'ciid url' numeric
+@attribute click numeric
+@attribute 'click var' numeric
+@attribute color numeric
+@attribute 'color #' numeric
+@attribute 'color #cccccc' numeric
+@attribute 'color #ffb' numeric
+@attribute 'color =' numeric
+@attribute 'color \\/' numeric
+@attribute 'color black' numeric
+@attribute 'color white' numeric
+@attribute 'com -lrb-' numeric
+@attribute 'com \\/' numeric
+@attribute 'com\\/weblog\\/v3\\/signin\\/1000\\/74\\/0\\/anonymous\\/0' numeric
+@attribute 'com\\/weblog\\/v3\\/signin\\/1000\\/74\\/0\\/anonymous\\/0 noscript' numeric
+@attribute communities numeric
+@attribute 'communities connections' numeric
+@attribute connections numeric
+@attribute 'connections directory' numeric
+@attribute content numeric
+@attribute 'content _' numeric
+@attribute cookie numeric
+@attribute 'cookie open' numeric
+@attribute correct numeric
+@attribute 'correct then' numeric
+@attribute 'could not' numeric
+@attribute cursor numeric
+@attribute 'cursor default' numeric
+@attribute 'cursor hand' numeric
+@attribute 'd level' numeric
+@attribute 'd tmp' numeric
+@attribute dc numeric
+@attribute 'dc div' numeric
+@attribute 'dc text-decoration' numeric
+@attribute def numeric
+@attribute 'def border-bottom' numeric
+@attribute default numeric
+@attribute 'default div' numeric
+@attribute delete numeric
+@attribute 'delete cookie' numeric
+@attribute directory numeric
+@attribute 'directory music' numeric
+@attribute display numeric
+@attribute 'display _' numeric
+@attribute 'display an' numeric
+@attribute 'display article' numeric
+@attribute 'display channel' numeric
+@attribute div numeric
+@attribute 'div 0' numeric
+@attribute 'div advbox' numeric
+@attribute 'div c_sponsors' numeric
+@attribute 'div level3' numeric
+@attribute 'div ls_formats' numeric
+@attribute 'div midfeature' numeric
+@attribute 'div nav_path' numeric
+@attribute 'div padding-left' numeric
+@attribute 'div pagenums' numeric
+@attribute 'div picker_header' numeric
+@attribute 'div result_desc' numeric
+@attribute 'div results' numeric
+@attribute 'div resultstxt' numeric
+@attribute 'div searchbox' numeric
+@attribute 'div sponsor_rnav' numeric
+@attribute 'div sponsorbox' numeric
+@attribute 'e border-bottom' numeric
+@attribute 'e children' numeric
+@attribute 'e d' numeric
+@attribute 'e e' numeric
+@attribute 'e if' numeric
+@attribute 'e style' numeric
+@attribute 'e tag' numeric
+@attribute 'e width' numeric
+@attribute 'else e' numeric
+@attribute 'else if' numeric
+@attribute email numeric
+@attribute 'email list' numeric
+@attribute err numeric
+@attribute 'err color' numeric
+@attribute eval numeric
+@attribute 'eval to_do' numeric
+@attribute 'f font-family' numeric
+@attribute 'f position' numeric
+@attribute 'f span' numeric
+@attribute false numeric
+@attribute 'false tmp' numeric
+@attribute 'false var' numeric
+@attribute 'false window' numeric
+@attribute ffb400 numeric
+@attribute 'ffb400 font-family' numeric
+@attribute ffc73 numeric
+@attribute 'ffc73 e' numeric
+@attribute ffde8 numeric
+@attribute 'ffde8 b' numeric
+@attribute ffffff numeric
+@attribute 'ffffff font-family' numeric
+@attribute font-family numeric
+@attribute 'font-family verdana' numeric
+@attribute font-size numeric
+@attribute 'font-size 10px' numeric
+@attribute 'font-size 12px' numeric
+@attribute 'font-size 14px' numeric
+@attribute 'font-size 9px' numeric
+@attribute 'font-size small' numeric
+@attribute 'font-size smallpx' numeric
+@attribute 'font-size x-small' numeric
+@attribute 'font-size xx-small' numeric
+@attribute font-weight numeric
+@attribute 'font-weight bold' numeric
+@attribute found numeric
+@attribute 'found if' numeric
+@attribute function numeric
+@attribute 'function display' numeric
+@attribute 'function init' numeric
+@attribute 'function nav' numeric
+@attribute 'function nav2' numeric
+@attribute functions numeric
+@attribute 'functions are' numeric
+@attribute 'g oid' numeric
+@attribute 'get cookie' numeric
+@attribute 'got here' numeric
+@attribute gr numeric
+@attribute 'gr font-size' numeric
+@attribute gr2 numeric
+@attribute 'gr2 font-size' numeric
+@attribute gr3 numeric
+@attribute 'gr3 color' numeric
+@attribute 'gr3 font-size' numeric
+@attribute gr4 numeric
+@attribute 'gr4 color' numeric
+@attribute 'gr4 font-size' numeric
+@attribute gr5 numeric
+@attribute 'gr5 font-size' numeric
+@attribute green numeric
+@attribute 'green font-size' numeric
+@attribute hand numeric
+@attribute 'hand border-bottom' numeric
+@attribute 'hand level1' numeric
+@attribute 'hand level2' numeric
+@attribute 'hand level3' numeric
+@attribute 'hand level4' numeric
+@attribute 'hand level5' numeric
+@attribute 'hand nav_menu' numeric
+@attribute 'hand table' numeric
+@attribute heading numeric
+@attribute 'heading font-size' numeric
+@attribute height numeric
+@attribute 'height 18px' numeric
+@attribute 'height 1px' numeric
+@attribute 'height =' numeric
+@attribute 'help we' numeric
+@attribute helvetica numeric
+@attribute 'helvetica bk' numeric
+@attribute 'helvetica bl2' numeric
+@attribute 'helvetica bl5' numeric
+@attribute 'helvetica blhdr' numeric
+@attribute 'helvetica color' numeric
+@attribute 'helvetica cursor' numeric
+@attribute 'helvetica div' numeric
+@attribute 'helvetica font-size' numeric
+@attribute 'helvetica font-weight' numeric
+@attribute 'helvetica gr' numeric
+@attribute 'helvetica gr4' numeric
+@attribute 'helvetica gr5' numeric
+@attribute 'helvetica green' numeric
+@attribute 'helvetica k' numeric
+@attribute 'helvetica k2' numeric
+@attribute 'helvetica margin-bottom' numeric
+@attribute 'helvetica or' numeric
+@attribute 'helvetica text-align' numeric
+@attribute 'helvetica txt' numeric
+@attribute 'helvetica wh' numeric
+@attribute 'here by' numeric
+@attribute highlight numeric
+@attribute 'highlight =' numeric
+@attribute 'highlight level' numeric
+@attribute 'home who' numeric
+@attribute hover numeric
+@attribute 'hover color' numeric
+@attribute 'hover text-decoration' numeric
+@attribute html numeric
+@attribute 'html url' numeric
+@attribute http numeric
+@attribute 'http \\/' numeric
+@attribute id numeric
+@attribute 'id pid' numeric
+@attribute 'id url' numeric
+@attribute 'if chid' numeric
+@attribute 'if d' numeric
+@attribute 'if e' numeric
+@attribute 'if pid' numeric
+@attribute 'if sel' numeric
+@attribute 'if to_do' numeric
+@attribute 'if you' numeric
+@attribute img numeric
+@attribute 'img src' numeric
+@attribute init numeric
+@attribute 'init window' numeric
+@attribute input numeric
+@attribute 'input color' numeric
+@attribute interval numeric
+@attribute 'interval refresh' numeric
+@attribute 'is jesus' numeric
+@attribute jesus numeric
+@attribute 'jesus \\/' numeric
+@attribute 'jesus topics' numeric
+@attribute jobs numeric
+@attribute 'jobs site' numeric
+@attribute join numeric
+@attribute 'join email' numeric
+@attribute jswindow numeric
+@attribute 'jswindow \\/' numeric
+@attribute 'k color' numeric
+@attribute 'k font-size' numeric
+@attribute k2 numeric
+@attribute 'k2 font-size' numeric
+@attribute label numeric
+@attribute 'label cursor' numeric
+@attribute 'label font-size' numeric
+@attribute learn numeric
+@attribute 'learn about' numeric
+@attribute left numeric
+@attribute 'left 0px' numeric
+@attribute 'left 15' numeric
+@attribute 'left 15px' numeric
+@attribute level numeric
+@attribute 'level if' numeric
+@attribute 'level sel' numeric
+@attribute level0 numeric
+@attribute 'level0 height' numeric
+@attribute level0_selected numeric
+@attribute 'level0_selected a' numeric
+@attribute 'level0_selected background-color' numeric
+@attribute level1 numeric
+@attribute 'level1 height' numeric
+@attribute level1_selected numeric
+@attribute 'level1_selected level2_selected' numeric
+@attribute level2 numeric
+@attribute 'level2 background-color' numeric
+@attribute 'level2 div' numeric
+@attribute level2_selected numeric
+@attribute 'level2_selected level3_selected' numeric
+@attribute level3 numeric
+@attribute 'level3 background-color' numeric
+@attribute 'level3 div' numeric
+@attribute level3_selected numeric
+@attribute 'level3_selected level4_selected' numeric
+@attribute level4 numeric
+@attribute 'level4 background-color' numeric
+@attribute 'level4 div' numeric
+@attribute level4_selected numeric
+@attribute 'level4_selected level5_selected' numeric
+@attribute level5 numeric
+@attribute 'level5 background-color' numeric
+@attribute 'level5 div' numeric
+@attribute level5_selected numeric
+@attribute 'level5_selected font-weight' numeric
+@attribute link numeric
+@attribute 'link color' numeric
+@attribute 'list home' numeric
+@attribute location numeric
+@attribute 'location =' numeric
+@attribute logserver numeric
+@attribute 'logserver christianity' numeric
+@attribute ls_formats numeric
+@attribute 'ls_formats btn' numeric
+@attribute 'ls_formats margin-left' numeric
+@attribute make numeric
+@attribute 'make sure' numeric
+@attribute 'map help' numeric
+@attribute margin-bottom numeric
+@attribute 'margin-bottom 10px' numeric
+@attribute 'margin-bottom 20px' numeric
+@attribute margin-left numeric
+@attribute 'margin-left 25px' numeric
+@attribute margin-top numeric
+@attribute 'margin-top 15px' numeric
+@attribute 'margin-top 25px' numeric
+@attribute 'margin-top 8px' numeric
+@attribute 'may also' numeric
+@attribute middle numeric
+@attribute 'middle text-transform' numeric
+@attribute midfeature numeric
+@attribute 'midfeature br' numeric
+@attribute 'midfeature font-size' numeric
+@attribute ministries numeric
+@attribute 'ministries communities' numeric
+@attribute music numeric
+@attribute 'music about' numeric
+@attribute 'name =' numeric
+@attribute nav numeric
+@attribute 'nav e' numeric
+@attribute nav2 numeric
+@attribute 'nav2 e' numeric
+@attribute nav_cell numeric
+@attribute 'nav_cell padding-left' numeric
+@attribute nav_link numeric
+@attribute 'nav_link color' numeric
+@attribute nav_menu numeric
+@attribute 'nav_menu background-color' numeric
+@attribute 'nav_menu td' numeric
+@attribute nav_path numeric
+@attribute 'nav_path color' numeric
+@attribute 'nav_path width' numeric
+@attribute nav_vert_bar numeric
+@attribute 'nav_vert_bar background-color' numeric
+@attribute 'none a' numeric
+@attribute 'none div' numeric
+@attribute 'none err' numeric
+@attribute 'none label' numeric
+@attribute noscript numeric
+@attribute 'noscript height' numeric
+@attribute 'not be' numeric
+@attribute null numeric
+@attribute 'null function' numeric
+@attribute num numeric
+@attribute 'num font-weight' numeric
+@attribute oid numeric
+@attribute 'oid =' numeric
+@attribute 'oid _' numeric
+@attribute 'oid window' numeric
+@attribute open numeric
+@attribute 'open jswindow' numeric
+@attribute opts numeric
+@attribute 'opts position' numeric
+@attribute 'or channel' numeric
+@attribute 'or color' numeric
+@attribute 'or font-size' numeric
+@attribute 'or start' numeric
+@attribute 'over again' numeric
+@attribute 'p font-size' numeric
+@attribute padding numeric
+@attribute 'padding 0px' numeric
+@attribute 'padding 10px' numeric
+@attribute 'padding 2px' numeric
+@attribute 'padding 3px' numeric
+@attribute 'padding 4px' numeric
+@attribute padding-bottom numeric
+@attribute 'padding-bottom 15px' numeric
+@attribute padding-left numeric
+@attribute 'padding-left 10px' numeric
+@attribute 'padding-left 18px' numeric
+@attribute 'padding-left 26px' numeric
+@attribute 'padding-left 27px' numeric
+@attribute 'padding-left 8px' numeric
+@attribute padding-right numeric
+@attribute 'padding-right 15px' numeric
+@attribute 'padding-right 3px' numeric
+@attribute padding-top numeric
+@attribute 'padding-top 3px' numeric
+@attribute 'page or' numeric
+@attribute 'page you' numeric
+@attribute 'page\\/0' numeric
+@attribute 'page\\/0 _' numeric
+@attribute pagenums numeric
+@attribute 'pagenums a' numeric
+@attribute 'pagenums font-size' numeric
+@attribute 'pagenums span' numeric
+@attribute 'pagenums width' numeric
+@attribute partner numeric
+@attribute 'partner \\/' numeric
+@attribute pg numeric
+@attribute 'pg text-decoration' numeric
+@attribute picker_header numeric
+@attribute 'picker_header font-size' numeric
+@attribute pid numeric
+@attribute 'pid +' numeric
+@attribute 'pid =' numeric
+@attribute 'pid chid' numeric
+@attribute 'please make' numeric
+@attribute position numeric
+@attribute 'position relative' numeric
+@attribute ptid numeric
+@attribute 'ptid +' numeric
+@attribute pu numeric
+@attribute 'pu font-size' numeric
+@attribute punctuation numeric
+@attribute 'punctuation are' numeric
+@attribute query numeric
+@attribute 'query border' numeric
+@attribute 're sorry' numeric
+@attribute refresh numeric
+@attribute 'refresh ad' numeric
+@attribute relative numeric
+@attribute 'relative left' numeric
+@attribute 'relative margin-top' numeric
+@attribute reloading numeric
+@attribute 'reloading the' numeric
+@attribute replace numeric
+@attribute 'replace \\/' numeric
+@attribute requested numeric
+@attribute 'requested could' numeric
+@attribute result_desc numeric
+@attribute 'result_desc a' numeric
+@attribute 'result_desc color' numeric
+@attribute 'result_desc span' numeric
+@attribute results numeric
+@attribute 'results a' numeric
+@attribute 'results div' numeric
+@attribute 'results td' numeric
+@attribute resultstxt numeric
+@attribute 'resultstxt font-size' numeric
+@attribute 'right border' numeric
+@attribute searchbox numeric
+@attribute 'searchbox margin-bottom' numeric
+@attribute 'searchbox opts' numeric
+@attribute 'searchbox query' numeric
+@attribute 'searchbox tab' numeric
+@attribute 'searchbox tab2' numeric
+@attribute 'searchbox tab3' numeric
+@attribute 'searchbox tab4' numeric
+@attribute 'searchbox tab_desc' numeric
+@attribute searching numeric
+@attribute 'searching for' numeric
+@attribute sel numeric
+@attribute 'sel e' numeric
+@attribute 'sel font-size' numeric
+@attribute 'sel if' numeric
+@attribute 'set interval' numeric
+@attribute 'site map' numeric
+@attribute 'small font-family' numeric
+@attribute smallpx numeric
+@attribute 'smallpx div' numeric
+@attribute 'solid #' numeric
+@attribute 'solid #a' numeric
+@attribute 'solid #aaaaaa' numeric
+@attribute 'solid #bbbbbb' numeric
+@attribute 'solid #efefef' numeric
+@attribute 'solid #ffc' numeric
+@attribute 'solid white' numeric
+@attribute 'sorry but' numeric
+@attribute span numeric
+@attribute 'span a' numeric
+@attribute 'span color' numeric
+@attribute 'span pagenums' numeric
+@attribute 'span sel' numeric
+@attribute spelling numeric
+@attribute 'spelling capitalization' numeric
+@attribute sponsor_rnav numeric
+@attribute 'sponsor_rnav a' numeric
+@attribute 'sponsor_rnav border' numeric
+@attribute sponsorbox numeric
+@attribute 'sponsorbox a' numeric
+@attribute 'sponsorbox font-family' numeric
+@attribute 'sponsorbox label' numeric
+@attribute src numeric
+@attribute 'src =' numeric
+@attribute start numeric
+@attribute 'start over' numeric
+@attribute status numeric
+@attribute 'status =' numeric
+@attribute style numeric
+@attribute 'style background' numeric
+@attribute 'sure the' numeric
+@attribute tab numeric
+@attribute 'tab background-color' numeric
+@attribute tab2 numeric
+@attribute 'tab2 a' numeric
+@attribute 'tab2 background-color' numeric
+@attribute tab3 numeric
+@attribute 'tab3 background-color' numeric
+@attribute tab4 numeric
+@attribute 'tab4 background-color' numeric
+@attribute tab_desc numeric
+@attribute 'tab_desc background-color' numeric
+@attribute 'table btn' numeric
+@attribute tag numeric
+@attribute 'tag name' numeric
+@attribute tags numeric
+@attribute 'tags a' numeric
+@attribute 'tags div' numeric
+@attribute td numeric
+@attribute 'td font-family' numeric
+@attribute 'td if' numeric
+@attribute 'td num' numeric
+@attribute text-align numeric
+@attribute 'text-align center' numeric
+@attribute 'text-align right' numeric
+@attribute text-decoration numeric
+@attribute 'text-decoration none' numeric
+@attribute 'text-decoration underline' numeric
+@attribute text-transform numeric
+@attribute 'text-transform uppercase' numeric
+@attribute 'the page' numeric
+@attribute 'the spelling' numeric
+@attribute 'then try' numeric
+@attribute 'these functions' numeric
+@attribute title numeric
+@attribute 'title color' numeric
+@attribute 'title hover' numeric
+@attribute tmp numeric
+@attribute 'tmp =' numeric
+@attribute 'tmp tmp' numeric
+@attribute 'to display' numeric
+@attribute to_do numeric
+@attribute 'to_do =' numeric
+@attribute 'to_do \\/' numeric
+@attribute 'to_do delete' numeric
+@attribute 'to_do if' numeric
+@attribute top numeric
+@attribute 'top 0px' numeric
+@attribute 'top color' numeric
+@attribute 'topics ministries' numeric
+@attribute 'try reloading' numeric
+@attribute 'try searching' numeric
+@attribute txt numeric
+@attribute 'txt a' numeric
+@attribute 'txt font-size' numeric
+@attribute typing numeric
+@attribute 'typing a' numeric
+@attribute underline numeric
+@attribute 'underline div' numeric
+@attribute 'underline font-weight' numeric
+@attribute 'underline txt' numeric
+@attribute uppercase numeric
+@attribute 'uppercase div' numeric
+@attribute url numeric
+@attribute 'url =' numeric
+@attribute 'url function' numeric
+@attribute 'url please' numeric
+@attribute 'url replace' numeric
+@attribute 'url var' numeric
+@attribute 'us jobs' numeric
+@attribute var numeric
+@attribute 'var highlight' numeric
+@attribute 'var oid' numeric
+@attribute 'var tmp' numeric
+@attribute 'var to_do' numeric
+@attribute verdana numeric
+@attribute 'verdana arial' numeric
+@attribute vertical-align numeric
+@attribute 'vertical-align middle' numeric
+@attribute visited numeric
+@attribute 'visited text-decoration' numeric
+@attribute 'we re' numeric
+@attribute wh numeric
+@attribute 'wh font-size' numeric
+@attribute white numeric
+@attribute 'white cursor' numeric
+@attribute 'white font-family' numeric
+@attribute 'white font-weight' numeric
+@attribute 'white padding' numeric
+@attribute 'who is' numeric
+@attribute width numeric
+@attribute 'width 100' numeric
+@attribute 'width 25px' numeric
+@attribute 'width 70' numeric
+@attribute 'width 80' numeric
+@attribute 'width 90' numeric
+@attribute 'width 98' numeric
+@attribute 'width =' numeric
+@attribute window numeric
+@attribute 'window location' numeric
+@attribute 'window set' numeric
+@attribute 'window status' numeric
+@attribute x-small numeric
+@attribute 'x-small color' numeric
+@attribute 'x-small div' numeric
+@attribute 'x-small font-family' numeric
+@attribute 'x-small font-weight' numeric
+@attribute xx-small numeric
+@attribute 'xx-small div' numeric
+@attribute 'xx-small font-family' numeric
+@attribute 'you got' numeric
+@attribute 'you may' numeric
+@attribute 'you requested' numeric
+@attribute | numeric
+@attribute '| chid' numeric
+@attribute '| ciid' numeric
+@attribute '- music' numeric
+@attribute 'a chorus' numeric
+@attribute 'a week' numeric
+@attribute 'a wonderful' numeric
+@attribute 'about the' numeric
+@attribute addition numeric
+@attribute 'addition to' numeric
+@attribute 'also meets' numeric
+@attribute 'also perform' numeric
+@attribute 'and also' numeric
+@attribute 'and class' numeric
+@attribute 'and five' numeric
+@attribute 'and instrumental' numeric
+@attribute 'and music' numeric
+@attribute 'and performs' numeric
+@attribute 'and spring' numeric
+@attribute 'are privileged' numeric
+@attribute 'at eleanor' numeric
+@attribute 'at our' numeric
+@attribute back numeric
+@attribute 'back to' numeric
+@attribute bas numeric
+@attribute 'bas vocal' numeric
+@attribute 'both vocal' numeric
+@attribute chorus numeric
+@attribute 'chorus also' numeric
+@attribute 'chorus rehearsal' numeric
+@attribute class numeric
+@attribute 'class chorus' numeric
+@attribute 'class instructor' numeric
+@attribute 'class page' numeric
+@attribute 'class the' numeric
+@attribute 'click on' numeric
+@attribute concert numeric
+@attribute 'concert in' numeric
+@attribute 'december and' numeric
+@attribute der numeric
+@attribute 'der bas' numeric
+@attribute eleanor numeric
+@attribute 'eleanor roosevelt' numeric
+@attribute elementary numeric
+@attribute 'elementary school' numeric
+@attribute 'fifth level' numeric
+@attribute find numeric
+@attribute 'find out' numeric
+@attribute 'five have' numeric
+@attribute 'for music' numeric
+@attribute 'four and' numeric
+@attribute 'go back' numeric
+@attribute 'have a' numeric
+@attribute 'have both' numeric
+@attribute 'have the' numeric
+@attribute holiday numeric
+@attribute 'holiday program' numeric
+@attribute 'in addition' numeric
+@attribute 'in levels' numeric
+@attribute 'in may' numeric
+@attribute instructor numeric
+@attribute 'instructor mrs' numeric
+@attribute instrumental numeric
+@attribute 'instrumental lessons' numeric
+@attribute 'instrumental music' numeric
+@attribute 'instrumental teachers' numeric
+@attribute lessons numeric
+@attribute 'lessons once' numeric
+@attribute 'level students' numeric
+@attribute levels numeric
+@attribute 'levels four' numeric
+@attribute 'may students' numeric
+@attribute meet numeric
+@attribute 'meet once' numeric
+@attribute meets numeric
+@attribute 'meets once' numeric
+@attribute 'more about' numeric
+@attribute mr numeric
+@attribute 'mr dan' numeric
+@attribute mrs numeric
+@attribute 'mrs nancy' numeric
+@attribute 'mrs roberta' numeric
+@attribute 'music class' numeric
+@attribute 'music go' numeric
+@attribute 'music mr' numeric
+@attribute 'music philosophy' numeric
+@attribute 'music program' numeric
+@attribute 'music programs' numeric
+@attribute musical numeric
+@attribute 'musical staff' numeric
+@attribute nancy numeric
+@attribute 'nancy van' numeric
+@attribute 'once a' numeric
+@attribute opportunity numeric
+@attribute 'opportunity to' numeric
+@attribute 'our holiday' numeric
+@attribute 'out more' numeric
+@attribute 'page eleanor' numeric
+@attribute pennsbury numeric
+@attribute 'pennsbury s' numeric
+@attribute perform numeric
+@attribute 'perform in' numeric
+@attribute performs numeric
+@attribute 'performs at' numeric
+@attribute philosophy numeric
+@attribute 'philosophy mrs' numeric
+@attribute pictures numeric
+@attribute 'pictures to' numeric
+@attribute privileged numeric
+@attribute 'privileged to' numeric
+@attribute program numeric
+@attribute 'program at' numeric
+@attribute 'program in' numeric
+@attribute programs numeric
+@attribute 'programs at' numeric
+@attribute rehearsal numeric
+@attribute 'rehearsal in' numeric
+@attribute 'rhone instrumental' numeric
+@attribute roberta numeric
+@attribute 'roberta stafford' numeric
+@attribute roosevelt numeric
+@attribute 'roosevelt -' numeric
+@attribute 'roosevelt elementary' numeric
+@attribute 'roosevelt we' numeric
+@attribute 's music' numeric
+@attribute school numeric
+@attribute 'school pennsbury' numeric
+@attribute spring numeric
+@attribute 'spring click' numeric
+@attribute 'spring concert' numeric
+@attribute staff numeric
+@attribute 'staff and' numeric
+@attribute 'staff we' numeric
+@attribute stafford numeric
+@attribute 'stafford instrumental' numeric
+@attribute students numeric
+@attribute 'students have' numeric
+@attribute 'students in' numeric
+@attribute 'students meet' numeric
+@attribute 'take instrumental' numeric
+@attribute teachers numeric
+@attribute 'teachers students' numeric
+@attribute 'the fifth' numeric
+@attribute 'the music' numeric
+@attribute 'the opportunity' numeric
+@attribute 'the pictures' numeric
+@attribute 'the spring' numeric
+@attribute 'the staff' numeric
+@attribute 'to find' numeric
+@attribute 'to have' numeric
+@attribute 'to music' numeric
+@attribute 'to take' numeric
+@attribute van numeric
+@attribute 'van der' numeric
+@attribute vocal numeric
+@attribute 'vocal and' numeric
+@attribute 'we are' numeric
+@attribute 'we have' numeric
+@attribute 'week and' numeric
+@attribute 'week for' numeric
+@attribute wonderful numeric
+@attribute 'wonderful musical' numeric
+@attribute '- id' numeric
+@attribute '- recording' numeric
+@attribute '\\/ awards' numeric
+@attribute '\\/ dan' numeric
+@attribute '\\/ editor' numeric
+@attribute 'and arranged' numeric
+@attribute 'and performed' numeric
+@attribute arranged numeric
+@attribute 'arranged by' numeric
+@attribute associate numeric
+@attribute 'associate producer' numeric
+@attribute awards numeric
+@attribute 'awards |' numeric
+@attribute beaman numeric
+@attribute 'beaman tsehai' numeric
+@attribute bios numeric
+@attribute 'bios |' numeric
+@attribute 'by chiedza' numeric
+@attribute 'by dennis' numeric
+@attribute 'by one' numeric
+@attribute 'by shai' numeric
+@attribute 'by shama' numeric
+@attribute camera numeric
+@attribute 'camera operators' numeric
+@attribute cast numeric
+@attribute 'cast louise' numeric
+@attribute charles numeric
+@attribute 'charles washington' numeric
+@attribute chiedza numeric
+@attribute 'chiedza happy' numeric
+@attribute composed numeric
+@attribute 'composed performed' numeric
+@attribute contact numeric
+@attribute 'contact us' numeric
+@attribute coons numeric
+@attribute 'coons ron' numeric
+@attribute 'coons shabazz' numeric
+@attribute credits numeric
+@attribute 'credits cast' numeric
+@attribute 'credits |' numeric
+@attribute crew numeric
+@attribute 'crew producer' numeric
+@attribute crystal numeric
+@attribute 'crystal produced' numeric
+@attribute 'crystal |' numeric
+@attribute da numeric
+@attribute 'da meat' numeric
+@attribute dennis numeric
+@attribute 'dennis dortch' numeric
+@attribute 'dennis flex' numeric
+@attribute 'design graphics' numeric
+@attribute 'design sound' numeric
+@attribute director numeric
+@attribute 'director \\/' numeric
+@attribute 'director s' numeric
+@attribute dortch numeric
+@attribute 'dortch shabazz' numeric
+@attribute editor numeric
+@attribute 'editor music' numeric
+@attribute editorial numeric
+@attribute 'editorial facilities' numeric
+@attribute editors numeric
+@attribute 'editors re' numeric
+@attribute 'facilities layla' numeric
+@attribute family numeric
+@attribute 'family written' numeric
+@attribute flex numeric
+@attribute 'flex beaman' numeric
+@attribute fx numeric
+@attribute 'fx editors' numeric
+@attribute giles numeric
+@attribute 'giles ron' numeric
+@attribute graphics numeric
+@attribute 'graphics editorial' numeric
+@attribute gray numeric
+@attribute 'gray charles' numeric
+@attribute happy numeric
+@attribute 'happy song' numeric
+@attribute 'home |' numeric
+@attribute hosting numeric
+@attribute 'hosting credits' numeric
+@attribute 'hosting provided' numeric
+@attribute 'id \\/' numeric
+@attribute jason numeric
+@attribute 'jason giles' numeric
+@attribute koffi numeric
+@attribute 'koffi oliver' numeric
+@attribute larry numeric
+@attribute 'larry spruill' numeric
+@attribute layla numeric
+@attribute 'layla mashavu' numeric
+@attribute louise numeric
+@attribute 'louise washington' numeric
+@attribute lux numeric
+@attribute 'lux -' numeric
+@attribute lynne numeric
+@attribute 'lynne coons' numeric
+@attribute mashavu numeric
+@attribute 'mashavu sewell' numeric
+@attribute mayes numeric
+@attribute 'mayes koffi' numeric
+@attribute meat numeric
+@attribute 'meat produced' numeric
+@attribute meza numeric
+@attribute 'meza dennis' numeric
+@attribute 'meza jason' numeric
+@attribute 'meza ruth' numeric
+@attribute michelle numeric
+@attribute 'michelle lynne' numeric
+@attribute mixer numeric
+@attribute 'mixer researchers' numeric
+@attribute 'music music' numeric
+@attribute 'music supervisor' numeric
+@attribute news numeric
+@attribute 'news reviews' numeric
+@attribute oliver numeric
+@attribute 'oliver larry' numeric
+@attribute 'one web' numeric
+@attribute operators numeric
+@attribute 'operators camera' numeric
+@attribute 'operators sound' numeric
+@attribute performed numeric
+@attribute 'performed by' numeric
+@attribute porcher numeric
+@attribute 'porcher washington' numeric
+@attribute produced numeric
+@attribute 'produced and' numeric
+@attribute 'produced performed' numeric
+@attribute producer numeric
+@attribute 'producer associate' numeric
+@attribute 'producer director' numeric
+@attribute productions numeric
+@attribute 'productions songs' numeric
+@attribute provided numeric
+@attribute 'provided by' numeric
+@attribute ramcity numeric
+@attribute 'ramcity productions' numeric
+@attribute 're -' numeric
+@attribute recording numeric
+@attribute 'recording sound' numeric
+@attribute researchers numeric
+@attribute 'researchers transportation' numeric
+@attribute 'review |' numeric
+@attribute 'reviews |' numeric
+@attribute 'rhone ramcity' numeric
+@attribute richardson numeric
+@attribute 'richardson layla' numeric
+@attribute 'richardson michelle' numeric
+@attribute ron numeric
+@attribute 'ron mayes' numeric
+@attribute 'ron meza' numeric
+@attribute ruth numeric
+@attribute 'ruth washington' numeric
+@attribute 's statement' numeric
+@attribute screenings numeric
+@attribute 'screenings \\/' numeric
+@attribute sewell numeric
+@attribute 'sewell michelle' numeric
+@attribute 'sewell ron' numeric
+@attribute shabazz numeric
+@attribute 'shabazz richardson' numeric
+@attribute shai numeric
+@attribute 'shai crystal' numeric
+@attribute 'shai performed' numeric
+@attribute shama numeric
+@attribute 'shama zerom' numeric
+@attribute song numeric
+@attribute 'song written' numeric
+@attribute songs numeric
+@attribute 'songs da' numeric
+@attribute sound numeric
+@attribute 'sound design' numeric
+@attribute 'sound fx' numeric
+@attribute 'sound mixer' numeric
+@attribute special numeric
+@attribute 'special thanks' numeric
+@attribute spruill numeric
+@attribute 'spruill ron' numeric
+@attribute statement numeric
+@attribute 'statement |' numeric
+@attribute submit numeric
+@attribute 'submit a' numeric
+@attribute supervisor numeric
+@attribute 'supervisor camera' numeric
+@attribute tameka numeric
+@attribute 'tameka gray' numeric
+@attribute 'thanks |' numeric
+@attribute 'title design' numeric
+@attribute transportation numeric
+@attribute 'transportation title' numeric
+@attribute tsehai numeric
+@attribute 'tsehai composed' numeric
+@attribute 'us |' numeric
+@attribute 'washington crew' numeric
+@attribute 'washington lux' numeric
+@attribute 'washington porcher' numeric
+@attribute 'washington tameka' numeric
+@attribute web numeric
+@attribute 'web hosting' numeric
+@attribute written numeric
+@attribute 'written by' numeric
+@attribute 'written produced' numeric
+@attribute zerom numeric
+@attribute 'zerom family' numeric
+@attribute '| bios' numeric
+@attribute '| contact' numeric
+@attribute '| credits' numeric
+@attribute '| director' numeric
+@attribute '| home' numeric
+@attribute '| hosting' numeric
+@attribute '| news' numeric
+@attribute '| screenings' numeric
+@attribute '| special' numeric
+@attribute '| submit' numeric
+@attribute '| |' numeric
+@attribute Cluster {cluster0,cluster1,cluster2}
+
+@data
+0,001,0.960906,0.960906,0.199406,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.199406,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.199406,0.199406,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.199406,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.199406,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.480453,0.960906,0.199406,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cluster1
+1,003,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0.480453,0,0,0,0,0.480453,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0.199406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.199406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.199406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.199406,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.480453,0.960906,0.960906,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cluster0
+2,002,0,0,0.199406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.199406,0.199406,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0.199406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.199406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.199406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,cluster0
+3,000,0,0,0.199406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.199406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.199406,0.199406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.199406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0.480453,0,0.199406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.199406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.480453,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,0.960906,cluster2

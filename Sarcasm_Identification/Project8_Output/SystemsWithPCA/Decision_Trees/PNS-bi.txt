@@ -1,0 +1,126 @@
+=== Run information ===
+
+Scheme:weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     Twitter-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.PrincipalComponents -R 0.95 -A 5-Sweka.attributeSelection.Ranker -T -1.7976931348623157E308 -N -1
+Instances:    15000
+Attributes:   24
+              -0.504interjectionFeature=0-0.483reply_feature=0+0.472interjectionFeature=1+0.441reply_feature=1+0.159exclamationFeature...
+              -0.503reply_feature=0+0.49 interjectionFeature=0-0.479interjectionFeature=1+0.472reply_feature=1+0.126reply_feature=2...
+              -0.53fearEmoticon-0.449tongueStickOutEmoticon-0.447angryEmoticon-0.369smirkingEmoticon-0.357tiredEmoticon...
+              0.566reply_feature=2+0.414winkingEmoticon-0.311reply_feature=1+0.303interjectionFeature=2+0.276surpriseEmoticon...
+              0.556interjectionFeature=2-0.406reply_feature=2-0.314winkingEmoticon+0.308smilingEmoticon+0.256kissingEmoticon...
+              -0.628smilingEmoticon+0.359surpriseEmoticon+0.344sadEmoticon+0.296interjectionFeature=2-0.288exclamationFeature...
+              0.558triumphEmoticon-0.447reply_feature=5+0.386neutralEmoticon-0.294exclamationFeature-0.281sadEmoticon...
+              0.38 reply_feature=8+0.348surpriseEmoticon+0.343neutralEmoticon-0.3kissingEmoticon-0.267reply_feature=6...
+              -0.439reply_feature=5+0.416reply_feature=8-0.371sadEmoticon+0.366reply_feature=3-0.346triumphEmoticon...
+              0.623reply_feature=3-0.598kissingEmoticon-0.254interjectionFeature=4-0.168winkingEmoticon-0.166interjectionFeature=3...
+              -0.66reply_feature=4+0.428interjectionFeature=3-0.377reply_feature=6-0.283reply_feature=8-0.241interjectionFeature=4...
+              0.674reply_feature=4-0.465reply_feature=6-0.334reply_feature=8+0.313interjectionFeature=3-0.256interjectionFeature=4...
+              -0.655interjectionFeature=3+0.522worriedEmoticon-0.495reply_feature=6+0.105kissingEmoticon-0.103winkingEmoticon...
+              0.761worriedEmoticon+0.377interjectionFeature=3+0.293reply_feature=6+0.281interjectionFeature=4-0.228reply_feature=5...
+              0.736interjectionFeature=4-0.43reply_feature=8-0.29worriedEmoticon-0.209reply_feature=6+0.171winkingEmoticon...
+              0.442winkingEmoticon-0.377sadEmoticon-0.353reply_feature=2-0.344reply_feature=8-0.333triumphEmoticon...
+              0.522neutralEmoticon+0.435kissingEmoticon-0.333triumphEmoticon-0.279winkingEmoticon-0.226smirkingEmoticon...
+              -0.533winkingEmoticon-0.501sadEmoticon+0.32 tiredEmoticon-0.282smilingEmoticon+0.222reply_feature=2...
+              -0.547exclamationFeature+0.481reply_feature=5-0.32surpriseEmoticon-0.315smirkingEmoticon+0.2  neutralEmoticon...
+              0.51 interjectionFeature=2-0.406triumphEmoticon-0.388kissingEmoticon+0.279neutralEmoticon-0.277reply_feature=3...
+              -0.623tiredEmoticon+0.599smirkingEmoticon-0.248interjectionFeature=2-0.204exclamationFeature+0.201reply_feature=5...
+              -0.537tongueStickOutEmoticon+0.516smirkingEmoticon+0.439tiredEmoticon+0.248neutralEmoticon-0.237angryEmoticon...
+              -0.466surpriseEmoticon-0.465smilingEmoticon+0.433angryEmoticon+0.387exclamationFeature-0.248sadEmoticon...
+              classname
+Test mode:10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+-0.537tongueStickOutEmoticon+0.516smirkingEmoticon+0.439tiredEmoticon+0.248neutralEmoticon-0.237angryEmoticon... <= -0.120154
+|   -0.628smilingEmoticon+0.359surpriseEmoticon+0.344sadEmoticon+0.296interjectionFeature=2-0.288exclamationFeature... <= -0.064784
+|   |   -0.537tongueStickOutEmoticon+0.516smirkingEmoticon+0.439tiredEmoticon+0.248neutralEmoticon-0.237angryEmoticon... <= -1.278501
+|   |   |   0.674reply_feature=4-0.465reply_feature=6-0.334reply_feature=8+0.313interjectionFeature=3-0.256interjectionFeature=4... <= 0.042736: 0 (2.0)
+|   |   |   0.674reply_feature=4-0.465reply_feature=6-0.334reply_feature=8+0.313interjectionFeature=3-0.256interjectionFeature=4... > 0.042736
+|   |   |   |   0.566reply_feature=2+0.414winkingEmoticon-0.311reply_feature=1+0.303interjectionFeature=2+0.276surpriseEmoticon... <= -0.695937: 0 (5.0/2.0)
+|   |   |   |   0.566reply_feature=2+0.414winkingEmoticon-0.311reply_feature=1+0.303interjectionFeature=2+0.276surpriseEmoticon... > -0.695937: 1 (10.0)
+|   |   -0.537tongueStickOutEmoticon+0.516smirkingEmoticon+0.439tiredEmoticon+0.248neutralEmoticon-0.237angryEmoticon... > -1.278501: 0 (311.0/130.0)
+|   -0.628smilingEmoticon+0.359surpriseEmoticon+0.344sadEmoticon+0.296interjectionFeature=2-0.288exclamationFeature... > -0.064784
+|   |   -0.504interjectionFeature=0-0.483reply_feature=0+0.472interjectionFeature=1+0.441reply_feature=1+0.159exclamationFeature... <= -0.024882
+|   |   |   -0.504interjectionFeature=0-0.483reply_feature=0+0.472interjectionFeature=1+0.441reply_feature=1+0.159exclamationFeature... <= -0.243691: 1 (343.0/163.0)
+|   |   |   -0.504interjectionFeature=0-0.483reply_feature=0+0.472interjectionFeature=1+0.441reply_feature=1+0.159exclamationFeature... > -0.243691: 0 (87.0/39.0)
+|   |   -0.504interjectionFeature=0-0.483reply_feature=0+0.472interjectionFeature=1+0.441reply_feature=1+0.159exclamationFeature... > -0.024882: 1 (1388.0/521.0)
+-0.537tongueStickOutEmoticon+0.516smirkingEmoticon+0.439tiredEmoticon+0.248neutralEmoticon-0.237angryEmoticon... > -0.120154
+|   0.558triumphEmoticon-0.447reply_feature=5+0.386neutralEmoticon-0.294exclamationFeature-0.281sadEmoticon... <= 0.481964
+|   |   -0.439reply_feature=5+0.416reply_feature=8-0.371sadEmoticon+0.366reply_feature=3-0.346triumphEmoticon... <= -0.436621: 0 (925.0/92.0)
+|   |   -0.439reply_feature=5+0.416reply_feature=8-0.371sadEmoticon+0.366reply_feature=3-0.346triumphEmoticon... > -0.436621
+|   |   |   0.556interjectionFeature=2-0.406reply_feature=2-0.314winkingEmoticon+0.308smilingEmoticon+0.256kissingEmoticon... <= -0.166972
+|   |   |   |   -0.628smilingEmoticon+0.359surpriseEmoticon+0.344sadEmoticon+0.296interjectionFeature=2-0.288exclamationFeature... <= -0.540481: 0 (81.0/33.0)
+|   |   |   |   -0.628smilingEmoticon+0.359surpriseEmoticon+0.344sadEmoticon+0.296interjectionFeature=2-0.288exclamationFeature... > -0.540481: 1 (345.0/161.0)
+|   |   |   0.556interjectionFeature=2-0.406reply_feature=2-0.314winkingEmoticon+0.308smilingEmoticon+0.256kissingEmoticon... > -0.166972: 0 (11214.0/3264.0)
+|   0.558triumphEmoticon-0.447reply_feature=5+0.386neutralEmoticon-0.294exclamationFeature-0.281sadEmoticon... > 0.481964
+|   |   0.761worriedEmoticon+0.377interjectionFeature=3+0.293reply_feature=6+0.281interjectionFeature=4-0.228reply_feature=5... <= -0.458142
+|   |   |   0.566reply_feature=2+0.414winkingEmoticon-0.311reply_feature=1+0.303interjectionFeature=2+0.276surpriseEmoticon... <= 7.068685: 0 (14.0/3.0)
+|   |   |   0.566reply_feature=2+0.414winkingEmoticon-0.311reply_feature=1+0.303interjectionFeature=2+0.276surpriseEmoticon... > 7.068685: 1 (2.0)
+|   |   0.761worriedEmoticon+0.377interjectionFeature=3+0.293reply_feature=6+0.281interjectionFeature=4-0.228reply_feature=5... > -0.458142: 1 (273.0/79.0)
+
+Number of Leaves  : 	14
+
+Size of the tree : 	27
+
+
+Time taken to build model: 6.22 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances       10444               69.6267 %
+Incorrectly Classified Instances      4556               30.3733 %
+Kappa statistic                          0.2093
+Mean absolute error                      0.4121
+Root mean squared error                  0.4545
+Relative absolute error                 92.7198 %
+Root relative squared error             96.4234 %
+Total Number of Instances            15000     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.908     0.727      0.714     0.908     0.799      0.618    0
+                 0.273     0.092      0.597     0.273     0.375      0.618    1
+Weighted Avg.    0.696     0.515      0.675     0.696     0.658      0.618
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 9079  921 |    a = 0
+ 3635 1365 |    b = 1
+
+
+=== Re-evaluation on test set ===
+
+User supplied test set
+Relation:     Twitter-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.PrincipalComponents -R 0.95 -A 5-Sweka.attributeSelection.Ranker -T -1.7976931348623157E308 -N -1
+Instances:     unknown (yet). Reading incrementally
+Attributes:   24
+
+=== Summary ===
+
+Correctly Classified Instances        2037               67.9    %
+Incorrectly Classified Instances       963               32.1    %
+Kappa statistic                          0.1757
+Mean absolute error                      0.4173
+Root mean squared error                  0.4604
+Total Number of Instances             3000     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.883     0.729      0.708     0.883     0.786      0.606    0
+                 0.271     0.117      0.537     0.271     0.36       0.606    1
+Weighted Avg.    0.679     0.525      0.651     0.679     0.644      0.606
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 1766  234 |    a = 0
+  729  271 |    b = 1
+

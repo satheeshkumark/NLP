@@ -1,0 +1,36 @@
+# coding: UTF-8
+
+import re
+import sys
+import codecs
+
+inputfilename = 'sampleunicode.txt'
+fin1 = codecs.open(inputfilename,'UTF-8')
+
+element1 = '☺'
+
+smilingEmoticonsList = ['😊 ', '😃', '😁 ', '😄 ','😂 ', '😅', '😀', '😆', '😇', '😈', '😉', '😉', '😋 ', '😌', '😍', '😎', '😥', '😸', '😹', '😹', '😺', '😻', '😼', '🙅', '🙋',':-\)', ':\)', ':o\)', ':\]', ':3', ':c\)', ':>', '=]', '8\)', '=\)', ':\}', ':^\)', ':っ\)','\;\)', ':-D', ':D', '8-D', '8D', 'x-D', 'xD', 'X-D', 'XD', '=-D', '=D', '=-3', '=3', 'B^D',':\'-\)',':\'\)']
+winkSmirkEmoticonList = ['\;-\)' '\;\)' '*-\)' '*\)' '\;-\]' '\;\]' '\;D' '\;^\)' ':-\,']
+smirkingEmoticonsList = ['😏', '😬']
+neutralEmoticonsList = ['😐', '😑', '😒',':-|']
+worriedEmoticonsList = ['😓', '😰','😞']
+sadEmoticonsList = ['😔', '😟', '😢', '😣', '😧', '😭', '😰', '😿','/<//3',':\'-\(' ':\'\(']
+kissingEmoticonsList = ['😗', '😘', '😙', '😚', '😽 ']
+tongueStuckOutEmoticons = ['😝', '😜', '😝']
+angryEmoticonsList = ['😠','😡', '😾',':-||',':@']
+triumphEmoticonList = ['😤']
+fearEmoticonsList = ['😨', '😱']
+tiredEmoticonsList = ['😩', '😪', '😫', '😴', '😵', '🙀']
+surpriseEmoticonsList = ['😮', '😲', '😳', '😶']
+
+
+lineno = 0
+
+for inputline in fin1 :
+	lineno += 1
+	inputline = inputline.strip('\r\n')
+	inputline = inputline.strip()
+	if re.search(element1,inputline) :
+		print lineno,inputline
+
+fin1.close()

@@ -1,0 +1,10 @@
+####################################### Shell script to calculate all the feature values ###################################3
+
+DATA_PATH='data/'
+SCRIPT_PATH='script/'
+
+python step6_ExtractEmoticonFeatures.py '-t' '../data/input_step5-t.txt' '../data/step6_EmoticonFeatureValues-t.txt' '../data/input_step6-t.txt' 49104
+
+python step6_FindNGramFeatureValues.py '-t' '../data/input_step6-t.txt' '../data/unigramFeatures.txt' '../data/bigramFeatures.txt' '../data/trigramFeatures.txt' > '../data/step6_NGramFeatureValues.txt'
+
+

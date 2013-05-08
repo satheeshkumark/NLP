@@ -1,0 +1,3465 @@
+Evaluating clustering answers (team em_seedvalue_50_scenario1) from ../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_50_scenario1
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Abby_Watkins.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_50_scenario1/Abby_Watkins.clust.xml
+
+Checking errors in key...
+	Doc (114) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (33) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (33) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (114) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Tim_Whisler.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_50_scenario1/Tim_Whisler.clust.xml
+
+Checking errors in key...
+	Doc (21) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (17) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (17) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (21) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Michael_Howard.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_50_scenario1/Michael_Howard.clust.xml
+
+Checking errors in key...
+	Doc (93) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (41) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Dan_Rhone.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_50_scenario1/Dan_Rhone.clust.xml
+
+Checking errors in key...
+	Doc (3) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (3) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Thomas_Baker.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_50_scenario1/Thomas_Baker.clust.xml
+
+Checking errors in key...
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (35) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Cathie_Ely.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_50_scenario1/Cathie_Ely.clust.xml
+
+Checking errors in key...
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Jane_Hunter.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_50_scenario1/Jane_Hunter.clust.xml
+
+Checking errors in key...
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+Saving team evaluation to: ../Satheeshkumar_Karuppusamy_Score/em_seedvalue_50_scenario1.eval
+
+Evaluating clustering answers (team k-means_seedvalue_50_scenario1) from ../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_50_scenario1
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Abby_Watkins.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_50_scenario1/Abby_Watkins.clust.xml
+
+Checking errors in key...
+	Doc (114) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (33) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (33) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (114) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Tim_Whisler.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_50_scenario1/Tim_Whisler.clust.xml
+
+Checking errors in key...
+	Doc (21) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (17) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (17) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (21) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Michael_Howard.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_50_scenario1/Michael_Howard.clust.xml
+
+Checking errors in key...
+	Doc (93) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (41) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Dan_Rhone.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_50_scenario1/Dan_Rhone.clust.xml
+
+Checking errors in key...
+	Doc (3) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (3) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Thomas_Baker.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_50_scenario1/Thomas_Baker.clust.xml
+
+Checking errors in key...
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (35) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Cathie_Ely.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_50_scenario1/Cathie_Ely.clust.xml
+
+Checking errors in key...
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Jane_Hunter.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_50_scenario1/Jane_Hunter.clust.xml
+
+Checking errors in key...
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+Saving team evaluation to: ../Satheeshkumar_Karuppusamy_Score/k-means_seedvalue_50_scenario1.eval
+
+Evaluating clustering answers (team k-means_seedvalue_10_scenario2) from ../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_10_scenario2
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Abby_Watkins.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_10_scenario2/Abby_Watkins.clust.xml
+
+Checking errors in key...
+	Doc (114) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (33) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (33) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (114) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Tim_Whisler.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_10_scenario2/Tim_Whisler.clust.xml
+
+Checking errors in key...
+	Doc (21) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (17) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (17) is not in the key file, will be removed.
+	Doc (21) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Michael_Howard.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_10_scenario2/Michael_Howard.clust.xml
+
+Checking errors in key...
+	Doc (93) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (41) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Dan_Rhone.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_10_scenario2/Dan_Rhone.clust.xml
+
+Checking errors in key...
+	Doc (3) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (1) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Thomas_Baker.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_10_scenario2/Thomas_Baker.clust.xml
+
+Checking errors in key...
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Cathie_Ely.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_10_scenario2/Cathie_Ely.clust.xml
+
+Checking errors in key...
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Jane_Hunter.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_10_scenario2/Jane_Hunter.clust.xml
+
+Checking errors in key...
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+Saving team evaluation to: ../Satheeshkumar_Karuppusamy_Score/k-means_seedvalue_10_scenario2.eval
+
+Evaluating clustering answers (team em_seedvalue_100_scenario2) from ../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_100_scenario2
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Abby_Watkins.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_100_scenario2/Abby_Watkins.clust.xml
+
+Checking errors in key...
+	Doc (114) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (33) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (33) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (114) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Tim_Whisler.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_100_scenario2/Tim_Whisler.clust.xml
+
+Checking errors in key...
+	Doc (21) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (17) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (17) is not in the key file, will be removed.
+	Doc (21) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Michael_Howard.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_100_scenario2/Michael_Howard.clust.xml
+
+Checking errors in key...
+	Doc (93) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (41) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Dan_Rhone.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_100_scenario2/Dan_Rhone.clust.xml
+
+Checking errors in key...
+	Doc (3) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (1) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Thomas_Baker.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_100_scenario2/Thomas_Baker.clust.xml
+
+Checking errors in key...
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Cathie_Ely.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_100_scenario2/Cathie_Ely.clust.xml
+
+Checking errors in key...
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Jane_Hunter.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_100_scenario2/Jane_Hunter.clust.xml
+
+Checking errors in key...
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+Saving team evaluation to: ../Satheeshkumar_Karuppusamy_Score/em_seedvalue_100_scenario2.eval
+
+Evaluating clustering answers (team hierarchical_clustering_scenario1) from ../Satheeshkumar_Karuppusamy_CL/SystemsDir/hierarchical_clustering_scenario1
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Abby_Watkins.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/hierarchical_clustering_scenario1/Abby_Watkins.clust.xml
+
+Checking errors in key...
+	Doc (114) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (33) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (33) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (114) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Tim_Whisler.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/hierarchical_clustering_scenario1/Tim_Whisler.clust.xml
+
+Checking errors in key...
+	Doc (21) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (17) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (17) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (21) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Michael_Howard.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/hierarchical_clustering_scenario1/Michael_Howard.clust.xml
+
+Checking errors in key...
+	Doc (93) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (41) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Dan_Rhone.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/hierarchical_clustering_scenario1/Dan_Rhone.clust.xml
+
+Checking errors in key...
+	Doc (3) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (3) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Thomas_Baker.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/hierarchical_clustering_scenario1/Thomas_Baker.clust.xml
+
+Checking errors in key...
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (35) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Cathie_Ely.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/hierarchical_clustering_scenario1/Cathie_Ely.clust.xml
+
+Checking errors in key...
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Jane_Hunter.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/hierarchical_clustering_scenario1/Jane_Hunter.clust.xml
+
+Checking errors in key...
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+Saving team evaluation to: ../Satheeshkumar_Karuppusamy_Score/hierarchical_clustering_scenario1.eval
+
+Evaluating clustering answers (team LDA) from ../Satheeshkumar_Karuppusamy_CL/SystemsDir/LDA
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Abby_Watkins.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/LDA/Abby_Watkins.clust.xml
+
+Checking errors in key...
+	Doc (114) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (33) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (33) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (114) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Tim_Whisler.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/LDA/Tim_Whisler.clust.xml
+
+Checking errors in key...
+	Doc (21) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (17) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (17) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (21) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Michael_Howard.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/LDA/Michael_Howard.clust.xml
+
+Checking errors in key...
+	Doc (93) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (41) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Dan_Rhone.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/LDA/Dan_Rhone.clust.xml
+
+Checking errors in key...
+	Doc (3) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (3) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Thomas_Baker.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/LDA/Thomas_Baker.clust.xml
+
+Checking errors in key...
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (35) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Cathie_Ely.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/LDA/Cathie_Ely.clust.xml
+
+Checking errors in key...
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Jane_Hunter.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/LDA/Jane_Hunter.clust.xml
+
+Checking errors in key...
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+Saving team evaluation to: ../Satheeshkumar_Karuppusamy_Score/LDA.eval
+
+Evaluating clustering answers (team em_seedvalue_100_scenario1) from ../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_100_scenario1
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Abby_Watkins.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_100_scenario1/Abby_Watkins.clust.xml
+
+Checking errors in key...
+	Doc (114) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (33) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (33) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (114) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Tim_Whisler.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_100_scenario1/Tim_Whisler.clust.xml
+
+Checking errors in key...
+	Doc (21) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (17) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (17) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (21) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Michael_Howard.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_100_scenario1/Michael_Howard.clust.xml
+
+Checking errors in key...
+	Doc (93) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (41) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Dan_Rhone.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_100_scenario1/Dan_Rhone.clust.xml
+
+Checking errors in key...
+	Doc (3) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (3) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Thomas_Baker.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_100_scenario1/Thomas_Baker.clust.xml
+
+Checking errors in key...
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (35) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Cathie_Ely.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_100_scenario1/Cathie_Ely.clust.xml
+
+Checking errors in key...
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Jane_Hunter.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/em_seedvalue_100_scenario1/Jane_Hunter.clust.xml
+
+Checking errors in key...
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+Saving team evaluation to: ../Satheeshkumar_Karuppusamy_Score/em_seedvalue_100_scenario1.eval
+
+Evaluating clustering answers (team hierarchical_clustering_scenario2) from ../Satheeshkumar_Karuppusamy_CL/SystemsDir/hierarchical_clustering_scenario2
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Abby_Watkins.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/hierarchical_clustering_scenario2/Abby_Watkins.clust.xml
+
+Checking errors in key...
+	Doc (114) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (33) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (33) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (114) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Tim_Whisler.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/hierarchical_clustering_scenario2/Tim_Whisler.clust.xml
+
+Checking errors in key...
+	Doc (21) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (17) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (17) is not in the key file, will be removed.
+	Doc (21) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Michael_Howard.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/hierarchical_clustering_scenario2/Michael_Howard.clust.xml
+
+Checking errors in key...
+	Doc (93) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (41) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Dan_Rhone.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/hierarchical_clustering_scenario2/Dan_Rhone.clust.xml
+
+Checking errors in key...
+	Doc (3) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (1) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Thomas_Baker.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/hierarchical_clustering_scenario2/Thomas_Baker.clust.xml
+
+Checking errors in key...
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Cathie_Ely.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/hierarchical_clustering_scenario2/Cathie_Ely.clust.xml
+
+Checking errors in key...
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Jane_Hunter.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/hierarchical_clustering_scenario2/Jane_Hunter.clust.xml
+
+Checking errors in key...
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+Saving team evaluation to: ../Satheeshkumar_Karuppusamy_Score/hierarchical_clustering_scenario2.eval
+
+Evaluating clustering answers (team k-means_seedvalue_10_scenario1_BEST_SYSTEM) from ../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_10_scenario1_BEST_SYSTEM
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Abby_Watkins.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_10_scenario1_BEST_SYSTEM/Abby_Watkins.clust.xml
+
+Checking errors in key...
+	Doc (114) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (33) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (33) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (114) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Tim_Whisler.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_10_scenario1_BEST_SYSTEM/Tim_Whisler.clust.xml
+
+Checking errors in key...
+	Doc (21) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (17) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (17) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (21) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Michael_Howard.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_10_scenario1_BEST_SYSTEM/Michael_Howard.clust.xml
+
+Checking errors in key...
+	Doc (93) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (41) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Dan_Rhone.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_10_scenario1_BEST_SYSTEM/Dan_Rhone.clust.xml
+
+Checking errors in key...
+	Doc (3) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (3) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Thomas_Baker.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_10_scenario1_BEST_SYSTEM/Thomas_Baker.clust.xml
+
+Checking errors in key...
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (35) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Cathie_Ely.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_10_scenario1_BEST_SYSTEM/Cathie_Ely.clust.xml
+
+Checking errors in key...
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Jane_Hunter.clust.xml
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/SystemsDir/k-means_seedvalue_10_scenario1_BEST_SYSTEM/Jane_Hunter.clust.xml
+
+Checking errors in key...
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+Checking errors in answer...
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+Saving team evaluation to: ../Satheeshkumar_Karuppusamy_Score/k-means_seedvalue_10_scenario1_BEST_SYSTEM.eval
+
+Evaluating clustering answers (baseline COMBINED_BASELINE)
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Abby_Watkins.clust.xml
+
+Checking errors in key...
+	Doc (114) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (33) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Tim_Whisler.clust.xml
+
+Checking errors in key...
+	Doc (21) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (17) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Michael_Howard.clust.xml
+
+Checking errors in key...
+	Doc (93) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Dan_Rhone.clust.xml
+
+Checking errors in key...
+	Doc (3) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Thomas_Baker.clust.xml
+
+Checking errors in key...
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Cathie_Ely.clust.xml
+
+Checking errors in key...
+
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Jane_Hunter.clust.xml
+
+Checking errors in key...
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+
+Checking errors in answer...
+Saving team evaluation to: ../Satheeshkumar_Karuppusamy_Score/COMBINED_BASELINE.eval
+
+Evaluating clustering answers (baseline ONE_IN_ONE_BASELINE)
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Abby_Watkins.clust.xml
+
+Checking errors in key...
+	Doc (114) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (33) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Tim_Whisler.clust.xml
+
+Checking errors in key...
+	Doc (21) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (17) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Michael_Howard.clust.xml
+
+Checking errors in key...
+	Doc (93) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Dan_Rhone.clust.xml
+
+Checking errors in key...
+	Doc (3) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Thomas_Baker.clust.xml
+
+Checking errors in key...
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Cathie_Ely.clust.xml
+
+Checking errors in key...
+
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Jane_Hunter.clust.xml
+
+Checking errors in key...
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+
+Checking errors in answer...
+Saving team evaluation to: ../Satheeshkumar_Karuppusamy_Score/ONE_IN_ONE_BASELINE.eval
+
+Evaluating clustering answers (baseline ALL_IN_ONE_BASELINE)
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Abby_Watkins.clust.xml
+
+Checking errors in key...
+	Doc (114) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (110) is not in the key file, will be removed.
+	Doc (18) is not in the key file, will be removed.
+	Doc (33) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (118) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (38) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (108) is not in the key file, will be removed.
+	Doc (106) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (103) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (86) is not in the key file, will be removed.
+	Doc (101) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (100) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (97) is not in the key file, will be removed.
+	Doc (121) is not in the key file, will be removed.
+	Doc (122) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (123) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (0) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (8) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Tim_Whisler.clust.xml
+
+Checking errors in key...
+	Doc (21) is not in the key file, will be removed.
+	Doc (3) is not in the key file, will be removed.
+	Doc (20) is not in the key file, will be removed.
+	Doc (17) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Michael_Howard.clust.xml
+
+Checking errors in key...
+	Doc (93) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Dan_Rhone.clust.xml
+
+Checking errors in key...
+	Doc (3) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Thomas_Baker.clust.xml
+
+Checking errors in key...
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (14) is not in the key file, will be removed.
+	Doc (42) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (80) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (87) is not in the key file, will be removed.
+	Doc (61) is not in the key file, will be removed.
+	Doc (84) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (49) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (68) is not in the key file, will be removed.
+	Doc (45) is not in the key file, will be removed.
+	Doc (92) is not in the key file, will be removed.
+	Doc (26) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (10) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (6) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (4) is not in the key file, will be removed.
+	Doc (51) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (54) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Cathie_Ely.clust.xml
+
+Checking errors in key...
+
+Checking errors in answer...
+Parsing clustering file: /home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/../Satheeshkumar_Karuppusamy_CL/KeysDir/Jane_Hunter.clust.xml
+
+Checking errors in key...
+	Doc (78) is not in the key file, will be removed.
+	Doc (77) is not in the key file, will be removed.
+	Doc (35) is not in the key file, will be removed.
+	Doc (39) is not in the key file, will be removed.
+	Doc (37) is not in the key file, will be removed.
+	Doc (41) is not in the key file, will be removed.
+	Doc (40) is not in the key file, will be removed.
+	Doc (82) is not in the key file, will be removed.
+	Doc (83) is not in the key file, will be removed.
+	Doc (81) is not in the key file, will be removed.
+	Doc (85) is not in the key file, will be removed.
+	Doc (67) is not in the key file, will be removed.
+	Doc (66) is not in the key file, will be removed.
+	Doc (22) is not in the key file, will be removed.
+	Doc (24) is not in the key file, will be removed.
+	Doc (25) is not in the key file, will be removed.
+	Doc (27) is not in the key file, will be removed.
+	Doc (29) is not in the key file, will be removed.
+	Doc (1) is not in the key file, will be removed.
+	Doc (7) is not in the key file, will be removed.
+	Doc (30) is not in the key file, will be removed.
+	Doc (31) is not in the key file, will be removed.
+	Doc (70) is not in the key file, will be removed.
+	Doc (71) is not in the key file, will be removed.
+	Doc (72) is not in the key file, will be removed.
+	Doc (73) is not in the key file, will be removed.
+	Doc (74) is not in the key file, will be removed.
+	Doc (75) is not in the key file, will be removed.
+	Doc (76) is not in the key file, will be removed.
+	Doc (59) is not in the key file, will be removed.
+	Doc (58) is not in the key file, will be removed.
+	Doc (57) is not in the key file, will be removed.
+	Doc (19) is not in the key file, will be removed.
+	Doc (56) is not in the key file, will be removed.
+	Doc (55) is not in the key file, will be removed.
+	Doc (15) is not in the key file, will be removed.
+	Doc (16) is not in the key file, will be removed.
+	Doc (12) is not in the key file, will be removed.
+	Doc (64) is not in the key file, will be removed.
+	Doc (65) is not in the key file, will be removed.
+	Doc (62) is not in the key file, will be removed.
+	Doc (63) is not in the key file, will be removed.
+	Doc (99) is not in the key file, will be removed.
+	Doc (60) is not in the key file, will be removed.
+	Doc (98) is not in the key file, will be removed.
+	Doc (48) is not in the key file, will be removed.
+	Doc (96) is not in the key file, will be removed.
+	Doc (95) is not in the key file, will be removed.
+	Doc (94) is not in the key file, will be removed.
+	Doc (93) is not in the key file, will be removed.
+	Doc (44) is not in the key file, will be removed.
+	Doc (47) is not in the key file, will be removed.
+	Doc (91) is not in the key file, will be removed.
+	Doc (90) is not in the key file, will be removed.
+	Doc (52) is not in the key file, will be removed.
+	Doc (53) is not in the key file, will be removed.
+	Doc (88) is not in the key file, will be removed.
+	Doc (89) is not in the key file, will be removed.
+	Doc (50) is not in the key file, will be removed.
+
+Checking errors in answer...
+Saving team evaluation to: ../Satheeshkumar_Karuppusamy_Score/ALL_IN_ONE_BASELINE.eval
+

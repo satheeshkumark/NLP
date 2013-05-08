@@ -1,0 +1,245 @@
+\text{accuracy}=\frac{\text{number of true positives}+\text{number of true negatives}}{\text{number of true positives}+\text{false positives} + \text{false negatives} + \text{true negatives}}
+
+PNS(BI) ------------- Cross Tri,Reply,total pos neg polarity,sum of polarity
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.674396592522
+Recall : 0.9975
+class name :  2
+Precision : 0.88038277512
+Recall : 0.0368
+Accuracy of Classifying Sarcastic Tweets ------------------  0.677266666667
+SVM_PredTrainFilename : data/SVMPred_PNS-bi-t.txt
+SVM Pred Train Class File Name : data/step2_PNSInputCorpus-bi-t-class.txt
+Number of classes : 2
+Number of Train examples : 15000
+Accuracy class : 2
+
+
+Reading model...done.
+Reading test examples... (3000 examples) done.
+Classifying test examples...done
+Runtime (without IO) in cpu-seconds: 0.00
+Average loss on test set: 33.5667
+Zero/one-error on test set: 33.57% (1993 correct, 1007 incorrect, 3000 total)
+
+
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.667340748231
+Recall : 0.99
+class name :  2
+Precision : 0.393939393939
+Recall : 0.013
+Accuracy of Classifying Sarcastic Tweets ------------------  0.664333333333
+
+
+PNS(TRI) -------------- Cross Tri,Reply,total pos neg polarity,sum of polarity
+
+sat@ubuntu:~/Desktop/nlp_project/source$ bash step4_Run_SVM_Classifier.sh 'PNS' '-tri'
+Reading training examples... (15000 examples) done
+Training set properties: 49133 features, 3 classes
+Iter 1: .........*(NumConst=1, SV=1, CEps=100.0000, QPEps=0.0000)
+Iter 2: *(NumConst=2, SV=1, CEps=99.0338, QPEps=0.0000)
+Iter 3: .........*(NumConst=3, SV=2, CEps=1.5950, QPEps=0.0000)
+Iter 4: .........*(NumConst=4, SV=3, CEps=0.1480, QPEps=0.0272)
+Iter 5: .........(NumConst=4, SV=3, CEps=0.0751, QPEps=0.0272)
+Final epsilon on KKT-Conditions: 0.07510
+Upper bound on duality gap: 0.06930
+Dual objective value: dval=99.98413
+Primal objective value: pval=100.05343
+Total number of constraints in final working set: 4 (of 4)
+Number of iterations: 5
+Number of calls to 'find_most_violated_constraint': 60000
+Number of SV: 3 
+Norm of weight vector: |w|=0.17813
+Value of slack variable (on working set): xi=99.98971
+Value of slack variable (global): xi=100.03757
+Norm of longest difference vector: ||Psi(x,y)-Psi(x,ybar)||=0.98295
+Runtime in cpu-seconds: 0.12
+Final number of constraints in cache: 39693
+Compacting linear model...done
+Writing learned model...done
+Reading model...done.
+Reading test examples... (15000 examples) done.
+Classifying test examples...done
+Runtime (without IO) in cpu-seconds: 0.01
+Average loss on test set: 55.5200
+Zero/one-error on test set: 55.52% (6672 correct, 8328 incorrect, 15000 total)
+
+
+
+Number of classes :  3
+Accuracy classes :  3
+################## Evaluation Results #############
+set([1, 2, 3])
+set([0, 1, 2])
+class name :  1
+Precision : 0.415599173554
+Recall : 0.8046
+class name :  2
+Precision : 0.47986510613
+Recall : 0.4838
+class name :  3
+Precision : 0.824372759857
+Recall : 0.046
+Accuracy of Classifying Sarcastic Tweets ------------------  0.678733333333
+SVM_PredTrainFilename : data/SVMPred_PNS-tri-t.txt
+SVM Pred Train Class File Name : data/step2_PNSInputCorpus-tri-t-class.txt
+Number of classes : 3
+Number of Train examples : 15000
+Accuracy class : 3
+
+
+Reading model...done.
+Reading test examples... (3000 examples) done.
+Classifying test examples...done
+Runtime (without IO) in cpu-seconds: 0.01
+Average loss on test set: 56.8667
+Zero/one-error on test set: 56.87% (1294 correct, 1706 incorrect, 3000 total)
+
+
+
+Number of classes :  3
+Accuracy classes :  3
+################## Evaluation Results #############
+set([1, 2, 3])
+set([0, 1, 2])
+class name :  1
+Precision : 0.403379091869
+Recall : 0.764
+class name :  2
+Precision : 0.480531813865
+Recall : 0.506
+class name :  3
+Precision : 0.452830188679
+Recall : 0.024
+Accuracy of Classifying Sarcastic Tweets ------------------  0.665
+
+
+
+PS ------------- Cross Tri,Reply,total pos neg polarity,sum of polarity
+
+Reading training examples... (10000 examples) done
+Training set properties: 49133 features, 2 classes
+Iter 1: .........*(NumConst=1, SV=1, CEps=100.0000, QPEps=0.0000)
+Iter 2: *(NumConst=2, SV=1, CEps=99.6938, QPEps=0.0000)
+Iter 3: .........(NumConst=2, SV=1, CEps=0.0000, QPEps=0.0000)
+Final epsilon on KKT-Conditions: 0.00000
+Upper bound on duality gap: 0.00000
+Dual objective value: dval=99.84692
+Primal objective value: pval=99.84692
+Total number of constraints in final working set: 2 (of 2)
+Number of iterations: 3
+Number of calls to 'find_most_violated_constraint': 20000
+Number of SV: 1 
+Norm of weight vector: |w|=0.55332
+Value of slack variable (on working set): xi=99.69384
+Value of slack variable (global): xi=99.69384
+Norm of longest difference vector: ||Psi(x,y)-Psi(x,ybar)||=0.55332
+Runtime in cpu-seconds: 0.03
+Final number of constraints in cache: 20000
+Compacting linear model...done
+Writing learned model...done
+Reading model...done.
+Reading test examples... (10000 examples) done.
+Classifying test examples...done
+Runtime (without IO) in cpu-seconds: 0.00
+Average loss on test set: 40.9200
+Zero/one-error on test set: 40.92% (5908 correct, 4092 incorrect, 10000 total)
+
+
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.558701836049
+Recall : 0.8642
+class name :  2
+Precision : 0.700353045013
+Recall : 0.3174
+Accuracy of Classifying Sarcastic Tweets ------------------  0.5908
+SVM_PredTrainFilename : data/SVMPred_PS-bi-t.txt
+SVM Pred Train Class File Name : data/step2_PSInputCorpus-bi-t-class.txt
+Number of classes : 2
+Number of Train examples : 10000
+Accuracy class : 2
+
+
+Reading model...done.
+Reading test examples... (2000 examples) done.
+Classifying test examples...done
+Runtime (without IO) in cpu-seconds: 0.00
+Average loss on test set: 43.6500
+Zero/one-error on test set: 43.65% (1127 correct, 873 incorrect, 2000 total)
+
+
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.540575079872
+Recall : 0.846
+class name :  2
+Precision : 0.645977011494
+Recall : 0.281
+Accuracy of Classifying Sarcastic Tweets ------------------  0.5635
+
+NS --------------Cross Tri,Reply,total pos neg polarity,sum of pos negative polarity
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.59361009361
+Recall : 0.5834
+class name :  2
+Precision : 0.590444357059
+Recall : 0.6006
+Accuracy of Classifying Sarcastic Tweets ------------------  0.592
+SVM_PredTrainFilename : data/SVMPred_NS-bi-t.txt
+SVM Pred Train Class File Name : data/step2_NSInputCorpus-bi-t-class.txt
+Number of classes : 2
+Number of Train examples : 10000
+Accuracy class : 2
+
+
+Reading model...done.
+Reading test examples... (2000 examples) done.
+Classifying test examples...done
+Runtime (without IO) in cpu-seconds: 0.00
+Average loss on test set: 40.8000
+Zero/one-error on test set: 40.80% (1184 correct, 816 incorrect, 2000 total)
+
+
+
+Number of classes :  2
+Accuracy classes :  2
+################## Evaluation Results #############
+set([1, 2])
+set([0, 1])
+class name :  1
+Precision : 0.591816367265
+Recall : 0.593
+class name :  2
+Precision : 0.592184368737
+Recall : 0.591
+Accuracy of Classifying Sarcastic Tweets ------------------  0.592

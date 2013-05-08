@@ -1,0 +1,127 @@
+# coding: UTF-8
+
+import re
+import sys
+import codecs
+import string
+
+inputfilename = '../data/input_step5-t.txt'
+fin1 = codecs.open(inputfilename,'UTF-8')
+fout1 = codecs.open('../data/emoticonsFeatureValue.txt','w')
+fout2 = codecs.open('../data/emoticonRemovedFile.txt','w')
+
+#element1 = '☺'
+
+smilingEmoticonsList = ['😊', '😃', '😁', '😄','😂', '😅', '😀', '😆', '😇', '😈', '😉', '😉', '😋 ', '😌', '😍', '😎', '😥', '😸', '😹', '😹', '😺', '😻', '😼', '🙅', '🙋',':-)', ':)', ':o)', ':]', ':3', ':c)', ':>', '=]', '8)', '=)', ':}', ':^)', ':っ)',';)', ':-D', ':D', '8-D', '8D', 'x-D', 'xD', 'X-D', 'XD', '=-D', '=D', '=-3', '=3', 'B^D',':\'-)',':\')','♥',':))',':-))', '👍', '❤', '^_^','):',':\'))','<3']
+winkEmoticonList = [';-)', ';)', '*-)', '*)', ';-]', ';]', ';D', ';^)', ':-\,']
+smirkingEmoticonList = ['😏', '😬']
+neutralEmoticonList = ['😐', '😑', '😒',':-|']
+worriedEmoticonList = ['😓', '😰','😞']
+sadEmoticonList = ['😔', '😟', '😢', '😣', '😧', '😭', '😰', '😿', '</3',':\'-(' ':\'(',':(',';(','(:', ':\'(','☹']
+kissingEmoticonList = ['😗', '😘', '😙', '😚', '😽']
+tongueStuckOutEmoticonList = ['😝', '😜', '😝']
+angryEmoticonList = ['😠','😡', '😾',':-||',':@']
+triumphEmoticonList = ['😤']
+fearEmoticonList = ['😨', '😱']
+tiredEmoticonList = ['😩', '😪', '😫', '😴', '😵', '🙀']
+surpriseEmoticonList = ['😮', '😲', '😳', '😶']
+
+
+for inputline in fin1 :	
+	inputline = inputline.strip('\r\n')
+	inputline = inputline.strip()
+	inputList = inputline.split(' ')
+	outputstring = ''
+	smilingEmFlag = 0
+	winkEmFlag = 0
+	smirkEmFlag = 0
+	neutralEmFlag = 0
+	wrdEmFlag = 0
+	sadEmFlag = 0
+	kssngEmFlag = 0
+	tngStkEmFlag = 0
+	angryEmFlag = 0
+	trmphEmFlag = 0
+	fearEmFlag = 0
+	trdEmFlag = 0
+	srpriseEmFlag = 0
+	exclamationFlag = 0
+	questionMarkFlag = 0
+	featureString = ''
+	
+	for element in inputList :
+		element = element.strip()
+		
+		if(string.find(element,'!') != -1) :
+			print 'exclamation emoticon'
+			print
+			exclamationFlag = 1
+		if(string.find(element,'?') != -1) :
+			print 'question emoticon'
+			print
+			questionMarkFlag = 1
+
+		element = element.replace('!',' ')
+		element = element.replace('?',' ')
+
+		if len(element) == 0 :
+			continue
+
+		if element.upper() in smilingEmoticonsList :
+			#print 'element in smiling emoticon list'			
+			smilingEmFlag = 1
+		elif element in winkEmoticonList :
+			#print 'element in wink emoticon list'
+			winkEmFlag = 1
+		elif element in smirkingEmoticonList :
+			#print 'element in smirk emoticon list'
+			smirkEmFlag = 1
+		elif element in neutralEmoticonList :
+			#print 'element in neural emoticon list'
+			neutralEmFlag = 1
+		elif element in worriedEmoticonList :
+			#print 'element in worried emoticon list'
+			wrdEmFlag = 1
+		elif element in sadEmoticonList :
+			#print 'element in sad emoticon list'
+			sadEmFlag = 1
+		elif element in kissingEmoticonList :
+			#print 'element in kissing emoticon list'
+			kssngEmFlag = 1
+		elif element in tongueStuckOutEmoticonList :
+			#print 'element in tongue stuck out emoticon list'
+			tngStkEmFlag = 1
+		elif element in angryEmoticonList :
+			#print 'element in angry emoticon list'
+			angryEmFlag = 1
+		elif element in fearEmoticonList :
+			#print 'element in fear emoticon list'
+			fearEmFlag = 1
+		elif element in tiredEmoticonList :
+			#print 'element in tired emoticon list'
+			trdEmFlag = 1
+		elif element in surpriseEmoticonList :
+			#print 'element in surprise emoticon list'
+			srpriseEmFlag = 1
+		else :
+			#print 'else part'
+			#element.decode('ascii','replace').replace(u'u\fffd',' ')
+			#element = "".join((c if ord(c) < 128 else ' ' for c in element))		
+			#element = element.strip()
+			#element = "".join((c if ord(c) < 128 else ' ' for c in element))
+			if(re.search('[^a-zA-Z0-9]',element) or len(element) == 0) :
+				continue
+			outputstring += element + ' '
+		print
+
+	outputstring = outputstring.strip() + '\r\n'
+	featureString += str(smilingEmFlag) + '\t' + str(winkEmFlag) + '\t' + str(smirkEmFlag) + '\t' + str(neutralEmFlag) + '\t'
+	featureString += str(wrdEmFlag) + '\t' + str(sadEmFlag) + '\t' + str(kssngEmFlag) + '\t' + str(tngStkEmFlag) + '\t'
+	featureString += str(angryEmFlag) + '\t' + str(trmphEmFlag) + '\t' + str(fearEmFlag) + '\t' + str(trdEmFlag) + '\t'
+	featureString += str(srpriseEmFlag) + '\t' + str(exclamationFlag) + '\t' + str(questionMarkFlag) + '\r\n'
+	fout1.write(featureString)		
+	fout2.write(outputstring)
+
+fin1.close()
+fout2.close()
+

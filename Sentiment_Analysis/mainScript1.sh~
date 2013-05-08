@@ -1,0 +1,41 @@
+####################### Main Script File which runs every other python files and other tools###################################################
+
+language_option=$1
+
+data_path='data/'
+script_path='scripts/' 
+tokenizer_path='../ark-tweet-nlp-0.3.2/'
+tagger_path='../ark-tweet-nlp-0.3.2/'
+svm_light_path='../svm_light/'
+
+stopwordfile=$data_path'stopwords_twitter_sa_final.txt'
+inputFileStep7=$data_path'input_step7-t.txt'
+
+ngramFeatureExtrScript='findNGramFeatures.py'
+findFeaturesScript='findNGramFeatures.py'
+findFeatureValuesScript=$script_path'findNGramFeatureValues.py'
+
+trainClassFilename=$data_path'classFileName-t.txt'
+trainInputFilename=$data_path'input_step7-t.txt'
+testClassFilename=$data_path'classFileName-T.txt'
+testInputFilename=$data_path'input_step5-T.txt'
+unigramFeatureFilename=$data_path'unigramfile-t.txt'
+bigramFeatureFilename=$data_path'bigramfile-t.txt'
+
+svmtraininptfile=$data_path'svmtraininput.txt'
+svmtestinptfile=$data_path'svmtestinput.txt'
+svmtrainscript=$svm_light_path'svm_learn'
+svmtestscript=$svm_light_path'svm_classify'
+modelfilename=$data_path'modelOutputFile.txt'
+predictionfilename=$data_path'predictionFile.txt'
+
+#python $script_path$ngramFeatureExtrScript $test_or_train_option $stopwordfile $inputFileStep7 &&
+
+python $findFeatureValuesScript '-t' $trainClassFilename $trainInputFilename $unigramFeatureFilename $bigramFeatureFilename $svmtraininptfile &&
+
+python $findFeatureValuesScript '-T' '/home/sat/Desktop/dr/source/data/classFileName-T.txt' '/home/sat/Desktop/dr/source/data/input_step5-T.txt' '/home/sat/Desktop/dr/source/data/unigramfile-t.txt' '/home/sat/Desktop/dr/source/data/bigramfile-t.txt' $svmtestinptfile &&
+
+$svmtrainscript $svmtraininptfile $modelfilename &&
+
+$svmtestscript $svmtestinptfile $modelfilename $predictionfilename
+

@@ -1,0 +1,54 @@
+test_or_train_option=$1
+class_option=$2
+language_option=$3
+
+if [ "$4" == "" ]; then
+	data_path='data/'
+else
+	data_path=$4
+fi
+
+script_path='scripts/'
+SVM_PATH='scripts/svm_multiclass_linux/'
+noOfClasses=2
+
+inputFileStep6=$data_path'input_step6'$test_or_train_option'.txt'
+inputFileStep7=$data_path'input_step7'$test_or_train_option'.txt'
+inputFileStep8=$data_path'input_step8'$test_or_train_option'.txt'
+
+
+mergeFeaturesScript=$script_path'step7_MergeFeatures.py'
+evaluationScript=$script_path'evaluation.py'
+classFileName=""
+if [ "$class_option" == "-x" ]; then
+	classFileName=$data_path'classFileName'$test_or_train_option'_f.txt'
+	noOfClasses=8
+else
+	classFileName=$data_path'classFileName'$test_or_train_option'_f.txt'$class_option
+fi
+svmInputFileName=$data_path'svmInput'$test_or_train_option'.txt'
+svmModelFileName=$data_path'svmModel.txt'
+svmPredFileName=$data_path'svmPred'$test_or_train_option'.txt'
+
+unigramFeatureFileName=$data_path'step6_UnigramFeatureOutput'$test_or_train_option'.txt'
+bigramFeatureFileName=$data_path'step6_BigramFeatureOutput'$test_or_train_option'.txt'
+trigramFeatureFileName=$data_path'step6_TrigramFeatureOutput'$test_or_train_option'.txt'
+emoticonFeaturesFileName=$data_path'step6_EmoticonFeatureValues'$test_or_train_option'.txt'
+indPolarityFileName=$data_path'step6_PolInd'$test_or_train_option'.txt' 
+posNegPolarityFileName=$data_path'step6_PolPosNeg'$test_or_train_option'.txt'
+totalPolarityFileName=$data_path'step6_PolTotal'$test_or_train_option'.txt'
+
+if [ "$language_option" == "en" ]; then
+	python $mergeFeaturesScript $classFileName $svmInputFileName $unigramFeatureFileName $bigramFeatureFileName $trigramFeatureFileName $emoticonFeaturesFileName $indPolarityFileName $posNegPolarityFileName $totalPolarityFileName
+else
+	python $mergeFeaturesScript $classFileName $svmInputFileName $unigramFeatureFileName $bigramFeatureFileName $trigramFeatureFileName $emoticonFeaturesFileName
+fi
+
+if [ "$test_or_train_option" == "-t" ]; then
+	./$SVM_PATH'svm_multiclass_learn' -c 1.0 $svmInputFileName $svmModelFileName
+fi
+
+./$SVM_PATH'svm_multiclass_classify' $svmInputFileName $svmModelFileName $svmPredFileName
+
+python $evaluationScript $svmPredFileName $classFileName $noOfClasses
+

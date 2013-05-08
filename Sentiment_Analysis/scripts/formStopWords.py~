@@ -1,0 +1,29 @@
+import sys
+import codecs
+
+'''
+
+####################################################### File Description #####################################################################
+
+Input : File containing tokenized tweets
+Output1 : File with tweets with the class information removed
+Output2 : File with class information of the tweets processed
+Description : Takes the input as the file with tokenized tweets and outputs the tweets and class names separately
+
+'''
+
+inputfilename = sys.argv[1]
+outputclassfile = sys.argv[2]
+fin = codecs.open(inputfilename,'UTF-8')
+classout = codecs.open(outputclassfile,'w')
+
+for inputline in fin :
+	inputlist = inputline.split()
+	classname = inputlist[len(inputlist) - 1] + '\r\n'
+	inptulist = inputlist.pop(len(inputlist) - 1)
+	inputline = ' '.join(inputlist)
+	classout.write(classname)
+	print inputline	
+
+fin.close()
+classout.close()

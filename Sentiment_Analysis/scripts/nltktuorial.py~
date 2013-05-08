@@ -1,0 +1,21 @@
+import nltk
+from nltk import bigrams
+from nltk import trigrams
+
+text="""Lorem ipsum dolor"""
+
+# split the texts into tokens
+
+tokens = nltk.word_tokenize(text)
+tokens = [token.lower() for token in tokens if len(token) > 1] #same as unigrams
+bi_tokens = bigrams(tokens)
+tri_tokens = trigrams(tokens)
+
+# print trigrams count
+
+print [(item, tri_tokens.count(item)) for item in sorted(set(tri_tokens))]
+print
+print
+print [(item, bi_tokens.count(item)) for item in sorted(set(bi_tokens))]
+print len(bi_tokens)
+print len(tri_tokens)

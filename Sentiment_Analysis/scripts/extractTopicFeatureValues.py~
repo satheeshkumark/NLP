@@ -1,0 +1,42 @@
+import re
+import sys
+import codecs
+import string
+
+startFeatureValue = int(sys.argv[1])
+inputfile = sys.argv[2]
+
+
+fin = codecs.open(inputfile)
+
+for inputline in fin :
+	outputstring = ''
+	tempMap = dict()
+	tempMap.clear()	
+	if inputline.startswith('#') :
+		continue
+	inputline = inputline.strip('\r\n')
+	inputline = inputline.strip('\t')
+	inputline = inputline.strip()
+	inputList = inputline.split('\t')
+
+	i = 2
+	while(i < len(inputList)) :
+		key = int(inputList[i])
+		value = float(inputList[i+1])
+		tempMap[key] = value;		
+		i += 2
+
+	maxkey = max(tempMap, key=tempMap.get)
+	maxvalue = tempMap[maxkey]
+	
+	for key in sorted(tempMap.iterkeys()) :
+		if tempMap[key] == maxvalue :
+			outputstring += str(startFeatureValue + key) + ':' + str(1) + ','
+		#else :
+			#outputstring += str(startFeatureValue + key) + ':' + str(0) + ','
+
+	outputstring = outputstring.strip(',')
+	print outputstring
+
+fin.close()

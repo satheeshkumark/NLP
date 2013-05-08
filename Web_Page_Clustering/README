@@ -1,0 +1,49 @@
+=============================================================== ReadMe =============================================================================
+
+
+1. How to run Clustering Algorithms :
+
+	1.1 Preprocessing :
+
+		cd Satheeshkumar_Karuppusamy_System
+		bash runPreProcessing.sh
+
+	1.2 Load the input ARFF file from /Satheeshkumar_Karuppusamy_System/data/webps/arffs/"entityname".arff
+
+	1.3 Apply StringToVector filter with the following settings :
+	
+		TF-IDF		-> true
+		lowercase	-> true
+		Tokenizer	-> Choose ngram and n as 2
+		
+	1.4 Use weka to perform Clustering using Algorithms like K-means Clustering, Hierarchical or EM Algorithm. Modify the number of clusters to the value that needs to be set. Save the output arff files as /Satheeshkumar_Karuppusamy_System/data/webps/arffs/"entityname_out".arff
+
+	1.5 bash postProcess.sh
+
+	Output "entityname.clust.xml" can be found at /Satheeshkumar_Karuppusamy_System/data/webps/arffs/
+	
+	1.6 Move them to a new system under /Satheeshkumar_Karuppusamy_CL and run
+
+	bash runScorer.sh
+
+
+2. How to run LDA :
+
+	2.1 Preprocessing :
+
+		Follow Step 1.1
+
+	2.2 Apply LDA - Run Mallet
+
+		bash runningMallet.sh
+
+	2.3 Post Processing of Mallet Output
+
+		bash malletPostProcess.sh
+		
+	Output "entityname.clust.xml" can be found at /Satheeshkumar_Karuppusamy_System/data/webps/arffs/
+
+
+	2.4 Follow Step 1.6 for running the scorer
+
+

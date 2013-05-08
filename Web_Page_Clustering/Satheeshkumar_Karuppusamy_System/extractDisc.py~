@@ -1,0 +1,23 @@
+import codecs
+import codecs
+import string
+import re
+import sys
+
+
+inputfilename = sys.argv[1]
+
+fin = codecs.open(inputfilename)
+
+for inputline in fin :
+	inputline = inputline.strip('\r\n')
+	inputline = inputline.strip()
+	if(inputline.endswith('not discarded')) :
+		continue
+	elif(inputline.endswith('discarded')):
+		print inputline
+		print
+	else :
+		continue
+
+fin.close()

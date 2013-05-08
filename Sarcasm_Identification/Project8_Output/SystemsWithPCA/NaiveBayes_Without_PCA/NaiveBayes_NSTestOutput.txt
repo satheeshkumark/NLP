@@ -1,0 +1,12 @@
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.791     0.535      0.596     0.791     0.68       0.665    0
+                 0.465     0.209      0.69      0.465     0.555      0.665    1
+Weighted Avg.    0.628     0.372      0.643     0.628     0.618      0.665
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 3957 1043 |    a = 0
+ 2677 2323 |    b = 1

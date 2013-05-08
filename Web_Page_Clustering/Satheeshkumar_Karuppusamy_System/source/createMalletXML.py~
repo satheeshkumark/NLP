@@ -1,0 +1,122 @@
+import codecs
+import codecs
+import string
+import re
+import sys
+
+clusterMap = dict()
+
+xmldesc = '<?xml version=\"1.0\" encoding=\"UTF-8\"?>'
+xmlheader = '<clustering name='
+xmltail = '</clustering>'
+
+discheader = '\t<discarded>'
+disctail = '\t</discarded>'
+
+entityheader = '\t<entity id='
+entitytail = '\t</entity>'
+
+docTag = '\t\t<doc rank='
+docTailTag = ' />'
+outputstring = ''
+
+
+def printXmlTags(entityname) :
+	global clusterMap
+	global outputstring
+
+	outputstring += xmldesc
+	outputstring += '\r\n'
+	printXMLHeader(entityname)	
+	
+	for key in clusterMap :
+		printEntityHeader(key)
+		printDocTag(clusterMap[key])
+		printEntityTail()
+
+	outputstring += xmltail
+	outputstring += '\r\n'
+
+
+def printDocTag(docList) :
+	global docTag
+	global docTailTag
+	global outputstring
+
+	for element in docList :
+		element = int(element)
+		outputstring1 = docTag + '\"' + str(element) + '\"' + docTailTag
+		outputstring += outputstring1
+		outputstring += '\r\n'
+
+def printEntityHeader(clusterid) :
+	global entityheader
+	global outputstring
+
+	newentityheader = entityheader + '\"' + str(clusterid) + '\"' + '>'
+	outputstring += newentityheader
+	outputstring += '\r\n'
+
+def printEntityTail() :
+	global entitytail
+	global outputstring
+
+	newentitytail = entitytail
+	outputstring += newentitytail
+	outputstring += '\r\n'
+
+def printXMLHeader(entityname) :
+	global xmlheader	
+	global outputstring
+
+	newxmlheader = xmlheader + '\"' + entityname + '\">'
+	outputstring += newxmlheader
+	outputstring += '\r\n'
+
+def writeOutputFile(outputfilename) :
+	global outputstring
+	fout = codecs.open(outputfilename,'w')
+	fout.write(outputstring)
+	outputstring += '\r\n'
+	fout.close()
+
+
+0	file:/home/sat/Desktop/nlp/Satheeshkumar_Karuppusamy/Satheeshkumar_Karuppusamy_System/data/webps/tokenized_web_pages/Tim_Whisler/021/index.html.out.merged.tokenized	5	0.6757687739835244	7	0.13629029586974728	6	0.13129367899575572	2	0.033183024751233775	0	0.00856427702833782	1	0.005285247204780854	4	0.004140189171157787	10	0.0017980250114742386	9	0.0017980250114742386	8	9.652555324756439E-4	3	9.132074400382317E-4	
+
+def parseInputFile(inputfilename) :
+	global clusterMap
+
+	fin1 = codecs.open(inputfilename)
+
+	for inputline in fin1 :
+		inputline = inputline.strip('\r\n')
+		inputline = inputline.strip()
+		if inputline.startswith('#') :
+			continue
+		inputlist = inputline.split('\t')
+		key = inputlist[2]
+		value = inputlist[1]
+		valueList = value.split('/')
+		value = int(valueList[-2])
+
+		if key in clusterMap :
+			templist = clusterMap[key]
+			templist.append(value)
+			clusterMap[key] = templist
+		else :
+			templist = []
+			templist.append(value)
+			clusterMap[key] = templist
+	fin1.close()
+
+if __name__ == '__main__' :
+	entityname = sys.argv[1]
+	inputfilename = sys.argv[2]
+	outputfilename = sys.argv[3]
+
+	entityList = entityname.split('_')
+	entityname = ' '.join(entityList)
+
+	parseInputFile(inputfilename)
+	printXmlTags(entityname)
+	writeOutputFile(outputfilename)

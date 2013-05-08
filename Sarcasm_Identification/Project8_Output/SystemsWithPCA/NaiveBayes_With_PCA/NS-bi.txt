@@ -1,0 +1,237 @@
+=== Run information ===
+
+Scheme:weka.classifiers.bayes.NaiveBayes 
+Relation:     Twitter-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.PrincipalComponents -R 0.95 -A 5-Sweka.attributeSelection.Ranker -T -1.7976931348623157E308 -N -1
+Instances:    10000
+Attributes:   24
+              -0.511interjectionFeature=0+0.475interjectionFeature=1-0.467reply_feature=0+0.425reply_feature=1+0.195exclamationFeature...
+              -0.514reply_feature=0+0.484reply_feature=1+0.482interjectionFeature=0-0.471interjectionFeature=1+0.114reply_feature=2...
+              -0.514fearEmoticon-0.497tongueStickOutEmoticon-0.422angryEmoticon-0.368smirkingEmoticon-0.334tiredEmoticon...
+              -0.432smilingEmoticon-0.409interjectionFeature=2-0.297reply_feature=5-0.289reply_feature=2-0.266kissingEmoticon...
+              0.654reply_feature=2+0.462winkingEmoticon-0.282interjectionFeature=2-0.275smilingEmoticon-0.222reply_feature=1...
+              0.413surpriseEmoticon-0.407smilingEmoticon+0.334interjectionFeature=2+0.324reply_feature=5-0.316interjectionFeature=4...
+              0.405sadEmoticon-0.396triumphEmoticon+0.375reply_feature=5+0.297exclamationFeature-0.286reply_feature=3...
+              -0.47neutralEmoticon-0.443triumphEmoticon+0.378reply_feature=3-0.275exclamationFeature-0.26surpriseEmoticon...
+              0.486reply_feature=8-0.405sadEmoticon+0.37 reply_feature=4-0.303triumphEmoticon-0.284reply_feature=5...
+              -0.48reply_feature=4+0.464kissingEmoticon-0.419reply_feature=6+0.345interjectionFeature=3-0.313reply_feature=3...
+              0.498reply_feature=8+0.467kissingEmoticon+0.403reply_feature=6-0.388reply_feature=3-0.316interjectionFeature=4...
+              0.562reply_feature=4-0.508reply_feature=6-0.391interjectionFeature=4-0.342reply_feature=8+0.258kissingEmoticon...
+              -0.636interjectionFeature=3-0.561worriedEmoticon+0.342interjectionFeature=4-0.261reply_feature=6-0.223reply_feature=4...
+              0.697worriedEmoticon-0.561interjectionFeature=3-0.28reply_feature=4-0.17reply_feature=5-0.155interjectionFeature=4...
+              0.542winkingEmoticon+0.394interjectionFeature=4-0.356exclamationFeature+0.303interjectionFeature=2+0.267reply_feature=4...
+              -0.402reply_feature=8+0.377winkingEmoticon-0.354triumphEmoticon-0.33sadEmoticon-0.325reply_feature=2...
+              -0.567sadEmoticon+0.382reply_feature=5-0.323kissingEmoticon-0.311reply_feature=3-0.304neutralEmoticon...
+              0.45 neutralEmoticon+0.437reply_feature=5-0.37exclamationFeature-0.332smirkingEmoticon-0.312triumphEmoticon...
+              0.434winkingEmoticon+0.388smilingEmoticon-0.363interjectionFeature=4-0.313surpriseEmoticon-0.293neutralEmoticon...
+              0.472interjectionFeature=2-0.38triumphEmoticon-0.373reply_feature=5-0.364kissingEmoticon-0.327reply_feature=3...
+              -0.713tiredEmoticon+0.552smirkingEmoticon+0.242reply_feature=2-0.167surpriseEmoticon+0.13 reply_feature=5...
+              -0.655angryEmoticon+0.454smirkingEmoticon+0.33 neutralEmoticon+0.235sadEmoticon+0.229smilingEmoticon...
+              -0.463exclamationFeature+0.461surpriseEmoticon+0.362tongueStickOutEmoticon-0.327smirkingEmoticon-0.262tiredEmoticon...
+              classname
+Test mode:10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Naive Bayes Classifier
+
+                                                                                                                                Class
+Attribute                                                                                                                           0       1
+                                                                                                                                (0.5)   (0.5)
+==============================================================================================================================================
+-0.511interjectionFeature=0+0.475interjectionFeature=1-0.467reply_feature=0+0.425reply_feature=1+0.195exclamationFeature...
+  mean                                                                                                                          -0.318   0.304
+  std. dev.                                                                                                                     1.2234  1.5607
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                     0.0463  0.0463
+
+-0.514reply_feature=0+0.484reply_feature=1+0.482interjectionFeature=0-0.471interjectionFeature=1+0.114reply_feature=2...
+  mean                                                                                                                          0.2305 -0.2201
+  std. dev.                                                                                                                     1.1473  1.5755
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                      0.043   0.043
+
+-0.514fearEmoticon-0.497tongueStickOutEmoticon-0.422angryEmoticon-0.368smirkingEmoticon-0.334tiredEmoticon...
+  mean                                                                                                                         -0.0179 -0.1052
+  std. dev.                                                                                                                     0.6041  1.6676
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                     0.4798  0.4798
+
+-0.432smilingEmoticon-0.409interjectionFeature=2-0.297reply_feature=5-0.289reply_feature=2-0.266kissingEmoticon...
+  mean                                                                                                                          0.0794 -0.0846
+  std. dev.                                                                                                                     0.8568  1.2263
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                      0.136   0.136
+
+0.654reply_feature=2+0.462winkingEmoticon-0.282interjectionFeature=2-0.275smilingEmoticon-0.222reply_feature=1...
+  mean                                                                                                                          0.0417  0.0288
+  std. dev.                                                                                                                     0.8203  1.2361
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                      0.361   0.361
+
+0.413surpriseEmoticon-0.407smilingEmoticon+0.334interjectionFeature=2+0.324reply_feature=5-0.316interjectionFeature=4...
+  mean                                                                                                                          0.0602 -0.0275
+  std. dev.                                                                                                                     0.9158  1.1334
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                     0.2791  0.2791
+
+0.405sadEmoticon-0.396triumphEmoticon+0.375reply_feature=5+0.297exclamationFeature-0.286reply_feature=3...
+  mean                                                                                                                          0.0753 -0.0904
+  std. dev.                                                                                                                     0.9778  1.0486
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                     0.1762  0.1762
+
+-0.47neutralEmoticon-0.443triumphEmoticon+0.378reply_feature=3-0.275exclamationFeature-0.26surpriseEmoticon...
+  mean                                                                                                                           0.123  -0.098
+  std. dev.                                                                                                                     0.7054  1.2481
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                     0.1713  0.1713
+
+0.486reply_feature=8-0.405sadEmoticon+0.37 reply_feature=4-0.303triumphEmoticon-0.284reply_feature=5...
+  mean                                                                                                                         -0.1322  0.0196
+  std. dev.                                                                                                                     0.8809  1.1116
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                     0.3673  0.3673
+
+-0.48reply_feature=4+0.464kissingEmoticon-0.419reply_feature=6+0.345interjectionFeature=3-0.313reply_feature=3...
+  mean                                                                                                                         -0.0542 -0.0133
+  std. dev.                                                                                                                     0.8621  1.1347
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                     0.2119  0.2119
+
+0.498reply_feature=8+0.467kissingEmoticon+0.403reply_feature=6-0.388reply_feature=3-0.316interjectionFeature=4...
+  mean                                                                                                                         -0.0215 -0.0247
+  std. dev.                                                                                                                      0.798  1.1596
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                     0.4091  0.4091
+
+0.562reply_feature=4-0.508reply_feature=6-0.391interjectionFeature=4-0.342reply_feature=8+0.258kissingEmoticon...
+  mean                                                                                                                          -0.015 -0.0116
+  std. dev.                                                                                                                     0.9122   1.084
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                     0.2694  0.2694
+
+-0.636interjectionFeature=3-0.561worriedEmoticon+0.342interjectionFeature=4-0.261reply_feature=6-0.223reply_feature=4...
+  mean                                                                                                                         -0.0061 -0.0513
+  std. dev.                                                                                                                     0.8806  1.1051
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                     0.2624  0.2624
+
+0.697worriedEmoticon-0.561interjectionFeature=3-0.28reply_feature=4-0.17reply_feature=5-0.155interjectionFeature=4...
+  mean                                                                                                                          0.0407  0.0413
+  std. dev.                                                                                                                     0.9235    1.07
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                     0.2307  0.2307
+
+0.542winkingEmoticon+0.394interjectionFeature=4-0.356exclamationFeature+0.303interjectionFeature=2+0.267reply_feature=4...
+  mean                                                                                                                         -0.0019 -0.0862
+  std. dev.                                                                                                                     0.7807  1.1733
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                      0.333   0.333
+
+-0.402reply_feature=8+0.377winkingEmoticon-0.354triumphEmoticon-0.33sadEmoticon-0.325reply_feature=2...
+  mean                                                                                                                         -0.1136  0.0271
+  std. dev.                                                                                                                     0.7281  1.1833
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                      0.427   0.427
+
+-0.567sadEmoticon+0.382reply_feature=5-0.323kissingEmoticon-0.311reply_feature=3-0.304neutralEmoticon...
+  mean                                                                                                                         -0.0772  0.0423
+  std. dev.                                                                                                                     1.0574  0.9096
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                     0.1877  0.1877
+
+0.45 neutralEmoticon+0.437reply_feature=5-0.37exclamationFeature-0.332smirkingEmoticon-0.312triumphEmoticon...
+  mean                                                                                                                          0.0476 -0.0162
+  std. dev.                                                                                                                     0.7818  1.1486
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                     0.1886  0.1886
+
+0.434winkingEmoticon+0.388smilingEmoticon-0.363interjectionFeature=4-0.313surpriseEmoticon-0.293neutralEmoticon...
+  mean                                                                                                                          0.0169  0.0204
+  std. dev.                                                                                                                     0.7028  1.1935
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                     0.3756  0.3756
+
+0.472interjectionFeature=2-0.38triumphEmoticon-0.373reply_feature=5-0.364kissingEmoticon-0.327reply_feature=3...
+  mean                                                                                                                         -0.0149  0.0347
+  std. dev.                                                                                                                     0.7727  1.1299
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                     0.1536  0.1536
+
+-0.713tiredEmoticon+0.552smirkingEmoticon+0.242reply_feature=2-0.167surpriseEmoticon+0.13 reply_feature=5...
+  mean                                                                                                                         -0.0617 -0.0124
+  std. dev.                                                                                                                     0.9269  0.9803
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                     0.1969  0.1969
+
+-0.655angryEmoticon+0.454smirkingEmoticon+0.33 neutralEmoticon+0.235sadEmoticon+0.229smilingEmoticon...
+  mean                                                                                                                          0.0513 -0.0064
+  std. dev.                                                                                                                     0.6159  1.1813
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                     0.1996  0.1996
+
+-0.463exclamationFeature+0.461surpriseEmoticon+0.362tongueStickOutEmoticon-0.327smirkingEmoticon-0.262tiredEmoticon...
+  mean                                                                                                                         -0.0198 -0.0248
+  std. dev.                                                                                                                     0.7144  1.1143
+  weight sum                                                                                                                      5000    5000
+  precision                                                                                                                      0.207   0.207
+
+
+
+Time taken to build model: 0.62 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        5382               53.82   %
+Incorrectly Classified Instances      4618               46.18   %
+Kappa statistic                          0.0764
+Mean absolute error                      0.4582
+Root mean squared error                  0.6632
+Relative absolute error                 91.6311 %
+Root relative squared error            132.6356 %
+Total Number of Instances            10000     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.925     0.849      0.522     0.925     0.667      0.609    0
+                 0.151     0.075      0.669     0.151     0.246      0.609    1
+Weighted Avg.    0.538     0.462      0.595     0.538     0.457      0.609
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 4627  373 |    a = 0
+ 4245  755 |    b = 1
+
+
+=== Re-evaluation on test set ===
+
+User supplied test set
+Relation:     Twitter-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.PrincipalComponents -R 0.95 -A 5-Sweka.attributeSelection.Ranker -T -1.7976931348623157E308 -N -1
+Instances:     unknown (yet). Reading incrementally
+Attributes:   24
+
+=== Summary ===
+
+Correctly Classified Instances        1047               52.35   %
+Incorrectly Classified Instances       953               47.65   %
+Kappa statistic                          0.047 
+Mean absolute error                      0.4725
+Root mean squared error                  0.6729
+Total Number of Instances             2000     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.91      0.863      0.513     0.91      0.656      0.584    0
+                 0.137     0.09       0.604     0.137     0.223      0.584    1
+Weighted Avg.    0.524     0.477      0.558     0.524     0.44       0.584
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 910  90 |   a = 0
+ 863 137 |   b = 1
+

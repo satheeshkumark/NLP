@@ -1,0 +1,163 @@
+😀
+😁☺
+😂☺
+😃
+→☺
+☺
+😄
+😅
+😆☺
+😇
+😈
+😉☺
+😊
+
+
+
+Happy
+
+smilingEmoticonsList = ['😊 ', '😃', '😁 ', '😄 ','😂 ', '😅', '😀', '😆', '😇', '😈', '😉', '😉', '😋 ', '😌', '😍', '😎', '😥', '😸', '😹', '😹', '😺', '😻', '😼', '🙅']
+
+smirkingEmoticonsList = ['😏', '😬']
+
+neutralEmoticonsList = ['😐', '😑', '😒', '']
+
+worriedEmoticonsList = ['😓', '😰','😞']
+
+sadEmoticonsList = ['😔', '😟', '😢', '😣', '😧', '😭', '😰', '😿']
+
+kissingEmoticonsList = ['😗', '😘', '😙', '😚', '😽 ']
+
+tongueStuckOutEmoticons = ['😝', '😜', '😝']
+
+angryEmoticonsList = ['😠','😡', '😾']
+
+triumphEmoticonList = ['😤']
+
+fearEmoticonsList = ['😨', '😱']
+
+tiredEmoticonsList = ['😩', '😪', '😫', '😴', '😵', '🙀']
+
+surpriseEmoticonsList = ['😮', '😲', '😳', '😶']
+
+
+
+
+U+1F600 	GRINNING FACE (U+1F600) 	😀 	symbola
+U+1F601 	GRINNING FACE WITH SMILING EYES (U+1F601) 	😁 	dejavu_sans
+U+1F602 	FACE WITH TEARS OF JOY (U+1F602) 	😂 	dejavu_sans
+U+1F603 	SMILING FACE WITH OPEN MOUTH (U+1F603) 	😃 	dejavu_sans
+U+1F604 	SMILING FACE WITH OPEN MOUTH AND SMILING EYES (U+1F604) 	😄 	dejavu_sans
+U+1F605 	SMILING FACE WITH OPEN MOUTH AND COLD SWEAT (U+1F605) 	😅 	dejavu_sans
+U+1F606 	SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES (U+1F606) 	😆 	dejavu_sans
+U+1F607 	SMILING FACE WITH HALO (U+1F607) 	😇 	dejavu_sans
+U+1F608 	SMILING FACE WITH HORNS (U+1F608) 	😈 	dejavu_sans
+U+1F609 	WINKING FACE (U+1F609) 	😉 	dejavu_sans
+U+1F60A 	SMILING FACE WITH SMILING EYES (U+1F60A) 	😊 	dejavu_sans
+U+1F60B 	FACE SAVOURING DELICIOUS FOOD (U+1F60B) 	😋 	dejavu_sans
+U+1F60C 	RELIEVED FACE (U+1F60C) 	😌 	dejavu_sans
+U+1F60D 	SMILING FACE WITH HEART-SHAPED EYES (U+1F60D) 	😍 	dejavu_sans
+U+1F60E 	SMILING FACE WITH SUNGLASSES (U+1F60E) 	😎 	dejavu_sans
+
+U+1F60F 	SMIRKING FACE (U+1F60F) 	😏 	dejavu_sans
+
+U+1F610 	NEUTRAL FACE (U+1F610) 	😐 	dejavu_sans
+U+1F611 	EXPRESSIONLESS FACE (U+1F611) 	😑 	symbola
+U+1F612 	UNAMUSED FACE (U+1F612) 	😒 	dejavu_sans
+
+U+1F613 	FACE WITH COLD SWEAT (U+1F613) 	😓 	dejavu_sans
+
+
+
+U+1F614 	PENSIVE FACE (U+1F614) 	😔 	dejavu_sans
+
+
+U+1F615 	CONFUSED FACE (U+1F615) 	😕 	symbola
+U+1F616 	CONFOUNDED FACE (U+1F616) 	😖 	dejavu_sans
+
+
+U+1F617 	KISSING FACE (U+1F617) 	😗 	symbola
+U+1F618 	FACE THROWING A KISS (U+1F618) 	😘 	dejavu_sans
+U+1F619 	KISSING FACE WITH SMILING EYES (U+1F619) 	😙 	symbola
+U+1F61A 	KISSING FACE WITH CLOSED EYES (U+1F61A) 	😚 	dejavu_sans
+
+
+U+1F61B 	FACE WITH STUCK-OUT TONGUE (U+1F61B) 	😛 	symbola
+U+1F61C 	FACE WITH STUCK-OUT TONGUE AND WINKING EYE (U+1F61C) 	😜 	dejavu_sans
+U+1F61D 	FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES (U+1F61D) 	😝 	dejavu_sans
+
+
+U+1F61E 	DISAPPOINTED FACE (U+1F61E) 	😞 	dejavu_sans
+U+1F61F 	WORRIED FACE (U+1F61F) 	😟 	symbola
+
+U+1F620 	ANGRY FACE (U+1F620) 	😠 	dejavu_sans
+U+1F621 	POUTING FACE (U+1F621) 	😡 	dejavu_sans
+
+
+U+1F622 	CRYING FACE (U+1F622) 	😢 	dejavu_sans
+
+U+1F623 	PERSEVERING FACE (U+1F623) 	😣 	dejavu_sans
+
+
+U+1F624 	FACE WITH LOOK OF TRIUMPH (U+1F624) 	😤 	symbola
+
+U+1F625 	DISAPPOINTED BUT RELIEVED FACE (U+1F625) 	😥 	dejavu_sans
+
+
+U+1F626 	FROWNING FACE WITH OPEN MOUTH (U+1F626) 	😦 	symbola
+
+U+1F627 	ANGUISHED FACE (U+1F627) 	😧 	symbola
+
+
+U+1F628 	FEARFUL FACE (U+1F628) 	😨 	dejavu_sans
+
+U+1F629 	WEARY FACE (U+1F629) 	😩 	dejavu_sans
+U+1F62A 	SLEEPY FACE (U+1F62A) 	😪 	dejavu_sans
+U+1F62B 	TIRED FACE (U+1F62B) 	😫 	dejavu_sans
+
+U+1F62C 	GRIMACING FACE (U+1F62C) 	😬 	symbola
+
+U+1F62D 	LOUDLY CRYING FACE (U+1F62D) 	😭 	dejavu_sans
+
+
+U+1F62E 	FACE WITH OPEN MOUTH (U+1F62E) 	😮 	symbola
+U+1F62F 	HUSHED FACE (U+1F62F) 	😯 	symbola
+
+U+1F630 	FACE WITH OPEN MOUTH AND COLD SWEAT (U+1F630) 	😰 	dejavu_sans
+
+
+U+1F631 	FACE SCREAMING IN FEAR (U+1F631) 	😱 	dejavu_sans
+U+1F632 	ASTONISHED FACE (U+1F632) 	😲 	dejavu_sans
+
+
+U+1F633 	FLUSHED FACE (U+1F633) 	😳 	dejavu_sans
+
+U+1F634 	SLEEPING FACE (U+1F634) 	😴 	symbola
+U+1F635 	DIZZY FACE (U+1F635) 	😵 	dejavu_sans
+U+1F636 	FACE WITHOUT MOUTH (U+1F636) 	😶 	dejavu_sans
+
+
+U+1F637 	FACE WITH MEDICAL MASK (U+1F637) 	😷 	dejavu_sans
+U+1F638 	GRINNING CAT FACE WITH SMILING EYES (U+1F638) 	😸 	dejavu_sans
+U+1F639 	CAT FACE WITH TEARS OF JOY (U+1F639) 	😹 	dejavu_sans
+U+1F63A 	SMILING CAT FACE WITH OPEN MOUTH (U+1F63A) 	😺 	dejavu_sans
+U+1F63B 	SMILING CAT FACE WITH HEART-SHAPED EYES (U+1F63B) 	😻 	dejavu_sans
+U+1F63C 	CAT FACE WITH WRY SMILE (U+1F63C) 	😼 	dejavu_sans
+
+U+1F63D 	KISSING CAT FACE WITH CLOSED EYES (U+1F63D) 	😽 	dejavu_sans
+
+U+1F63E 	POUTING CAT FACE (U+1F63E) 	😾 	dejavu_sans
+U+1F63F 	CRYING CAT FACE (U+1F63F) 	😿 	dejavu_sans
+U+1F640 	WEARY CAT FACE (U+1F640) 	🙀 	dejavu_sans
+
+U+1F645 	FACE WITH NO GOOD GESTURE (U+1F645) 	🙅 	symbola
+U+1F646 	FACE WITH OK GESTURE (U+1F646) 	🙆 	symbola
+U+1F647 	PERSON BOWING DEEPLY (U+1F647) 	🙇 	symbola
+U+1F648 	SEE-NO-EVIL MONKEY (U+1F648) 	🙈 	symbola
+U+1F649 	HEAR-NO-EVIL MONKEY (U+1F649) 	🙉 	symbola
+U+1F64A 	SPEAK-NO-EVIL MONKEY (U+1F64A) 	🙊 	symbola
+U+1F64B 	HAPPY PERSON RAISING ONE HAND (U+1F64B) 	🙋 	symbola
+U+1F64C 	PERSON RAISING BOTH HANDS IN CELEBRATION (U+1F64C) 	🙌 	symbola
+U+1F64D 	PERSON FROWNING (U+1F64D) 	🙍 	symbola
+U+1F64E 	PERSON WITH POUTING FACE (U+1F64E) 	🙎 	symbola
+U+1F64F 	PERSON WITH FOLDED HANDS (U+1F64F) 	🙏 	symbola
